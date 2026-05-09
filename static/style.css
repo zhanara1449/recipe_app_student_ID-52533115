@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+    background-color: #fff8f0;
+}
+
+h1 {
+    color: darkred;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+th {
+    background-color: darkred;
+    color: white;
+}
+
+nav a {
+    margin-right: 15px;
+}

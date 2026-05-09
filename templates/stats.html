@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Recipes by Cuisine</h2>
+
+<table border="1">
+
+<tr>
+    <th>Cuisine</th>
+    <th>Total Recipes</th>
+</tr>
+
+{% for row in stats %}
+
+<tr>
+    <td>{{ row[0] }}</td>
+    <td>{{ row[1] }}</td>
+</tr>
+
+{% endfor %}
+
+</table>
+
+{% endblock %}

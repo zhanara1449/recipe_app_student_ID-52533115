@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Search Recipes</h2>
+
+<form method="POST">
+
+    Name:
+    <input type="text" name="name">
+
+    Cuisine:
+    <input type="text" name="cuisine">
+
+    <button type="submit">Search</button>
+
+</form>
+
+<br>
+
+<table border="1">
+
+<tr>
+    <th>Name</th>
+    <th>Cuisine</th>
+</tr>
+
+{% for row in results %}
+
+<tr>
+    <td>
+        <a href="/recipe/{{ row[0] }}">
+            {{ row[1] }}
+        </a>
+    </td>
+
+    <td>{{ row[2] }}</td>
+</tr>
+
+{% endfor %}
+
+</table>
+
+{% endblock %}

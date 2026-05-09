@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>{{ recipe[1] }}</h2>
+
+<p><b>Cuisine:</b> {{ recipe[2] }}</p>
+
+<p><b>Ingredients:</b></p>
+<p>{{ recipe[3] }}</p>
+
+<p><b>Instructions:</b></p>
+<p>{{ recipe[4] }}</p>
+
+<hr>
+
+<h3>Reviews</h3>
+
+{% for review in reviews %}
+
+<p>
+<b>{{ review[0] }}</b>
+(Rating: {{ review[1] }}/5)
+</p>
+
+<p>{{ review[2] }}</p>
+
+<hr>
+
+{% endfor %}
+
+{% endblock %}
