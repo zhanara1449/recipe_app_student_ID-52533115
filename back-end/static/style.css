@@ -1,4 +1,8 @@
 body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 20px;
+}
 
 h1 {
     color: darkred;
@@ -53,7 +57,7 @@ nav a:hover {
 }
 
 .search-form button:hover {
-    background-color: red;
+background-color: red;
 }
 
 table {
