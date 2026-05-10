@@ -1,0 +1,6048 @@
+ingredient_id,recipe_id,ingredient_name,quantity,unit
+1,1,Carrot,5,pieces
+2,1,Beef,313,g
+3,1,Chili Powder,3,tsp
+4,1,Soy Sauce,1,tbsp
+5,1,Cream,230,ml
+6,1,Mushroom,114,g
+7,2,Garlic,3,cloves
+8,2,Mushroom,496,g
+9,2,Cheese,156,g
+10,2,Olive Oil,3,tbsp
+11,2,Onion,5,pieces
+12,3,Butter,64,g
+13,3,Carrot,3,pieces
+14,3,Garlic,1,cloves
+15,3,Olive Oil,5,tbsp
+16,3,Milk,340,ml
+17,3,Egg,9,pieces
+18,3,Salt,1,tsp
+19,3,Rice,259,g
+20,4,Carrot,6,pieces
+21,4,Beef,501,g
+22,4,Butter,559,g
+23,4,Egg,4,pieces
+24,5,Egg,2,pieces
+25,5,Carrot,1,pieces
+26,5,Cream,322,ml
+27,5,Butter,560,g
+28,6,Beef,570,g
+29,6,Mushroom,735,g
+30,6,Garlic,2,cloves
+31,6,Cream,67,ml
+32,6,Tomato,4,pieces
+33,6,Cheese,75,g
+34,7,Beef,629,g
+35,7,Egg,3,pieces
+36,7,Soy Sauce,3,tbsp
+37,7,Salt,1,tsp
+38,7,Potato,3,pieces
+39,7,Onion,2,pieces
+40,7,Chicken,101,g
+41,8,Soy Sauce,5,tbsp
+42,8,Garlic,1,cloves
+43,8,Rice,677,g
+44,8,Olive Oil,4,tbsp
+45,8,Carrot,9,pieces
+46,8,Butter,701,g
+47,9,Olive Oil,4,tbsp
+48,9,Pepper,3,tsp
+49,9,Potato,10,pieces
+50,9,Salt,3,tsp
+51,9,Pasta,400,g
+52,9,Milk,184,ml
+53,9,Cream,79,ml
+54,9,Carrot,10,pieces
+55,10,Carrot,9,pieces
+56,10,Cream,238,ml
+57,10,Onion,9,pieces
+58,10,Potato,5,pieces
+59,10,Cheese,517,g
+60,10,Pasta,472,g
+61,10,Garlic,3,cloves
+62,11,Cheese,565,g
+63,11,Rice,687,g
+64,11,Salt,2,tsp
+65,11,Soy Sauce,1,tbsp
+66,11,Chili Powder,3,tsp
+67,11,Pasta,490,g
+68,12,Pepper,2,tsp
+69,12,Cheese,174,g
+70,12,Chili Powder,3,tsp
+71,12,Cream,117,ml
+72,12,Chicken,476,g
+73,12,Potato,1,pieces
+74,13,Pasta,541,g
+75,13,Salt,2,tsp
+76,13,Butter,445,g
+77,13,Pepper,3,tsp
+78,13,Chicken,527,g
+79,13,Egg,9,pieces
+80,14,Pasta,271,g
+81,14,Egg,8,pieces
+82,14,Tomato,2,pieces
+83,14,Chicken,458,g
+84,14,Olive Oil,4,tbsp
+85,15,Cheese,172,g
+86,15,Chicken,521,g
+87,15,Chili Powder,2,tsp
+88,15,Garlic,2,cloves
+89,15,Cream,464,ml
+90,15,Pasta,613,g
+91,15,Mushroom,595,g
+92,16,Chili Powder,1,tsp
+93,16,Garlic,3,cloves
+94,16,Egg,6,pieces
+95,16,Cheese,774,g
+96,16,Pasta,462,g
+97,17,Beef,706,g
+98,17,Potato,1,pieces
+99,17,Onion,10,pieces
+100,17,Chicken,479,g
+101,18,Tomato,4,pieces
+102,18,Chicken,281,g
+103,18,Milk,370,ml
+104,18,Pasta,106,g
+105,18,Onion,7,pieces
+106,18,Garlic,1,cloves
+107,18,Cheese,295,g
+108,19,Pasta,592,g
+109,19,Onion,9,pieces
+110,19,Chicken,210,g
+111,19,Tomato,2,pieces
+112,19,Potato,2,pieces
+113,19,Salt,1,tsp
+114,19,Garlic,2,cloves
+115,19,Egg,10,pieces
+116,20,Pepper,1,tsp
+117,20,Soy Sauce,1,tbsp
+118,20,Cheese,388,g
+119,20,Milk,57,ml
+120,20,Butter,559,g
+121,20,Chili Powder,3,tsp
+122,20,Carrot,2,pieces
+123,20,Rice,194,g
+124,21,Rice,482,g
+125,21,Mushroom,476,g
+126,21,Pasta,69,g
+127,21,Potato,7,pieces
+128,21,Garlic,2,cloves
+129,21,Milk,341,ml
+130,22,Garlic,1,cloves
+131,22,Cream,323,ml
+132,22,Pasta,782,g
+133,22,Milk,170,ml
+134,22,Egg,5,pieces
+135,22,Soy Sauce,5,tbsp
+136,22,Onion,6,pieces
+137,22,Chili Powder,3,tsp
+138,23,Egg,3,pieces
+139,23,Beef,168,g
+140,23,Milk,302,ml
+141,23,Tomato,6,pieces
+142,23,Potato,4,pieces
+143,24,Chili Powder,2,tsp
+144,24,Mushroom,98,g
+145,24,Soy Sauce,1,tbsp
+146,24,Egg,4,pieces
+147,24,Chicken,702,g
+148,24,Milk,297,ml
+149,24,Butter,511,g
+150,25,Milk,308,ml
+151,25,Potato,3,pieces
+152,25,Pepper,3,tsp
+153,25,Garlic,3,cloves
+154,25,Chicken,103,g
+155,25,Mushroom,535,g
+156,26,Potato,4,pieces
+157,26,Garlic,2,cloves
+158,26,Milk,344,ml
+159,26,Olive Oil,3,tbsp
+160,26,Salt,1,tsp
+161,27,Olive Oil,4,tbsp
+162,27,Cheese,328,g
+163,27,Soy Sauce,2,tbsp
+164,27,Chili Powder,1,tsp
+165,27,Tomato,7,pieces
+166,27,Beef,194,g
+167,27,Pasta,746,g
+168,27,Salt,3,tsp
+169,28,Cream,323,ml
+170,28,Beef,72,g
+171,28,Carrot,5,pieces
+172,28,Onion,10,pieces
+173,28,Tomato,3,pieces
+174,28,Olive Oil,4,tbsp
+175,28,Mushroom,128,g
+176,28,Egg,8,pieces
+177,29,Salt,3,tsp
+178,29,Onion,6,pieces
+179,29,Milk,196,ml
+180,29,Pasta,151,g
+181,29,Potato,5,pieces
+182,29,Egg,2,pieces
+183,29,Chicken,557,g
+184,30,Rice,773,g
+185,30,Cheese,70,g
+186,30,Mushroom,452,g
+187,30,Carrot,7,pieces
+188,30,Olive Oil,2,tbsp
+189,30,Soy Sauce,2,tbsp
+190,31,Chili Powder,2,tsp
+191,31,Mushroom,738,g
+192,31,Chicken,610,g
+193,31,Pasta,632,g
+194,31,Olive Oil,1,tbsp
+195,32,Mushroom,145,g
+196,32,Tomato,6,pieces
+197,32,Garlic,3,cloves
+198,32,Rice,773,g
+199,32,Milk,79,ml
+200,32,Salt,3,tsp
+201,32,Butter,255,g
+202,32,Pasta,707,g
+203,33,Milk,399,ml
+204,33,Mushroom,262,g
+205,33,Soy Sauce,2,tbsp
+206,33,Cheese,534,g
+207,33,Potato,5,pieces
+208,33,Salt,2,tsp
+209,33,Garlic,2,cloves
+210,34,Chili Powder,1,tsp
+211,34,Pasta,107,g
+212,34,Tomato,7,pieces
+213,34,Beef,77,g
+214,35,Egg,2,pieces
+215,35,Potato,4,pieces
+216,35,Soy Sauce,4,tbsp
+217,35,Rice,93,g
+218,36,Onion,2,pieces
+219,36,Potato,5,pieces
+220,36,Olive Oil,1,tbsp
+221,36,Salt,2,tsp
+222,36,Butter,469,g
+223,37,Garlic,2,cloves
+224,37,Onion,10,pieces
+225,37,Potato,6,pieces
+226,37,Pasta,144,g
+227,37,Egg,6,pieces
+228,37,Olive Oil,5,tbsp
+229,37,Rice,689,g
+230,37,Chicken,462,g
+231,38,Milk,270,ml
+232,38,Garlic,1,cloves
+233,38,Chili Powder,3,tsp
+234,38,Carrot,7,pieces
+235,39,Chicken,358,g
+236,39,Mushroom,402,g
+237,39,Salt,3,tsp
+238,39,Potato,7,pieces
+239,39,Chili Powder,3,tsp
+240,39,Tomato,2,pieces
+241,39,Onion,6,pieces
+242,40,Egg,3,pieces
+243,40,Pepper,3,tsp
+244,40,Mushroom,761,g
+245,40,Tomato,6,pieces
+246,40,Carrot,2,pieces
+247,40,Soy Sauce,1,tbsp
+248,40,Milk,319,ml
+249,41,Pasta,584,g
+250,41,Chicken,116,g
+251,41,Garlic,1,cloves
+252,41,Milk,472,ml
+253,41,Olive Oil,5,tbsp
+254,41,Onion,6,pieces
+255,41,Cream,163,ml
+256,41,Beef,741,g
+257,42,Mushroom,649,g
+258,42,Soy Sauce,3,tbsp
+259,42,Chicken,241,g
+260,42,Pasta,380,g
+261,43,Potato,10,pieces
+262,43,Carrot,1,pieces
+263,43,Milk,478,ml
+264,43,Tomato,3,pieces
+265,43,Rice,334,g
+266,43,Onion,5,pieces
+267,43,Cream,185,ml
+268,44,Mushroom,110,g
+269,44,Chicken,531,g
+270,44,Tomato,3,pieces
+271,44,Pepper,3,tsp
+272,44,Cream,114,ml
+273,44,Potato,2,pieces
+274,44,Pasta,606,g
+275,44,Milk,446,ml
+276,45,Milk,276,ml
+277,45,Olive Oil,4,tbsp
+278,45,Pepper,3,tsp
+279,45,Cheese,574,g
+280,45,Onion,5,pieces
+281,45,Tomato,5,pieces
+282,46,Butter,80,g
+283,46,Carrot,1,pieces
+284,46,Chicken,367,g
+285,46,Onion,10,pieces
+286,46,Tomato,5,pieces
+287,46,Chili Powder,1,tsp
+288,47,Mushroom,498,g
+289,47,Rice,115,g
+290,47,Butter,659,g
+291,47,Egg,6,pieces
+292,47,Garlic,3,cloves
+293,47,Tomato,4,pieces
+294,47,Cream,159,ml
+295,47,Onion,2,pieces
+296,48,Potato,4,pieces
+297,48,Chili Powder,1,tsp
+298,48,Carrot,9,pieces
+299,48,Mushroom,108,g
+300,48,Tomato,4,pieces
+301,48,Pasta,766,g
+302,48,Chicken,299,g
+303,49,Tomato,3,pieces
+304,49,Carrot,3,pieces
+305,49,Cheese,383,g
+306,49,Chicken,57,g
+307,49,Olive Oil,1,tbsp
+308,49,Egg,2,pieces
+309,50,Carrot,9,pieces
+310,50,Cream,207,ml
+311,50,Milk,328,ml
+312,50,Chicken,142,g
+313,50,Mushroom,754,g
+314,50,Pepper,3,tsp
+315,51,Cream,419,ml
+316,51,Beef,116,g
+317,51,Rice,55,g
+318,51,Olive Oil,3,tbsp
+319,51,Pepper,1,tsp
+320,51,Onion,2,pieces
+321,51,Tomato,2,pieces
+322,52,Salt,3,tsp
+323,52,Potato,3,pieces
+324,52,Garlic,2,cloves
+325,52,Carrot,8,pieces
+326,52,Chicken,61,g
+327,52,Egg,5,pieces
+328,52,Mushroom,192,g
+329,53,Olive Oil,4,tbsp
+330,53,Cheese,764,g
+331,53,Chili Powder,1,tsp
+332,53,Soy Sauce,5,tbsp
+333,53,Potato,7,pieces
+334,53,Chicken,238,g
+335,54,Egg,4,pieces
+336,54,Butter,425,g
+337,54,Rice,408,g
+338,54,Potato,7,pieces
+339,55,Pepper,3,tsp
+340,55,Olive Oil,5,tbsp
+341,55,Potato,7,pieces
+342,55,Soy Sauce,1,tbsp
+343,55,Chili Powder,3,tsp
+344,55,Beef,771,g
+345,56,Cheese,678,g
+346,56,Soy Sauce,2,tbsp
+347,56,Milk,190,ml
+348,56,Olive Oil,2,tbsp
+349,56,Carrot,1,pieces
+350,56,Pepper,1,tsp
+351,57,Garlic,3,cloves
+352,57,Pepper,1,tsp
+353,57,Cream,411,ml
+354,57,Beef,759,g
+355,57,Olive Oil,5,tbsp
+356,58,Mushroom,679,g
+357,58,Cream,239,ml
+358,58,Rice,156,g
+359,58,Garlic,2,cloves
+360,59,Pasta,267,g
+361,59,Carrot,3,pieces
+362,59,Cheese,353,g
+363,59,Mushroom,300,g
+364,59,Pepper,1,tsp
+365,59,Garlic,1,cloves
+366,59,Onion,2,pieces
+367,59,Milk,317,ml
+368,60,Carrot,4,pieces
+369,60,Chicken,388,g
+370,60,Pasta,208,g
+371,60,Tomato,8,pieces
+372,60,Milk,410,ml
+373,60,Potato,2,pieces
+374,61,Carrot,9,pieces
+375,61,Potato,6,pieces
+376,61,Chicken,259,g
+377,61,Soy Sauce,3,tbsp
+378,61,Olive Oil,5,tbsp
+379,61,Tomato,7,pieces
+380,62,Soy Sauce,4,tbsp
+381,62,Beef,150,g
+382,62,Garlic,3,cloves
+383,62,Egg,5,pieces
+384,62,Milk,130,ml
+385,63,Egg,6,pieces
+386,63,Mushroom,129,g
+387,63,Olive Oil,2,tbsp
+388,63,Rice,757,g
+389,63,Milk,327,ml
+390,63,Chili Powder,2,tsp
+391,64,Milk,212,ml
+392,64,Egg,2,pieces
+393,64,Pasta,595,g
+394,64,Rice,390,g
+395,64,Onion,10,pieces
+396,64,Cheese,777,g
+397,64,Mushroom,540,g
+398,65,Mushroom,393,g
+399,65,Potato,4,pieces
+400,65,Soy Sauce,1,tbsp
+401,65,Cheese,786,g
+402,65,Chili Powder,3,tsp
+403,66,Egg,10,pieces
+404,66,Salt,3,tsp
+405,66,Carrot,5,pieces
+406,66,Cream,391,ml
+407,66,Pasta,144,g
+408,66,Tomato,4,pieces
+409,66,Chicken,540,g
+410,66,Milk,305,ml
+411,67,Salt,1,tsp
+412,67,Butter,151,g
+413,67,Pasta,289,g
+414,67,Carrot,6,pieces
+415,67,Mushroom,682,g
+416,68,Cream,147,ml
+417,68,Tomato,3,pieces
+418,68,Cheese,402,g
+419,68,Soy Sauce,5,tbsp
+420,69,Butter,597,g
+421,69,Chicken,479,g
+422,69,Mushroom,474,g
+423,69,Pasta,177,g
+424,69,Cream,408,ml
+425,70,Soy Sauce,1,tbsp
+426,70,Potato,4,pieces
+427,70,Salt,1,tsp
+428,70,Chicken,448,g
+429,71,Egg,4,pieces
+430,71,Carrot,2,pieces
+431,71,Onion,8,pieces
+432,71,Cheese,104,g
+433,71,Chicken,232,g
+434,72,Potato,6,pieces
+435,72,Olive Oil,1,tbsp
+436,72,Onion,8,pieces
+437,72,Salt,2,tsp
+438,72,Carrot,10,pieces
+439,72,Chili Powder,3,tsp
+440,72,Garlic,2,cloves
+441,73,Milk,314,ml
+442,73,Garlic,2,cloves
+443,73,Tomato,10,pieces
+444,73,Potato,8,pieces
+445,73,Pepper,1,tsp
+446,73,Egg,8,pieces
+447,73,Salt,3,tsp
+448,73,Chicken,131,g
+449,74,Tomato,9,pieces
+450,74,Onion,4,pieces
+451,74,Garlic,2,cloves
+452,74,Mushroom,442,g
+453,74,Chili Powder,1,tsp
+454,74,Olive Oil,3,tbsp
+455,74,Milk,72,ml
+456,75,Milk,458,ml
+457,75,Beef,490,g
+458,75,Onion,4,pieces
+459,75,Egg,7,pieces
+460,75,Carrot,9,pieces
+461,75,Pepper,1,tsp
+462,76,Cream,429,ml
+463,76,Tomato,5,pieces
+464,76,Potato,4,pieces
+465,76,Garlic,1,cloves
+466,76,Rice,277,g
+467,77,Pasta,531,g
+468,77,Onion,9,pieces
+469,77,Butter,658,g
+470,77,Tomato,3,pieces
+471,77,Beef,739,g
+472,77,Rice,445,g
+473,77,Olive Oil,1,tbsp
+474,78,Egg,7,pieces
+475,78,Garlic,1,cloves
+476,78,Tomato,9,pieces
+477,78,Pasta,379,g
+478,79,Butter,481,g
+479,79,Garlic,3,cloves
+480,79,Carrot,5,pieces
+481,79,Potato,4,pieces
+482,79,Beef,435,g
+483,79,Rice,126,g
+484,79,Olive Oil,4,tbsp
+485,79,Chicken,564,g
+486,80,Potato,10,pieces
+487,80,Soy Sauce,3,tbsp
+488,80,Chili Powder,2,tsp
+489,80,Rice,247,g
+490,80,Tomato,4,pieces
+491,80,Egg,5,pieces
+492,81,Mushroom,56,g
+493,81,Cheese,601,g
+494,81,Soy Sauce,2,tbsp
+495,81,Egg,3,pieces
+496,81,Salt,2,tsp
+497,81,Pasta,115,g
+498,81,Pepper,3,tsp
+499,81,Chicken,372,g
+500,82,Garlic,2,cloves
+501,82,Milk,340,ml
+502,82,Cheese,670,g
+503,82,Pasta,149,g
+504,82,Carrot,9,pieces
+505,83,Olive Oil,4,tbsp
+506,83,Chili Powder,2,tsp
+507,83,Butter,520,g
+508,83,Rice,214,g
+509,83,Cheese,406,g
+510,84,Cheese,375,g
+511,84,Olive Oil,2,tbsp
+512,84,Beef,61,g
+513,84,Butter,286,g
+514,84,Carrot,2,pieces
+515,84,Onion,6,pieces
+516,85,Pasta,116,g
+517,85,Soy Sauce,2,tbsp
+518,85,Chicken,452,g
+519,85,Milk,391,ml
+520,85,Butter,786,g
+521,86,Salt,1,tsp
+522,86,Pepper,2,tsp
+523,86,Garlic,2,cloves
+524,86,Milk,116,ml
+525,87,Milk,116,ml
+526,87,Carrot,5,pieces
+527,87,Soy Sauce,3,tbsp
+528,87,Tomato,4,pieces
+529,87,Potato,10,pieces
+530,87,Onion,10,pieces
+531,87,Rice,149,g
+532,87,Pasta,317,g
+533,88,Beef,788,g
+534,88,Cream,76,ml
+535,88,Pepper,1,tsp
+536,88,Garlic,1,cloves
+537,89,Salt,3,tsp
+538,89,Olive Oil,5,tbsp
+539,89,Mushroom,123,g
+540,89,Cream,271,ml
+541,90,Carrot,10,pieces
+542,90,Rice,241,g
+543,90,Beef,592,g
+544,90,Potato,3,pieces
+545,91,Olive Oil,3,tbsp
+546,91,Potato,1,pieces
+547,91,Egg,7,pieces
+548,91,Chili Powder,2,tsp
+549,91,Butter,506,g
+550,91,Mushroom,62,g
+551,91,Soy Sauce,4,tbsp
+552,91,Tomato,9,pieces
+553,92,Rice,58,g
+554,92,Cream,69,ml
+555,92,Cheese,259,g
+556,92,Mushroom,241,g
+557,92,Egg,6,pieces
+558,92,Butter,507,g
+559,93,Potato,4,pieces
+560,93,Tomato,2,pieces
+561,93,Pepper,3,tsp
+562,93,Chicken,101,g
+563,94,Chili Powder,2,tsp
+564,94,Soy Sauce,4,tbsp
+565,94,Rice,203,g
+566,94,Cream,485,ml
+567,94,Garlic,3,cloves
+568,94,Carrot,1,pieces
+569,94,Cheese,695,g
+570,95,Carrot,4,pieces
+571,95,Pepper,3,tsp
+572,95,Onion,7,pieces
+573,95,Tomato,7,pieces
+574,95,Egg,8,pieces
+575,95,Beef,145,g
+576,95,Olive Oil,3,tbsp
+577,96,Onion,4,pieces
+578,96,Salt,3,tsp
+579,96,Olive Oil,1,tbsp
+580,96,Beef,166,g
+581,96,Cheese,353,g
+582,97,Tomato,3,pieces
+583,97,Cream,91,ml
+584,97,Mushroom,440,g
+585,97,Olive Oil,2,tbsp
+586,97,Garlic,1,cloves
+587,97,Pepper,3,tsp
+588,98,Pepper,2,tsp
+589,98,Soy Sauce,4,tbsp
+590,98,Rice,585,g
+591,98,Olive Oil,5,tbsp
+592,98,Egg,7,pieces
+593,98,Cheese,789,g
+594,99,Mushroom,141,g
+595,99,Beef,149,g
+596,99,Onion,8,pieces
+597,99,Olive Oil,2,tbsp
+598,99,Chili Powder,2,tsp
+599,100,Salt,3,tsp
+600,100,Rice,277,g
+601,100,Onion,3,pieces
+602,100,Beef,434,g
+603,100,Olive Oil,1,tbsp
+604,100,Egg,9,pieces
+605,100,Mushroom,245,g
+606,101,Butter,523,g
+607,101,Milk,294,ml
+608,101,Cheese,735,g
+609,101,Egg,1,pieces
+610,101,Salt,2,tsp
+611,102,Tomato,10,pieces
+612,102,Cream,414,ml
+613,102,Olive Oil,2,tbsp
+614,102,Carrot,10,pieces
+615,102,Beef,175,g
+616,103,Soy Sauce,3,tbsp
+617,103,Chicken,577,g
+618,103,Butter,112,g
+619,103,Beef,342,g
+620,104,Rice,384,g
+621,104,Carrot,10,pieces
+622,104,Milk,356,ml
+623,104,Salt,1,tsp
+624,104,Chili Powder,1,tsp
+625,104,Olive Oil,4,tbsp
+626,104,Butter,402,g
+627,104,Tomato,5,pieces
+628,105,Butter,738,g
+629,105,Mushroom,784,g
+630,105,Beef,387,g
+631,105,Cream,300,ml
+632,105,Salt,1,tsp
+633,105,Rice,692,g
+634,105,Tomato,9,pieces
+635,106,Potato,3,pieces
+636,106,Salt,3,tsp
+637,106,Carrot,10,pieces
+638,106,Cheese,126,g
+639,107,Olive Oil,5,tbsp
+640,107,Chili Powder,3,tsp
+641,107,Butter,207,g
+642,107,Pepper,3,tsp
+643,107,Chicken,136,g
+644,107,Beef,418,g
+645,107,Cream,315,ml
+646,108,Carrot,6,pieces
+647,108,Rice,571,g
+648,108,Pepper,2,tsp
+649,108,Garlic,3,cloves
+650,108,Milk,213,ml
+651,108,Olive Oil,3,tbsp
+652,108,Egg,2,pieces
+653,108,Cheese,534,g
+654,109,Onion,9,pieces
+655,109,Chili Powder,1,tsp
+656,109,Olive Oil,2,tbsp
+657,109,Egg,3,pieces
+658,109,Rice,423,g
+659,109,Garlic,1,cloves
+660,109,Beef,67,g
+661,109,Cheese,521,g
+662,110,Chili Powder,1,tsp
+663,110,Pepper,1,tsp
+664,110,Pasta,727,g
+665,110,Garlic,2,cloves
+666,110,Rice,294,g
+667,110,Mushroom,718,g
+668,111,Cream,163,ml
+669,111,Onion,9,pieces
+670,111,Chili Powder,3,tsp
+671,111,Tomato,4,pieces
+672,111,Chicken,205,g
+673,112,Butter,179,g
+674,112,Cheese,516,g
+675,112,Rice,603,g
+676,112,Tomato,4,pieces
+677,113,Egg,8,pieces
+678,113,Soy Sauce,3,tbsp
+679,113,Potato,1,pieces
+680,113,Chili Powder,3,tsp
+681,113,Tomato,4,pieces
+682,113,Cheese,196,g
+683,114,Chili Powder,2,tsp
+684,114,Tomato,3,pieces
+685,114,Salt,1,tsp
+686,114,Garlic,3,cloves
+687,114,Cream,344,ml
+688,114,Potato,7,pieces
+689,115,Chili Powder,1,tsp
+690,115,Butter,647,g
+691,115,Rice,252,g
+692,115,Garlic,3,cloves
+693,115,Tomato,7,pieces
+694,115,Mushroom,195,g
+695,115,Salt,2,tsp
+696,115,Pasta,74,g
+697,116,Chicken,650,g
+698,116,Pasta,215,g
+699,116,Rice,295,g
+700,116,Cheese,462,g
+701,116,Soy Sauce,5,tbsp
+702,116,Onion,10,pieces
+703,117,Egg,8,pieces
+704,117,Potato,6,pieces
+705,117,Butter,677,g
+706,117,Pasta,319,g
+707,118,Chili Powder,2,tsp
+708,118,Mushroom,344,g
+709,118,Beef,215,g
+710,118,Pasta,619,g
+711,118,Garlic,2,cloves
+712,118,Olive Oil,4,tbsp
+713,118,Tomato,1,pieces
+714,119,Chicken,216,g
+715,119,Onion,10,pieces
+716,119,Mushroom,386,g
+717,119,Milk,340,ml
+718,120,Garlic,1,cloves
+719,120,Soy Sauce,5,tbsp
+720,120,Carrot,8,pieces
+721,120,Cheese,589,g
+722,120,Chili Powder,2,tsp
+723,120,Potato,6,pieces
+724,120,Salt,1,tsp
+725,121,Tomato,6,pieces
+726,121,Beef,427,g
+727,121,Onion,10,pieces
+728,121,Chili Powder,3,tsp
+729,121,Mushroom,341,g
+730,121,Salt,3,tsp
+731,122,Tomato,8,pieces
+732,122,Butter,537,g
+733,122,Carrot,9,pieces
+734,122,Potato,6,pieces
+735,123,Rice,695,g
+736,123,Soy Sauce,4,tbsp
+737,123,Mushroom,465,g
+738,123,Cream,285,ml
+739,123,Beef,199,g
+740,123,Chili Powder,1,tsp
+741,124,Garlic,3,cloves
+742,124,Cream,280,ml
+743,124,Onion,3,pieces
+744,124,Beef,318,g
+745,124,Cheese,758,g
+746,124,Tomato,5,pieces
+747,124,Butter,632,g
+748,124,Pasta,291,g
+749,125,Chili Powder,2,tsp
+750,125,Tomato,3,pieces
+751,125,Pepper,1,tsp
+752,125,Cream,240,ml
+753,125,Salt,3,tsp
+754,125,Egg,6,pieces
+755,126,Milk,169,ml
+756,126,Egg,8,pieces
+757,126,Chicken,164,g
+758,126,Olive Oil,4,tbsp
+759,126,Potato,7,pieces
+760,126,Beef,416,g
+761,126,Tomato,10,pieces
+762,127,Carrot,2,pieces
+763,127,Chicken,460,g
+764,127,Onion,9,pieces
+765,127,Potato,10,pieces
+766,127,Pasta,729,g
+767,127,Pepper,3,tsp
+768,128,Mushroom,213,g
+769,128,Butter,504,g
+770,128,Soy Sauce,1,tbsp
+771,128,Garlic,1,cloves
+772,128,Chicken,566,g
+773,128,Pepper,1,tsp
+774,128,Cheese,597,g
+775,129,Milk,150,ml
+776,129,Onion,3,pieces
+777,129,Cheese,734,g
+778,129,Potato,5,pieces
+779,129,Cream,138,ml
+780,130,Beef,657,g
+781,130,Cream,423,ml
+782,130,Carrot,1,pieces
+783,130,Chili Powder,1,tsp
+784,130,Garlic,2,cloves
+785,130,Rice,502,g
+786,130,Olive Oil,4,tbsp
+787,130,Pasta,423,g
+788,131,Milk,394,ml
+789,131,Pepper,1,tsp
+790,131,Carrot,2,pieces
+791,131,Potato,5,pieces
+792,131,Tomato,1,pieces
+793,131,Mushroom,188,g
+794,131,Pasta,653,g
+795,131,Chicken,678,g
+796,132,Pepper,1,tsp
+797,132,Olive Oil,4,tbsp
+798,132,Chicken,261,g
+799,132,Milk,441,ml
+800,132,Butter,173,g
+801,132,Cream,439,ml
+802,132,Onion,8,pieces
+803,132,Carrot,8,pieces
+804,133,Pepper,2,tsp
+805,133,Soy Sauce,2,tbsp
+806,133,Cheese,599,g
+807,133,Chicken,604,g
+808,133,Potato,6,pieces
+809,133,Rice,573,g
+810,133,Butter,272,g
+811,134,Pepper,3,tsp
+812,134,Butter,751,g
+813,134,Pasta,191,g
+814,134,Tomato,2,pieces
+815,134,Salt,2,tsp
+816,134,Carrot,1,pieces
+817,134,Soy Sauce,4,tbsp
+818,134,Chili Powder,3,tsp
+819,135,Chicken,440,g
+820,135,Carrot,5,pieces
+821,135,Onion,10,pieces
+822,135,Pepper,3,tsp
+823,135,Egg,8,pieces
+824,135,Potato,9,pieces
+825,136,Salt,3,tsp
+826,136,Pasta,639,g
+827,136,Beef,79,g
+828,136,Garlic,3,cloves
+829,136,Pepper,3,tsp
+830,137,Chili Powder,2,tsp
+831,137,Garlic,1,cloves
+832,137,Cheese,778,g
+833,137,Soy Sauce,1,tbsp
+834,137,Beef,452,g
+835,137,Pepper,3,tsp
+836,137,Milk,103,ml
+837,138,Pasta,664,g
+838,138,Pepper,3,tsp
+839,138,Butter,374,g
+840,138,Garlic,1,cloves
+841,138,Onion,10,pieces
+842,138,Salt,1,tsp
+843,138,Rice,133,g
+844,138,Olive Oil,2,tbsp
+845,139,Soy Sauce,2,tbsp
+846,139,Potato,6,pieces
+847,139,Chicken,235,g
+848,139,Beef,470,g
+849,139,Chili Powder,3,tsp
+850,139,Rice,581,g
+851,139,Cheese,462,g
+852,139,Pasta,703,g
+853,140,Tomato,6,pieces
+854,140,Beef,762,g
+855,140,Egg,8,pieces
+856,140,Chicken,752,g
+857,141,Salt,1,tsp
+858,141,Rice,173,g
+859,141,Olive Oil,5,tbsp
+860,141,Potato,3,pieces
+861,141,Butter,700,g
+862,141,Cheese,152,g
+863,142,Cheese,515,g
+864,142,Milk,368,ml
+865,142,Onion,5,pieces
+866,142,Soy Sauce,2,tbsp
+867,143,Carrot,6,pieces
+868,143,Garlic,3,cloves
+869,143,Tomato,3,pieces
+870,143,Pasta,780,g
+871,143,Salt,3,tsp
+872,143,Onion,7,pieces
+873,144,Rice,490,g
+874,144,Potato,9,pieces
+875,144,Beef,59,g
+876,144,Salt,2,tsp
+877,144,Chicken,486,g
+878,144,Cheese,143,g
+879,144,Mushroom,785,g
+880,144,Pasta,422,g
+881,145,Potato,5,pieces
+882,145,Beef,330,g
+883,145,Cheese,388,g
+884,145,Salt,1,tsp
+885,145,Pasta,94,g
+886,145,Mushroom,223,g
+887,145,Butter,524,g
+888,146,Soy Sauce,5,tbsp
+889,146,Chili Powder,1,tsp
+890,146,Butter,553,g
+891,146,Garlic,2,cloves
+892,146,Onion,5,pieces
+893,146,Carrot,7,pieces
+894,146,Egg,3,pieces
+895,147,Onion,7,pieces
+896,147,Mushroom,575,g
+897,147,Tomato,4,pieces
+898,147,Potato,8,pieces
+899,147,Cream,182,ml
+900,147,Carrot,2,pieces
+901,147,Beef,723,g
+902,147,Olive Oil,4,tbsp
+903,148,Tomato,5,pieces
+904,148,Milk,198,ml
+905,148,Garlic,3,cloves
+906,148,Cream,182,ml
+907,148,Pasta,259,g
+908,149,Milk,356,ml
+909,149,Cheese,385,g
+910,149,Cream,405,ml
+911,149,Egg,8,pieces
+912,149,Salt,1,tsp
+913,149,Rice,579,g
+914,149,Soy Sauce,4,tbsp
+915,150,Salt,2,tsp
+916,150,Tomato,10,pieces
+917,150,Carrot,1,pieces
+918,150,Cheese,648,g
+919,150,Pepper,2,tsp
+920,150,Rice,233,g
+921,150,Soy Sauce,3,tbsp
+922,150,Cream,489,ml
+923,151,Beef,75,g
+924,151,Garlic,1,cloves
+925,151,Rice,179,g
+926,151,Carrot,1,pieces
+927,151,Cheese,460,g
+928,152,Beef,368,g
+929,152,Cheese,345,g
+930,152,Cream,406,ml
+931,152,Rice,676,g
+932,152,Tomato,9,pieces
+933,152,Onion,5,pieces
+934,152,Garlic,1,cloves
+935,152,Olive Oil,5,tbsp
+936,153,Salt,3,tsp
+937,153,Chili Powder,1,tsp
+938,153,Butter,429,g
+939,153,Carrot,5,pieces
+940,153,Cheese,473,g
+941,153,Chicken,85,g
+942,153,Cream,93,ml
+943,154,Rice,401,g
+944,154,Garlic,3,cloves
+945,154,Onion,3,pieces
+946,154,Chili Powder,2,tsp
+947,154,Chicken,607,g
+948,154,Cream,73,ml
+949,154,Cheese,117,g
+950,154,Potato,3,pieces
+951,155,Milk,130,ml
+952,155,Potato,1,pieces
+953,155,Beef,158,g
+954,155,Cheese,70,g
+955,155,Butter,295,g
+956,156,Mushroom,673,g
+957,156,Pasta,439,g
+958,156,Potato,8,pieces
+959,156,Egg,8,pieces
+960,156,Onion,2,pieces
+961,156,Pepper,3,tsp
+962,156,Salt,3,tsp
+963,157,Chicken,528,g
+964,157,Olive Oil,2,tbsp
+965,157,Pepper,1,tsp
+966,157,Chili Powder,3,tsp
+967,157,Potato,2,pieces
+968,158,Cheese,702,g
+969,158,Pasta,706,g
+970,158,Beef,727,g
+971,158,Carrot,6,pieces
+972,158,Pepper,3,tsp
+973,158,Tomato,10,pieces
+974,159,Chicken,106,g
+975,159,Salt,3,tsp
+976,159,Cream,366,ml
+977,159,Garlic,3,cloves
+978,159,Chili Powder,1,tsp
+979,159,Pepper,1,tsp
+980,160,Egg,1,pieces
+981,160,Rice,396,g
+982,160,Salt,2,tsp
+983,160,Cheese,394,g
+984,160,Chicken,777,g
+985,160,Cream,421,ml
+986,160,Butter,409,g
+987,161,Olive Oil,4,tbsp
+988,161,Tomato,5,pieces
+989,161,Butter,353,g
+990,161,Salt,2,tsp
+991,161,Garlic,1,cloves
+992,161,Potato,5,pieces
+993,161,Egg,6,pieces
+994,162,Olive Oil,2,tbsp
+995,162,Soy Sauce,1,tbsp
+996,162,Egg,2,pieces
+997,162,Cheese,127,g
+998,162,Milk,338,ml
+999,162,Carrot,2,pieces
+1000,163,Onion,2,pieces
+1001,163,Chicken,183,g
+1002,163,Butter,324,g
+1003,163,Rice,170,g
+1004,164,Chili Powder,2,tsp
+1005,164,Soy Sauce,1,tbsp
+1006,164,Pepper,3,tsp
+1007,164,Garlic,1,cloves
+1008,164,Beef,703,g
+1009,164,Cream,89,ml
+1010,164,Pasta,140,g
+1011,165,Chicken,427,g
+1012,165,Cream,262,ml
+1013,165,Mushroom,55,g
+1014,165,Tomato,9,pieces
+1015,165,Beef,296,g
+1016,165,Egg,9,pieces
+1017,165,Pepper,1,tsp
+1018,166,Butter,258,g
+1019,166,Tomato,8,pieces
+1020,166,Olive Oil,5,tbsp
+1021,166,Mushroom,426,g
+1022,166,Chicken,559,g
+1023,166,Cheese,230,g
+1024,167,Butter,512,g
+1025,167,Tomato,4,pieces
+1026,167,Chicken,392,g
+1027,167,Pasta,202,g
+1028,167,Carrot,3,pieces
+1029,167,Soy Sauce,2,tbsp
+1030,167,Cheese,586,g
+1031,168,Soy Sauce,5,tbsp
+1032,168,Chili Powder,1,tsp
+1033,168,Chicken,672,g
+1034,168,Butter,781,g
+1035,168,Tomato,3,pieces
+1036,168,Olive Oil,2,tbsp
+1037,168,Cheese,117,g
+1038,168,Garlic,3,cloves
+1039,169,Pepper,2,tsp
+1040,169,Tomato,2,pieces
+1041,169,Pasta,260,g
+1042,169,Potato,8,pieces
+1043,169,Chili Powder,3,tsp
+1044,169,Soy Sauce,2,tbsp
+1045,169,Salt,1,tsp
+1046,170,Garlic,2,cloves
+1047,170,Chili Powder,3,tsp
+1048,170,Tomato,5,pieces
+1049,170,Mushroom,415,g
+1050,171,Milk,287,ml
+1051,171,Chili Powder,1,tsp
+1052,171,Olive Oil,4,tbsp
+1053,171,Salt,1,tsp
+1054,171,Butter,297,g
+1055,172,Beef,128,g
+1056,172,Soy Sauce,3,tbsp
+1057,172,Chili Powder,2,tsp
+1058,172,Onion,7,pieces
+1059,172,Chicken,141,g
+1060,172,Pasta,367,g
+1061,172,Rice,165,g
+1062,173,Butter,508,g
+1063,173,Potato,8,pieces
+1064,173,Rice,157,g
+1065,173,Mushroom,622,g
+1066,174,Garlic,2,cloves
+1067,174,Carrot,6,pieces
+1068,174,Mushroom,326,g
+1069,174,Cheese,76,g
+1070,174,Chicken,254,g
+1071,174,Salt,3,tsp
+1072,174,Potato,3,pieces
+1073,175,Rice,712,g
+1074,175,Cream,432,ml
+1075,175,Pasta,431,g
+1076,175,Olive Oil,2,tbsp
+1077,175,Chicken,313,g
+1078,175,Mushroom,370,g
+1079,176,Cheese,113,g
+1080,176,Soy Sauce,2,tbsp
+1081,176,Butter,335,g
+1082,176,Egg,1,pieces
+1083,176,Carrot,1,pieces
+1084,176,Pasta,334,g
+1085,177,Beef,560,g
+1086,177,Garlic,2,cloves
+1087,177,Pepper,3,tsp
+1088,177,Tomato,2,pieces
+1089,178,Onion,2,pieces
+1090,178,Tomato,4,pieces
+1091,178,Butter,284,g
+1092,178,Olive Oil,5,tbsp
+1093,178,Beef,219,g
+1094,178,Soy Sauce,5,tbsp
+1095,179,Salt,3,tsp
+1096,179,Beef,519,g
+1097,179,Pasta,225,g
+1098,179,Chicken,196,g
+1099,179,Soy Sauce,5,tbsp
+1100,179,Egg,1,pieces
+1101,180,Butter,412,g
+1102,180,Pepper,1,tsp
+1103,180,Chicken,334,g
+1104,180,Tomato,5,pieces
+1105,180,Soy Sauce,2,tbsp
+1106,180,Beef,457,g
+1107,180,Chili Powder,2,tsp
+1108,181,Olive Oil,4,tbsp
+1109,181,Egg,2,pieces
+1110,181,Chicken,565,g
+1111,181,Chili Powder,1,tsp
+1112,182,Beef,210,g
+1113,182,Chicken,122,g
+1114,182,Carrot,2,pieces
+1115,182,Egg,8,pieces
+1116,182,Milk,340,ml
+1117,182,Garlic,1,cloves
+1118,182,Mushroom,412,g
+1119,182,Cream,217,ml
+1120,183,Carrot,2,pieces
+1121,183,Garlic,3,cloves
+1122,183,Cheese,325,g
+1123,183,Soy Sauce,5,tbsp
+1124,183,Chicken,110,g
+1125,183,Salt,3,tsp
+1126,184,Soy Sauce,5,tbsp
+1127,184,Potato,8,pieces
+1128,184,Milk,213,ml
+1129,184,Pepper,1,tsp
+1130,185,Soy Sauce,2,tbsp
+1131,185,Salt,1,tsp
+1132,185,Cheese,628,g
+1133,185,Cream,134,ml
+1134,185,Potato,9,pieces
+1135,185,Butter,51,g
+1136,185,Egg,3,pieces
+1137,185,Olive Oil,2,tbsp
+1138,186,Chili Powder,1,tsp
+1139,186,Potato,7,pieces
+1140,186,Beef,766,g
+1141,186,Rice,484,g
+1142,187,Carrot,5,pieces
+1143,187,Cheese,230,g
+1144,187,Potato,9,pieces
+1145,187,Tomato,1,pieces
+1146,187,Butter,550,g
+1147,188,Garlic,2,cloves
+1148,188,Soy Sauce,1,tbsp
+1149,188,Milk,486,ml
+1150,188,Pasta,545,g
+1151,188,Salt,3,tsp
+1152,188,Tomato,10,pieces
+1153,189,Tomato,6,pieces
+1154,189,Rice,377,g
+1155,189,Cheese,173,g
+1156,189,Pasta,128,g
+1157,189,Pepper,1,tsp
+1158,189,Beef,696,g
+1159,190,Potato,6,pieces
+1160,190,Chili Powder,1,tsp
+1161,190,Tomato,1,pieces
+1162,190,Mushroom,630,g
+1163,191,Soy Sauce,4,tbsp
+1164,191,Cream,209,ml
+1165,191,Chicken,499,g
+1166,191,Olive Oil,1,tbsp
+1167,191,Pepper,2,tsp
+1168,191,Egg,2,pieces
+1169,192,Milk,432,ml
+1170,192,Mushroom,709,g
+1171,192,Soy Sauce,3,tbsp
+1172,192,Onion,9,pieces
+1173,193,Chicken,716,g
+1174,193,Potato,8,pieces
+1175,193,Rice,254,g
+1176,193,Garlic,3,cloves
+1177,193,Pasta,353,g
+1178,193,Salt,1,tsp
+1179,193,Pepper,3,tsp
+1180,194,Rice,762,g
+1181,194,Pasta,89,g
+1182,194,Beef,179,g
+1183,194,Garlic,1,cloves
+1184,194,Soy Sauce,4,tbsp
+1185,194,Potato,4,pieces
+1186,194,Chili Powder,3,tsp
+1187,194,Olive Oil,3,tbsp
+1188,195,Milk,242,ml
+1189,195,Salt,3,tsp
+1190,195,Pasta,273,g
+1191,195,Butter,130,g
+1192,196,Butter,117,g
+1193,196,Cheese,685,g
+1194,196,Beef,131,g
+1195,196,Olive Oil,5,tbsp
+1196,196,Chili Powder,2,tsp
+1197,196,Tomato,8,pieces
+1198,196,Soy Sauce,3,tbsp
+1199,196,Chicken,689,g
+1200,197,Butter,485,g
+1201,197,Olive Oil,5,tbsp
+1202,197,Tomato,9,pieces
+1203,197,Milk,132,ml
+1204,197,Onion,9,pieces
+1205,197,Chicken,148,g
+1206,198,Beef,294,g
+1207,198,Rice,563,g
+1208,198,Cheese,620,g
+1209,198,Carrot,6,pieces
+1210,198,Potato,4,pieces
+1211,198,Pasta,564,g
+1212,199,Garlic,3,cloves
+1213,199,Pasta,577,g
+1214,199,Olive Oil,2,tbsp
+1215,199,Soy Sauce,2,tbsp
+1216,200,Beef,220,g
+1217,200,Cheese,208,g
+1218,200,Pepper,1,tsp
+1219,200,Carrot,8,pieces
+1220,200,Onion,7,pieces
+1221,200,Rice,254,g
+1222,200,Butter,432,g
+1223,200,Chicken,209,g
+1224,201,Onion,8,pieces
+1225,201,Carrot,3,pieces
+1226,201,Potato,4,pieces
+1227,201,Chili Powder,3,tsp
+1228,201,Beef,275,g
+1229,201,Cheese,693,g
+1230,201,Cream,229,ml
+1231,202,Beef,182,g
+1232,202,Pepper,2,tsp
+1233,202,Onion,3,pieces
+1234,202,Rice,252,g
+1235,203,Butter,744,g
+1236,203,Egg,5,pieces
+1237,203,Mushroom,470,g
+1238,203,Chili Powder,2,tsp
+1239,203,Cheese,307,g
+1240,203,Onion,10,pieces
+1241,204,Egg,3,pieces
+1242,204,Beef,497,g
+1243,204,Pasta,321,g
+1244,204,Chicken,799,g
+1245,204,Rice,434,g
+1246,204,Tomato,2,pieces
+1247,204,Salt,1,tsp
+1248,204,Potato,4,pieces
+1249,205,Mushroom,176,g
+1250,205,Garlic,3,cloves
+1251,205,Rice,505,g
+1252,205,Olive Oil,3,tbsp
+1253,205,Potato,1,pieces
+1254,205,Cheese,197,g
+1255,205,Onion,10,pieces
+1256,205,Pepper,3,tsp
+1257,206,Butter,607,g
+1258,206,Olive Oil,1,tbsp
+1259,206,Tomato,10,pieces
+1260,206,Chicken,643,g
+1261,207,Cream,244,ml
+1262,207,Cheese,555,g
+1263,207,Milk,444,ml
+1264,207,Carrot,5,pieces
+1265,207,Mushroom,420,g
+1266,207,Onion,2,pieces
+1267,207,Pasta,324,g
+1268,208,Mushroom,476,g
+1269,208,Pepper,1,tsp
+1270,208,Cream,378,ml
+1271,208,Garlic,1,cloves
+1272,208,Pasta,354,g
+1273,209,Potato,6,pieces
+1274,209,Cheese,509,g
+1275,209,Olive Oil,2,tbsp
+1276,209,Egg,1,pieces
+1277,210,Beef,271,g
+1278,210,Salt,1,tsp
+1279,210,Olive Oil,2,tbsp
+1280,210,Cream,475,ml
+1281,210,Rice,468,g
+1282,210,Chili Powder,2,tsp
+1283,211,Chicken,331,g
+1284,211,Cheese,392,g
+1285,211,Olive Oil,3,tbsp
+1286,211,Pasta,505,g
+1287,211,Garlic,3,cloves
+1288,211,Milk,439,ml
+1289,212,Garlic,3,cloves
+1290,212,Chicken,694,g
+1291,212,Milk,296,ml
+1292,212,Soy Sauce,3,tbsp
+1293,212,Mushroom,718,g
+1294,212,Butter,317,g
+1295,213,Egg,1,pieces
+1296,213,Olive Oil,5,tbsp
+1297,213,Milk,346,ml
+1298,213,Potato,3,pieces
+1299,213,Salt,3,tsp
+1300,213,Cream,255,ml
+1301,213,Tomato,3,pieces
+1302,213,Soy Sauce,2,tbsp
+1303,214,Salt,1,tsp
+1304,214,Rice,447,g
+1305,214,Potato,10,pieces
+1306,214,Cream,290,ml
+1307,214,Milk,118,ml
+1308,214,Egg,5,pieces
+1309,215,Pasta,293,g
+1310,215,Egg,10,pieces
+1311,215,Beef,451,g
+1312,215,Onion,5,pieces
+1313,215,Salt,2,tsp
+1314,215,Carrot,8,pieces
+1315,215,Cream,393,ml
+1316,216,Egg,8,pieces
+1317,216,Milk,337,ml
+1318,216,Cheese,303,g
+1319,216,Beef,278,g
+1320,216,Pasta,73,g
+1321,217,Chili Powder,1,tsp
+1322,217,Cream,428,ml
+1323,217,Egg,8,pieces
+1324,217,Milk,200,ml
+1325,217,Potato,6,pieces
+1326,217,Olive Oil,2,tbsp
+1327,218,Beef,673,g
+1328,218,Olive Oil,3,tbsp
+1329,218,Pepper,3,tsp
+1330,218,Pasta,631,g
+1331,219,Chicken,377,g
+1332,219,Egg,9,pieces
+1333,219,Pasta,358,g
+1334,219,Pepper,1,tsp
+1335,220,Chicken,337,g
+1336,220,Garlic,2,cloves
+1337,220,Soy Sauce,2,tbsp
+1338,220,Tomato,2,pieces
+1339,220,Salt,1,tsp
+1340,220,Egg,5,pieces
+1341,221,Cream,389,ml
+1342,221,Soy Sauce,3,tbsp
+1343,221,Rice,740,g
+1344,221,Carrot,2,pieces
+1345,221,Chili Powder,2,tsp
+1346,221,Tomato,4,pieces
+1347,221,Pasta,373,g
+1348,221,Garlic,2,cloves
+1349,222,Pasta,510,g
+1350,222,Egg,3,pieces
+1351,222,Garlic,2,cloves
+1352,222,Chili Powder,1,tsp
+1353,223,Chicken,541,g
+1354,223,Cheese,198,g
+1355,223,Potato,4,pieces
+1356,223,Chili Powder,3,tsp
+1357,224,Pasta,447,g
+1358,224,Beef,331,g
+1359,224,Salt,3,tsp
+1360,224,Olive Oil,5,tbsp
+1361,224,Cream,213,ml
+1362,224,Butter,760,g
+1363,225,Tomato,6,pieces
+1364,225,Potato,6,pieces
+1365,225,Chili Powder,3,tsp
+1366,225,Beef,663,g
+1367,225,Pepper,3,tsp
+1368,225,Butter,285,g
+1369,226,Potato,6,pieces
+1370,226,Mushroom,87,g
+1371,226,Soy Sauce,1,tbsp
+1372,226,Chili Powder,1,tsp
+1373,227,Soy Sauce,1,tbsp
+1374,227,Butter,747,g
+1375,227,Cheese,93,g
+1376,227,Olive Oil,3,tbsp
+1377,227,Egg,3,pieces
+1378,227,Rice,561,g
+1379,228,Olive Oil,5,tbsp
+1380,228,Butter,743,g
+1381,228,Beef,117,g
+1382,228,Cheese,97,g
+1383,228,Carrot,8,pieces
+1384,228,Mushroom,571,g
+1385,228,Pepper,2,tsp
+1386,228,Garlic,1,cloves
+1387,229,Garlic,3,cloves
+1388,229,Rice,533,g
+1389,229,Cheese,363,g
+1390,229,Salt,3,tsp
+1391,230,Chicken,368,g
+1392,230,Egg,7,pieces
+1393,230,Olive Oil,5,tbsp
+1394,230,Garlic,1,cloves
+1395,230,Onion,3,pieces
+1396,230,Rice,251,g
+1397,230,Tomato,4,pieces
+1398,230,Salt,2,tsp
+1399,231,Chili Powder,2,tsp
+1400,231,Beef,88,g
+1401,231,Mushroom,579,g
+1402,231,Olive Oil,4,tbsp
+1403,231,Pasta,686,g
+1404,231,Carrot,5,pieces
+1405,232,Mushroom,231,g
+1406,232,Salt,2,tsp
+1407,232,Pasta,716,g
+1408,232,Cheese,703,g
+1409,232,Olive Oil,4,tbsp
+1410,233,Salt,1,tsp
+1411,233,Carrot,2,pieces
+1412,233,Butter,544,g
+1413,233,Olive Oil,2,tbsp
+1414,233,Beef,87,g
+1415,233,Onion,1,pieces
+1416,233,Milk,288,ml
+1417,233,Soy Sauce,2,tbsp
+1418,234,Mushroom,758,g
+1419,234,Tomato,6,pieces
+1420,234,Rice,751,g
+1421,234,Pasta,377,g
+1422,234,Egg,6,pieces
+1423,234,Chili Powder,1,tsp
+1424,235,Chicken,289,g
+1425,235,Cream,261,ml
+1426,235,Pasta,436,g
+1427,235,Potato,9,pieces
+1428,235,Butter,133,g
+1429,235,Chili Powder,2,tsp
+1430,236,Milk,195,ml
+1431,236,Carrot,8,pieces
+1432,236,Garlic,3,cloves
+1433,236,Chili Powder,1,tsp
+1434,237,Mushroom,779,g
+1435,237,Tomato,9,pieces
+1436,237,Pepper,1,tsp
+1437,237,Cheese,200,g
+1438,237,Egg,8,pieces
+1439,237,Rice,677,g
+1440,238,Potato,4,pieces
+1441,238,Pasta,645,g
+1442,238,Pepper,3,tsp
+1443,238,Chicken,476,g
+1444,238,Butter,436,g
+1445,239,Garlic,3,cloves
+1446,239,Pasta,279,g
+1447,239,Soy Sauce,4,tbsp
+1448,239,Onion,9,pieces
+1449,239,Egg,10,pieces
+1450,239,Olive Oil,4,tbsp
+1451,239,Butter,527,g
+1452,239,Cream,250,ml
+1453,240,Chili Powder,2,tsp
+1454,240,Olive Oil,3,tbsp
+1455,240,Cheese,477,g
+1456,240,Beef,495,g
+1457,240,Egg,2,pieces
+1458,240,Salt,2,tsp
+1459,241,Rice,622,g
+1460,241,Potato,6,pieces
+1461,241,Cream,169,ml
+1462,241,Onion,3,pieces
+1463,241,Mushroom,266,g
+1464,242,Potato,4,pieces
+1465,242,Tomato,4,pieces
+1466,242,Butter,510,g
+1467,242,Chili Powder,2,tsp
+1468,243,Chicken,441,g
+1469,243,Pasta,438,g
+1470,243,Pepper,1,tsp
+1471,243,Mushroom,253,g
+1472,244,Chicken,488,g
+1473,244,Soy Sauce,3,tbsp
+1474,244,Rice,636,g
+1475,244,Milk,460,ml
+1476,244,Salt,2,tsp
+1477,245,Garlic,3,cloves
+1478,245,Soy Sauce,1,tbsp
+1479,245,Potato,9,pieces
+1480,245,Salt,3,tsp
+1481,245,Pepper,3,tsp
+1482,245,Tomato,6,pieces
+1483,245,Pasta,58,g
+1484,246,Carrot,6,pieces
+1485,246,Onion,3,pieces
+1486,246,Milk,177,ml
+1487,246,Cream,189,ml
+1488,246,Pasta,173,g
+1489,246,Pepper,2,tsp
+1490,247,Olive Oil,1,tbsp
+1491,247,Mushroom,494,g
+1492,247,Milk,410,ml
+1493,247,Cheese,495,g
+1494,247,Pasta,573,g
+1495,247,Potato,5,pieces
+1496,247,Onion,3,pieces
+1497,247,Chicken,706,g
+1498,248,Beef,100,g
+1499,248,Milk,176,ml
+1500,248,Egg,8,pieces
+1501,248,Mushroom,491,g
+1502,248,Rice,543,g
+1503,248,Potato,8,pieces
+1504,248,Carrot,3,pieces
+1505,249,Pasta,444,g
+1506,249,Butter,102,g
+1507,249,Chicken,211,g
+1508,249,Soy Sauce,4,tbsp
+1509,250,Soy Sauce,2,tbsp
+1510,250,Egg,5,pieces
+1511,250,Salt,2,tsp
+1512,250,Milk,442,ml
+1513,250,Carrot,6,pieces
+1514,250,Pasta,596,g
+1515,251,Mushroom,534,g
+1516,251,Pasta,666,g
+1517,251,Cheese,315,g
+1518,251,Tomato,1,pieces
+1519,251,Garlic,1,cloves
+1520,251,Soy Sauce,2,tbsp
+1521,251,Chili Powder,3,tsp
+1522,252,Salt,1,tsp
+1523,252,Milk,235,ml
+1524,252,Mushroom,588,g
+1525,252,Tomato,8,pieces
+1526,252,Butter,153,g
+1527,252,Egg,8,pieces
+1528,253,Salt,2,tsp
+1529,253,Pasta,612,g
+1530,253,Cheese,556,g
+1531,253,Pepper,3,tsp
+1532,253,Potato,4,pieces
+1533,254,Pasta,103,g
+1534,254,Soy Sauce,5,tbsp
+1535,254,Butter,187,g
+1536,254,Pepper,1,tsp
+1537,255,Rice,710,g
+1538,255,Soy Sauce,1,tbsp
+1539,255,Pepper,2,tsp
+1540,255,Cheese,52,g
+1541,255,Mushroom,583,g
+1542,256,Egg,7,pieces
+1543,256,Salt,1,tsp
+1544,256,Garlic,1,cloves
+1545,256,Beef,550,g
+1546,256,Chili Powder,1,tsp
+1547,256,Rice,410,g
+1548,256,Milk,494,ml
+1549,257,Cheese,150,g
+1550,257,Cream,474,ml
+1551,257,Rice,97,g
+1552,257,Tomato,1,pieces
+1553,257,Soy Sauce,4,tbsp
+1554,258,Butter,687,g
+1555,258,Chili Powder,3,tsp
+1556,258,Tomato,10,pieces
+1557,258,Salt,3,tsp
+1558,259,Egg,3,pieces
+1559,259,Chili Powder,1,tsp
+1560,259,Potato,8,pieces
+1561,259,Milk,180,ml
+1562,259,Chicken,71,g
+1563,260,Cheese,154,g
+1564,260,Carrot,5,pieces
+1565,260,Chicken,193,g
+1566,260,Olive Oil,3,tbsp
+1567,260,Pepper,2,tsp
+1568,260,Tomato,5,pieces
+1569,260,Chili Powder,3,tsp
+1570,261,Carrot,7,pieces
+1571,261,Pasta,746,g
+1572,261,Salt,3,tsp
+1573,261,Mushroom,210,g
+1574,261,Potato,6,pieces
+1575,261,Cream,286,ml
+1576,262,Chili Powder,1,tsp
+1577,262,Carrot,4,pieces
+1578,262,Mushroom,648,g
+1579,262,Tomato,9,pieces
+1580,262,Milk,220,ml
+1581,262,Garlic,3,cloves
+1582,262,Onion,10,pieces
+1583,263,Onion,6,pieces
+1584,263,Pasta,786,g
+1585,263,Olive Oil,3,tbsp
+1586,263,Tomato,10,pieces
+1587,264,Rice,768,g
+1588,264,Potato,3,pieces
+1589,264,Cream,88,ml
+1590,264,Garlic,3,cloves
+1591,264,Pasta,328,g
+1592,265,Butter,409,g
+1593,265,Rice,411,g
+1594,265,Beef,59,g
+1595,265,Cream,326,ml
+1596,265,Soy Sauce,1,tbsp
+1597,266,Mushroom,636,g
+1598,266,Pasta,525,g
+1599,266,Egg,3,pieces
+1600,266,Chicken,678,g
+1601,266,Milk,270,ml
+1602,266,Cheese,352,g
+1603,266,Butter,353,g
+1604,266,Rice,591,g
+1605,267,Butter,614,g
+1606,267,Chicken,528,g
+1607,267,Rice,203,g
+1608,267,Milk,97,ml
+1609,267,Soy Sauce,4,tbsp
+1610,268,Rice,185,g
+1611,268,Pepper,1,tsp
+1612,268,Pasta,372,g
+1613,268,Olive Oil,1,tbsp
+1614,268,Garlic,1,cloves
+1615,268,Tomato,2,pieces
+1616,269,Milk,462,ml
+1617,269,Chicken,494,g
+1618,269,Soy Sauce,4,tbsp
+1619,269,Chili Powder,3,tsp
+1620,269,Egg,2,pieces
+1621,269,Mushroom,131,g
+1622,269,Onion,1,pieces
+1623,270,Butter,284,g
+1624,270,Garlic,2,cloves
+1625,270,Salt,3,tsp
+1626,270,Chili Powder,2,tsp
+1627,270,Beef,283,g
+1628,270,Onion,6,pieces
+1629,271,Cheese,98,g
+1630,271,Garlic,3,cloves
+1631,271,Chicken,627,g
+1632,271,Butter,310,g
+1633,272,Egg,8,pieces
+1634,272,Onion,1,pieces
+1635,272,Soy Sauce,5,tbsp
+1636,272,Salt,2,tsp
+1637,272,Chicken,575,g
+1638,272,Tomato,6,pieces
+1639,272,Milk,234,ml
+1640,272,Pepper,2,tsp
+1641,273,Cheese,125,g
+1642,273,Carrot,6,pieces
+1643,273,Tomato,6,pieces
+1644,273,Mushroom,630,g
+1645,273,Chili Powder,3,tsp
+1646,273,Garlic,1,cloves
+1647,274,Soy Sauce,3,tbsp
+1648,274,Egg,3,pieces
+1649,274,Chicken,171,g
+1650,274,Cream,317,ml
+1651,274,Tomato,1,pieces
+1652,274,Chili Powder,3,tsp
+1653,274,Pasta,285,g
+1654,275,Chili Powder,1,tsp
+1655,275,Beef,384,g
+1656,275,Cheese,655,g
+1657,275,Garlic,1,cloves
+1658,275,Potato,10,pieces
+1659,275,Butter,68,g
+1660,275,Carrot,8,pieces
+1661,276,Cheese,555,g
+1662,276,Soy Sauce,1,tbsp
+1663,276,Milk,388,ml
+1664,276,Beef,199,g
+1665,276,Pasta,726,g
+1666,276,Chicken,430,g
+1667,277,Garlic,1,cloves
+1668,277,Pasta,63,g
+1669,277,Chili Powder,1,tsp
+1670,277,Egg,9,pieces
+1671,277,Onion,2,pieces
+1672,277,Cream,319,ml
+1673,277,Rice,460,g
+1674,277,Carrot,8,pieces
+1675,278,Milk,192,ml
+1676,278,Butter,768,g
+1677,278,Soy Sauce,4,tbsp
+1678,278,Onion,5,pieces
+1679,278,Salt,2,tsp
+1680,279,Carrot,5,pieces
+1681,279,Chicken,541,g
+1682,279,Tomato,8,pieces
+1683,279,Pasta,213,g
+1684,279,Garlic,2,cloves
+1685,280,Chicken,703,g
+1686,280,Olive Oil,1,tbsp
+1687,280,Egg,5,pieces
+1688,280,Pepper,3,tsp
+1689,280,Rice,422,g
+1690,280,Potato,6,pieces
+1691,280,Milk,232,ml
+1692,281,Rice,798,g
+1693,281,Beef,735,g
+1694,281,Mushroom,142,g
+1695,281,Pepper,1,tsp
+1696,282,Chicken,779,g
+1697,282,Potato,4,pieces
+1698,282,Butter,74,g
+1699,282,Olive Oil,5,tbsp
+1700,282,Onion,5,pieces
+1701,282,Garlic,3,cloves
+1702,282,Beef,117,g
+1703,283,Soy Sauce,1,tbsp
+1704,283,Egg,10,pieces
+1705,283,Onion,2,pieces
+1706,283,Carrot,1,pieces
+1707,283,Rice,450,g
+1708,283,Potato,1,pieces
+1709,283,Salt,3,tsp
+1710,284,Chicken,151,g
+1711,284,Pepper,2,tsp
+1712,284,Rice,285,g
+1713,284,Cream,237,ml
+1714,284,Olive Oil,5,tbsp
+1715,284,Egg,10,pieces
+1716,284,Potato,8,pieces
+1717,285,Cheese,488,g
+1718,285,Cream,295,ml
+1719,285,Pepper,1,tsp
+1720,285,Potato,1,pieces
+1721,285,Mushroom,539,g
+1722,285,Soy Sauce,5,tbsp
+1723,286,Olive Oil,4,tbsp
+1724,286,Carrot,4,pieces
+1725,286,Tomato,7,pieces
+1726,286,Onion,6,pieces
+1727,286,Soy Sauce,2,tbsp
+1728,286,Cheese,61,g
+1729,286,Chili Powder,1,tsp
+1730,287,Egg,9,pieces
+1731,287,Pasta,462,g
+1732,287,Onion,2,pieces
+1733,287,Pepper,3,tsp
+1734,287,Soy Sauce,4,tbsp
+1735,288,Garlic,1,cloves
+1736,288,Pepper,3,tsp
+1737,288,Cream,179,ml
+1738,288,Egg,6,pieces
+1739,289,Chicken,129,g
+1740,289,Cream,337,ml
+1741,289,Butter,411,g
+1742,289,Olive Oil,3,tbsp
+1743,290,Pasta,663,g
+1744,290,Chicken,562,g
+1745,290,Carrot,4,pieces
+1746,290,Rice,288,g
+1747,290,Potato,3,pieces
+1748,290,Tomato,6,pieces
+1749,290,Olive Oil,1,tbsp
+1750,291,Chili Powder,2,tsp
+1751,291,Butter,612,g
+1752,291,Cream,402,ml
+1753,291,Milk,300,ml
+1754,291,Beef,691,g
+1755,291,Garlic,2,cloves
+1756,291,Olive Oil,1,tbsp
+1757,292,Chicken,361,g
+1758,292,Salt,2,tsp
+1759,292,Cream,210,ml
+1760,292,Milk,498,ml
+1761,292,Soy Sauce,5,tbsp
+1762,292,Carrot,5,pieces
+1763,292,Beef,785,g
+1764,292,Pasta,505,g
+1765,293,Tomato,4,pieces
+1766,293,Milk,252,ml
+1767,293,Pasta,107,g
+1768,293,Butter,710,g
+1769,293,Chili Powder,1,tsp
+1770,293,Cheese,440,g
+1771,293,Potato,8,pieces
+1772,294,Cheese,679,g
+1773,294,Beef,689,g
+1774,294,Egg,6,pieces
+1775,294,Garlic,1,cloves
+1776,294,Salt,3,tsp
+1777,294,Pasta,530,g
+1778,295,Cream,152,ml
+1779,295,Onion,3,pieces
+1780,295,Carrot,6,pieces
+1781,295,Egg,2,pieces
+1782,295,Pasta,449,g
+1783,295,Potato,5,pieces
+1784,296,Soy Sauce,4,tbsp
+1785,296,Chicken,425,g
+1786,296,Egg,8,pieces
+1787,296,Rice,554,g
+1788,296,Butter,86,g
+1789,296,Cheese,595,g
+1790,296,Pepper,3,tsp
+1791,296,Cream,169,ml
+1792,297,Butter,390,g
+1793,297,Chicken,553,g
+1794,297,Salt,1,tsp
+1795,297,Cheese,762,g
+1796,297,Chili Powder,1,tsp
+1797,297,Cream,336,ml
+1798,297,Onion,6,pieces
+1799,298,Carrot,4,pieces
+1800,298,Chicken,335,g
+1801,298,Salt,3,tsp
+1802,298,Egg,7,pieces
+1803,298,Onion,6,pieces
+1804,298,Olive Oil,5,tbsp
+1805,298,Tomato,10,pieces
+1806,298,Beef,593,g
+1807,299,Cream,131,ml
+1808,299,Beef,164,g
+1809,299,Carrot,8,pieces
+1810,299,Rice,736,g
+1811,299,Tomato,9,pieces
+1812,299,Milk,214,ml
+1813,299,Pepper,2,tsp
+1814,299,Chicken,718,g
+1815,300,Cream,136,ml
+1816,300,Potato,1,pieces
+1817,300,Pepper,2,tsp
+1818,300,Chicken,626,g
+1819,300,Chili Powder,3,tsp
+1820,300,Cheese,593,g
+1821,300,Milk,329,ml
+1822,301,Rice,242,g
+1823,301,Cheese,758,g
+1824,301,Butter,599,g
+1825,301,Olive Oil,3,tbsp
+1826,301,Egg,10,pieces
+1827,301,Carrot,1,pieces
+1828,302,Mushroom,714,g
+1829,302,Beef,622,g
+1830,302,Carrot,3,pieces
+1831,302,Chili Powder,2,tsp
+1832,302,Potato,5,pieces
+1833,302,Chicken,264,g
+1834,303,Tomato,10,pieces
+1835,303,Egg,10,pieces
+1836,303,Cream,232,ml
+1837,303,Carrot,7,pieces
+1838,304,Carrot,1,pieces
+1839,304,Beef,456,g
+1840,304,Chili Powder,2,tsp
+1841,304,Chicken,186,g
+1842,304,Potato,1,pieces
+1843,304,Cheese,445,g
+1844,304,Pasta,776,g
+1845,305,Butter,582,g
+1846,305,Carrot,10,pieces
+1847,305,Pasta,289,g
+1848,305,Milk,288,ml
+1849,305,Cheese,785,g
+1850,305,Chili Powder,3,tsp
+1851,305,Chicken,699,g
+1852,305,Tomato,4,pieces
+1853,306,Cheese,672,g
+1854,306,Egg,7,pieces
+1855,306,Onion,8,pieces
+1856,306,Mushroom,650,g
+1857,307,Garlic,3,cloves
+1858,307,Rice,764,g
+1859,307,Pepper,1,tsp
+1860,307,Butter,309,g
+1861,307,Cheese,177,g
+1862,307,Chili Powder,2,tsp
+1863,307,Cream,125,ml
+1864,308,Garlic,3,cloves
+1865,308,Pepper,1,tsp
+1866,308,Olive Oil,3,tbsp
+1867,308,Onion,2,pieces
+1868,308,Milk,196,ml
+1869,308,Cream,411,ml
+1870,309,Chicken,620,g
+1871,309,Pasta,176,g
+1872,309,Cheese,114,g
+1873,309,Cream,396,ml
+1874,309,Butter,752,g
+1875,309,Egg,6,pieces
+1876,309,Salt,2,tsp
+1877,309,Garlic,1,cloves
+1878,310,Pasta,406,g
+1879,310,Soy Sauce,5,tbsp
+1880,310,Cream,265,ml
+1881,310,Mushroom,51,g
+1882,310,Tomato,10,pieces
+1883,310,Pepper,1,tsp
+1884,311,Milk,435,ml
+1885,311,Cheese,784,g
+1886,311,Rice,678,g
+1887,311,Olive Oil,2,tbsp
+1888,312,Cheese,390,g
+1889,312,Chili Powder,3,tsp
+1890,312,Chicken,341,g
+1891,312,Garlic,3,cloves
+1892,313,Salt,2,tsp
+1893,313,Chicken,457,g
+1894,313,Pasta,167,g
+1895,313,Tomato,6,pieces
+1896,313,Chili Powder,2,tsp
+1897,313,Beef,419,g
+1898,314,Egg,8,pieces
+1899,314,Rice,754,g
+1900,314,Butter,713,g
+1901,314,Onion,6,pieces
+1902,314,Soy Sauce,3,tbsp
+1903,314,Olive Oil,3,tbsp
+1904,315,Mushroom,499,g
+1905,315,Rice,511,g
+1906,315,Potato,4,pieces
+1907,315,Milk,452,ml
+1908,315,Onion,6,pieces
+1909,315,Butter,690,g
+1910,315,Cream,417,ml
+1911,316,Mushroom,592,g
+1912,316,Chicken,354,g
+1913,316,Pasta,798,g
+1914,316,Potato,9,pieces
+1915,317,Egg,6,pieces
+1916,317,Butter,92,g
+1917,317,Cream,214,ml
+1918,317,Mushroom,605,g
+1919,317,Carrot,2,pieces
+1920,317,Beef,53,g
+1921,317,Chicken,361,g
+1922,318,Beef,543,g
+1923,318,Salt,2,tsp
+1924,318,Rice,126,g
+1925,318,Carrot,3,pieces
+1926,318,Milk,342,ml
+1927,318,Potato,4,pieces
+1928,318,Chili Powder,2,tsp
+1929,318,Olive Oil,2,tbsp
+1930,319,Potato,9,pieces
+1931,319,Egg,1,pieces
+1932,319,Rice,196,g
+1933,319,Mushroom,327,g
+1934,319,Beef,163,g
+1935,320,Potato,2,pieces
+1936,320,Butter,194,g
+1937,320,Cream,412,ml
+1938,320,Milk,415,ml
+1939,320,Pepper,2,tsp
+1940,320,Rice,687,g
+1941,321,Rice,638,g
+1942,321,Carrot,5,pieces
+1943,321,Cheese,232,g
+1944,321,Beef,337,g
+1945,321,Tomato,10,pieces
+1946,321,Chili Powder,3,tsp
+1947,321,Mushroom,208,g
+1948,321,Cream,234,ml
+1949,322,Salt,2,tsp
+1950,322,Mushroom,679,g
+1951,322,Chili Powder,1,tsp
+1952,322,Rice,599,g
+1953,323,Rice,419,g
+1954,323,Tomato,10,pieces
+1955,323,Milk,152,ml
+1956,323,Egg,7,pieces
+1957,323,Butter,728,g
+1958,323,Mushroom,592,g
+1959,324,Potato,4,pieces
+1960,324,Tomato,9,pieces
+1961,324,Cheese,200,g
+1962,324,Pasta,500,g
+1963,324,Egg,4,pieces
+1964,324,Chicken,121,g
+1965,325,Mushroom,156,g
+1966,325,Pasta,341,g
+1967,325,Butter,495,g
+1968,325,Olive Oil,3,tbsp
+1969,325,Cheese,63,g
+1970,325,Onion,3,pieces
+1971,325,Rice,121,g
+1972,325,Salt,2,tsp
+1973,326,Butter,522,g
+1974,326,Carrot,4,pieces
+1975,326,Rice,619,g
+1976,326,Onion,6,pieces
+1977,326,Potato,2,pieces
+1978,327,Mushroom,523,g
+1979,327,Pepper,2,tsp
+1980,327,Soy Sauce,2,tbsp
+1981,327,Milk,72,ml
+1982,328,Olive Oil,1,tbsp
+1983,328,Soy Sauce,3,tbsp
+1984,328,Beef,117,g
+1985,328,Pepper,2,tsp
+1986,328,Egg,10,pieces
+1987,329,Onion,7,pieces
+1988,329,Potato,4,pieces
+1989,329,Tomato,3,pieces
+1990,329,Garlic,2,cloves
+1991,329,Mushroom,545,g
+1992,329,Cheese,260,g
+1993,330,Garlic,1,cloves
+1994,330,Rice,594,g
+1995,330,Cream,479,ml
+1996,330,Pepper,1,tsp
+1997,330,Salt,3,tsp
+1998,331,Egg,3,pieces
+1999,331,Garlic,3,cloves
+2000,331,Milk,155,ml
+2001,331,Cheese,131,g
+2002,331,Soy Sauce,4,tbsp
+2003,331,Beef,585,g
+2004,332,Egg,3,pieces
+2005,332,Cheese,80,g
+2006,332,Cream,218,ml
+2007,332,Tomato,4,pieces
+2008,332,Chicken,753,g
+2009,332,Salt,1,tsp
+2010,332,Milk,119,ml
+2011,332,Soy Sauce,4,tbsp
+2012,333,Rice,169,g
+2013,333,Garlic,3,cloves
+2014,333,Soy Sauce,2,tbsp
+2015,333,Beef,650,g
+2016,333,Salt,2,tsp
+2017,333,Onion,9,pieces
+2018,334,Mushroom,65,g
+2019,334,Onion,3,pieces
+2020,334,Cream,51,ml
+2021,334,Rice,197,g
+2022,334,Beef,450,g
+2023,334,Milk,407,ml
+2024,334,Cheese,469,g
+2025,335,Chicken,672,g
+2026,335,Salt,1,tsp
+2027,335,Olive Oil,2,tbsp
+2028,335,Rice,597,g
+2029,335,Butter,741,g
+2030,335,Cheese,310,g
+2031,335,Milk,58,ml
+2032,336,Egg,9,pieces
+2033,336,Butter,188,g
+2034,336,Tomato,10,pieces
+2035,336,Olive Oil,4,tbsp
+2036,336,Chicken,781,g
+2037,336,Salt,1,tsp
+2038,337,Potato,7,pieces
+2039,337,Carrot,6,pieces
+2040,337,Cheese,131,g
+2041,337,Milk,322,ml
+2042,338,Soy Sauce,4,tbsp
+2043,338,Potato,2,pieces
+2044,338,Carrot,6,pieces
+2045,338,Milk,197,ml
+2046,338,Tomato,3,pieces
+2047,338,Chili Powder,1,tsp
+2048,338,Mushroom,742,g
+2049,339,Carrot,4,pieces
+2050,339,Onion,10,pieces
+2051,339,Cheese,523,g
+2052,339,Milk,447,ml
+2053,339,Chili Powder,2,tsp
+2054,340,Tomato,8,pieces
+2055,340,Soy Sauce,5,tbsp
+2056,340,Mushroom,417,g
+2057,340,Rice,137,g
+2058,340,Pepper,3,tsp
+2059,340,Egg,9,pieces
+2060,341,Carrot,4,pieces
+2061,341,Salt,3,tsp
+2062,341,Butter,673,g
+2063,341,Rice,377,g
+2064,341,Potato,8,pieces
+2065,342,Pasta,366,g
+2066,342,Potato,7,pieces
+2067,342,Olive Oil,4,tbsp
+2068,342,Onion,4,pieces
+2069,343,Cream,437,ml
+2070,343,Rice,190,g
+2071,343,Olive Oil,4,tbsp
+2072,343,Carrot,1,pieces
+2073,344,Garlic,1,cloves
+2074,344,Rice,770,g
+2075,344,Olive Oil,3,tbsp
+2076,344,Butter,341,g
+2077,344,Cream,195,ml
+2078,344,Pasta,99,g
+2079,344,Pepper,1,tsp
+2080,344,Chicken,604,g
+2081,345,Butter,711,g
+2082,345,Chili Powder,3,tsp
+2083,345,Chicken,531,g
+2084,345,Tomato,3,pieces
+2085,346,Carrot,5,pieces
+2086,346,Chili Powder,2,tsp
+2087,346,Milk,387,ml
+2088,346,Olive Oil,2,tbsp
+2089,346,Salt,2,tsp
+2090,346,Onion,6,pieces
+2091,346,Cream,194,ml
+2092,347,Salt,3,tsp
+2093,347,Beef,658,g
+2094,347,Pasta,176,g
+2095,347,Chili Powder,2,tsp
+2096,348,Garlic,2,cloves
+2097,348,Chili Powder,1,tsp
+2098,348,Soy Sauce,4,tbsp
+2099,348,Carrot,2,pieces
+2100,348,Pepper,1,tsp
+2101,348,Salt,3,tsp
+2102,349,Garlic,1,cloves
+2103,349,Rice,736,g
+2104,349,Pepper,1,tsp
+2105,349,Mushroom,149,g
+2106,349,Butter,356,g
+2107,349,Salt,1,tsp
+2108,349,Chili Powder,1,tsp
+2109,350,Onion,6,pieces
+2110,350,Chicken,383,g
+2111,350,Salt,3,tsp
+2112,350,Cream,413,ml
+2113,350,Mushroom,470,g
+2114,350,Chili Powder,1,tsp
+2115,350,Butter,575,g
+2116,351,Garlic,2,cloves
+2117,351,Pasta,129,g
+2118,351,Chili Powder,1,tsp
+2119,351,Cream,487,ml
+2120,351,Soy Sauce,1,tbsp
+2121,351,Salt,1,tsp
+2122,352,Onion,2,pieces
+2123,352,Pepper,1,tsp
+2124,352,Beef,688,g
+2125,352,Mushroom,451,g
+2126,352,Cheese,434,g
+2127,352,Butter,209,g
+2128,353,Cream,369,ml
+2129,353,Egg,2,pieces
+2130,353,Mushroom,399,g
+2131,353,Butter,221,g
+2132,353,Milk,280,ml
+2133,354,Olive Oil,1,tbsp
+2134,354,Tomato,4,pieces
+2135,354,Potato,4,pieces
+2136,354,Egg,2,pieces
+2137,354,Cream,156,ml
+2138,354,Mushroom,791,g
+2139,355,Garlic,2,cloves
+2140,355,Pasta,783,g
+2141,355,Salt,1,tsp
+2142,355,Tomato,4,pieces
+2143,355,Cream,158,ml
+2144,355,Beef,420,g
+2145,356,Salt,2,tsp
+2146,356,Tomato,5,pieces
+2147,356,Chili Powder,3,tsp
+2148,356,Olive Oil,1,tbsp
+2149,357,Carrot,3,pieces
+2150,357,Salt,2,tsp
+2151,357,Egg,2,pieces
+2152,357,Milk,342,ml
+2153,357,Chili Powder,1,tsp
+2154,357,Potato,10,pieces
+2155,357,Rice,385,g
+2156,358,Tomato,1,pieces
+2157,358,Onion,4,pieces
+2158,358,Rice,462,g
+2159,358,Chicken,228,g
+2160,358,Butter,335,g
+2161,359,Potato,10,pieces
+2162,359,Soy Sauce,1,tbsp
+2163,359,Butter,72,g
+2164,359,Onion,9,pieces
+2165,359,Olive Oil,4,tbsp
+2166,360,Cream,485,ml
+2167,360,Cheese,221,g
+2168,360,Pepper,1,tsp
+2169,360,Tomato,8,pieces
+2170,360,Egg,5,pieces
+2171,361,Milk,308,ml
+2172,361,Beef,275,g
+2173,361,Butter,96,g
+2174,361,Pepper,1,tsp
+2175,361,Cream,320,ml
+2176,361,Soy Sauce,2,tbsp
+2177,361,Carrot,8,pieces
+2178,361,Pasta,528,g
+2179,362,Cream,368,ml
+2180,362,Olive Oil,4,tbsp
+2181,362,Chicken,749,g
+2182,362,Butter,57,g
+2183,362,Rice,108,g
+2184,362,Pepper,2,tsp
+2185,362,Mushroom,258,g
+2186,362,Onion,5,pieces
+2187,363,Chicken,558,g
+2188,363,Mushroom,606,g
+2189,363,Olive Oil,1,tbsp
+2190,363,Pepper,2,tsp
+2191,363,Cream,469,ml
+2192,363,Beef,215,g
+2193,364,Garlic,3,cloves
+2194,364,Cream,76,ml
+2195,364,Tomato,9,pieces
+2196,364,Pasta,284,g
+2197,364,Pepper,1,tsp
+2198,364,Beef,494,g
+2199,364,Chili Powder,1,tsp
+2200,365,Beef,462,g
+2201,365,Mushroom,711,g
+2202,365,Soy Sauce,4,tbsp
+2203,365,Egg,4,pieces
+2204,366,Carrot,4,pieces
+2205,366,Egg,10,pieces
+2206,366,Salt,1,tsp
+2207,366,Beef,636,g
+2208,366,Potato,4,pieces
+2209,366,Olive Oil,1,tbsp
+2210,367,Cheese,113,g
+2211,367,Milk,420,ml
+2212,367,Rice,571,g
+2213,367,Onion,4,pieces
+2214,367,Beef,286,g
+2215,367,Chili Powder,1,tsp
+2216,367,Chicken,107,g
+2217,368,Mushroom,517,g
+2218,368,Egg,8,pieces
+2219,368,Potato,2,pieces
+2220,368,Salt,3,tsp
+2221,368,Pasta,378,g
+2222,369,Garlic,2,cloves
+2223,369,Milk,408,ml
+2224,369,Chicken,541,g
+2225,369,Pepper,2,tsp
+2226,369,Cream,76,ml
+2227,369,Egg,2,pieces
+2228,369,Soy Sauce,5,tbsp
+2229,369,Onion,9,pieces
+2230,370,Pasta,419,g
+2231,370,Cheese,258,g
+2232,370,Mushroom,746,g
+2233,370,Onion,8,pieces
+2234,370,Butter,520,g
+2235,370,Cream,443,ml
+2236,370,Chicken,580,g
+2237,371,Cream,486,ml
+2238,371,Tomato,3,pieces
+2239,371,Butter,343,g
+2240,371,Mushroom,623,g
+2241,371,Milk,321,ml
+2242,371,Chicken,495,g
+2243,371,Onion,3,pieces
+2244,372,Salt,2,tsp
+2245,372,Onion,9,pieces
+2246,372,Cream,425,ml
+2247,372,Garlic,3,cloves
+2248,372,Potato,2,pieces
+2249,372,Butter,427,g
+2250,372,Pepper,2,tsp
+2251,372,Beef,163,g
+2252,373,Mushroom,752,g
+2253,373,Cheese,795,g
+2254,373,Beef,403,g
+2255,373,Butter,677,g
+2256,374,Cheese,687,g
+2257,374,Salt,1,tsp
+2258,374,Potato,9,pieces
+2259,374,Chili Powder,3,tsp
+2260,375,Cream,325,ml
+2261,375,Milk,303,ml
+2262,375,Potato,4,pieces
+2263,375,Pepper,2,tsp
+2264,375,Mushroom,349,g
+2265,375,Pasta,459,g
+2266,375,Tomato,8,pieces
+2267,375,Chili Powder,1,tsp
+2268,376,Pepper,3,tsp
+2269,376,Beef,460,g
+2270,376,Chicken,582,g
+2271,376,Pasta,626,g
+2272,376,Carrot,10,pieces
+2273,376,Cream,124,ml
+2274,377,Rice,199,g
+2275,377,Pepper,2,tsp
+2276,377,Tomato,4,pieces
+2277,377,Chili Powder,1,tsp
+2278,377,Pasta,508,g
+2279,377,Beef,616,g
+2280,377,Garlic,1,cloves
+2281,377,Butter,97,g
+2282,378,Butter,667,g
+2283,378,Carrot,1,pieces
+2284,378,Garlic,3,cloves
+2285,378,Beef,620,g
+2286,379,Pasta,192,g
+2287,379,Cream,337,ml
+2288,379,Rice,461,g
+2289,379,Garlic,1,cloves
+2290,379,Milk,385,ml
+2291,379,Chicken,200,g
+2292,379,Butter,284,g
+2293,380,Potato,3,pieces
+2294,380,Cheese,496,g
+2295,380,Chicken,161,g
+2296,380,Pepper,2,tsp
+2297,380,Milk,324,ml
+2298,380,Butter,393,g
+2299,380,Beef,175,g
+2300,380,Rice,730,g
+2301,381,Olive Oil,4,tbsp
+2302,381,Egg,5,pieces
+2303,381,Mushroom,524,g
+2304,381,Potato,3,pieces
+2305,381,Rice,600,g
+2306,381,Garlic,2,cloves
+2307,381,Pasta,566,g
+2308,381,Cheese,568,g
+2309,382,Chili Powder,1,tsp
+2310,382,Egg,4,pieces
+2311,382,Salt,1,tsp
+2312,382,Rice,444,g
+2313,382,Beef,506,g
+2314,382,Mushroom,205,g
+2315,382,Pasta,418,g
+2316,382,Olive Oil,3,tbsp
+2317,383,Pepper,3,tsp
+2318,383,Chicken,751,g
+2319,383,Potato,9,pieces
+2320,383,Carrot,8,pieces
+2321,384,Rice,453,g
+2322,384,Cream,375,ml
+2323,384,Salt,2,tsp
+2324,384,Butter,496,g
+2325,385,Pepper,3,tsp
+2326,385,Garlic,1,cloves
+2327,385,Soy Sauce,1,tbsp
+2328,385,Onion,2,pieces
+2329,385,Pasta,315,g
+2330,385,Salt,3,tsp
+2331,386,Olive Oil,4,tbsp
+2332,386,Potato,7,pieces
+2333,386,Cheese,653,g
+2334,386,Mushroom,82,g
+2335,386,Salt,3,tsp
+2336,387,Garlic,3,cloves
+2337,387,Pepper,2,tsp
+2338,387,Potato,10,pieces
+2339,387,Chicken,288,g
+2340,387,Butter,733,g
+2341,387,Onion,1,pieces
+2342,388,Soy Sauce,5,tbsp
+2343,388,Pasta,605,g
+2344,388,Chicken,56,g
+2345,388,Cheese,430,g
+2346,388,Potato,4,pieces
+2347,388,Beef,221,g
+2348,389,Olive Oil,5,tbsp
+2349,389,Cheese,784,g
+2350,389,Butter,158,g
+2351,389,Pepper,3,tsp
+2352,389,Pasta,506,g
+2353,389,Carrot,1,pieces
+2354,390,Mushroom,338,g
+2355,390,Carrot,1,pieces
+2356,390,Egg,10,pieces
+2357,390,Soy Sauce,2,tbsp
+2358,391,Soy Sauce,1,tbsp
+2359,391,Salt,2,tsp
+2360,391,Chili Powder,1,tsp
+2361,391,Cream,71,ml
+2362,391,Milk,148,ml
+2363,391,Mushroom,791,g
+2364,392,Pepper,3,tsp
+2365,392,Rice,235,g
+2366,392,Potato,7,pieces
+2367,392,Butter,193,g
+2368,393,Egg,2,pieces
+2369,393,Beef,227,g
+2370,393,Mushroom,740,g
+2371,393,Garlic,1,cloves
+2372,393,Onion,10,pieces
+2373,393,Chicken,160,g
+2374,393,Tomato,3,pieces
+2375,394,Garlic,2,cloves
+2376,394,Cheese,235,g
+2377,394,Chicken,787,g
+2378,394,Carrot,8,pieces
+2379,395,Carrot,1,pieces
+2380,395,Pasta,430,g
+2381,395,Potato,10,pieces
+2382,395,Chicken,693,g
+2383,395,Rice,662,g
+2384,395,Soy Sauce,2,tbsp
+2385,395,Onion,8,pieces
+2386,396,Egg,7,pieces
+2387,396,Cream,169,ml
+2388,396,Butter,277,g
+2389,396,Salt,2,tsp
+2390,396,Soy Sauce,1,tbsp
+2391,396,Pepper,2,tsp
+2392,396,Tomato,1,pieces
+2393,397,Soy Sauce,2,tbsp
+2394,397,Rice,428,g
+2395,397,Olive Oil,3,tbsp
+2396,397,Beef,105,g
+2397,398,Butter,570,g
+2398,398,Salt,1,tsp
+2399,398,Garlic,1,cloves
+2400,398,Tomato,3,pieces
+2401,398,Rice,515,g
+2402,398,Chicken,686,g
+2403,399,Cheese,204,g
+2404,399,Carrot,7,pieces
+2405,399,Tomato,7,pieces
+2406,399,Beef,451,g
+2407,399,Onion,5,pieces
+2408,399,Salt,2,tsp
+2409,399,Chicken,609,g
+2410,399,Egg,8,pieces
+2411,400,Onion,2,pieces
+2412,400,Garlic,2,cloves
+2413,400,Butter,800,g
+2414,400,Rice,241,g
+2415,400,Egg,1,pieces
+2416,401,Cheese,121,g
+2417,401,Carrot,9,pieces
+2418,401,Butter,186,g
+2419,401,Potato,8,pieces
+2420,401,Pepper,3,tsp
+2421,401,Rice,753,g
+2422,401,Olive Oil,5,tbsp
+2423,401,Cream,100,ml
+2424,402,Salt,2,tsp
+2425,402,Butter,208,g
+2426,402,Potato,9,pieces
+2427,402,Beef,309,g
+2428,402,Egg,8,pieces
+2429,403,Beef,208,g
+2430,403,Olive Oil,5,tbsp
+2431,403,Pasta,738,g
+2432,403,Egg,5,pieces
+2433,403,Chili Powder,1,tsp
+2434,403,Chicken,490,g
+2435,403,Carrot,5,pieces
+2436,403,Pepper,3,tsp
+2437,404,Cream,399,ml
+2438,404,Pasta,772,g
+2439,404,Potato,9,pieces
+2440,404,Chili Powder,2,tsp
+2441,404,Mushroom,511,g
+2442,405,Mushroom,775,g
+2443,405,Garlic,1,cloves
+2444,405,Potato,6,pieces
+2445,405,Egg,4,pieces
+2446,405,Salt,2,tsp
+2447,406,Pepper,2,tsp
+2448,406,Potato,8,pieces
+2449,406,Cheese,764,g
+2450,406,Garlic,3,cloves
+2451,406,Pasta,443,g
+2452,406,Tomato,4,pieces
+2453,406,Chili Powder,3,tsp
+2454,406,Onion,6,pieces
+2455,407,Soy Sauce,2,tbsp
+2456,407,Potato,8,pieces
+2457,407,Chicken,602,g
+2458,407,Beef,716,g
+2459,407,Onion,8,pieces
+2460,407,Mushroom,88,g
+2461,407,Tomato,8,pieces
+2462,408,Egg,5,pieces
+2463,408,Olive Oil,4,tbsp
+2464,408,Pepper,3,tsp
+2465,408,Butter,476,g
+2466,408,Cream,222,ml
+2467,409,Egg,5,pieces
+2468,409,Cream,200,ml
+2469,409,Mushroom,174,g
+2470,409,Pepper,1,tsp
+2471,409,Chicken,63,g
+2472,409,Butter,400,g
+2473,409,Garlic,1,cloves
+2474,409,Carrot,1,pieces
+2475,410,Salt,1,tsp
+2476,410,Garlic,1,cloves
+2477,410,Butter,565,g
+2478,410,Carrot,10,pieces
+2479,410,Chicken,718,g
+2480,410,Beef,601,g
+2481,410,Mushroom,498,g
+2482,411,Egg,3,pieces
+2483,411,Garlic,2,cloves
+2484,411,Pepper,1,tsp
+2485,411,Olive Oil,4,tbsp
+2486,411,Milk,195,ml
+2487,411,Carrot,9,pieces
+2488,411,Pasta,256,g
+2489,411,Salt,3,tsp
+2490,412,Garlic,2,cloves
+2491,412,Chili Powder,1,tsp
+2492,412,Beef,288,g
+2493,412,Rice,258,g
+2494,412,Egg,9,pieces
+2495,413,Rice,170,g
+2496,413,Cream,154,ml
+2497,413,Pasta,570,g
+2498,413,Cheese,786,g
+2499,414,Soy Sauce,4,tbsp
+2500,414,Carrot,10,pieces
+2501,414,Cheese,562,g
+2502,414,Rice,157,g
+2503,414,Butter,349,g
+2504,415,Soy Sauce,2,tbsp
+2505,415,Mushroom,110,g
+2506,415,Egg,10,pieces
+2507,415,Tomato,8,pieces
+2508,415,Chili Powder,3,tsp
+2509,416,Chicken,670,g
+2510,416,Beef,552,g
+2511,416,Tomato,8,pieces
+2512,416,Garlic,1,cloves
+2513,416,Milk,419,ml
+2514,416,Olive Oil,2,tbsp
+2515,416,Butter,414,g
+2516,417,Olive Oil,4,tbsp
+2517,417,Garlic,2,cloves
+2518,417,Carrot,7,pieces
+2519,417,Mushroom,367,g
+2520,417,Butter,423,g
+2521,417,Cheese,798,g
+2522,417,Rice,610,g
+2523,417,Cream,281,ml
+2524,418,Pepper,3,tsp
+2525,418,Rice,786,g
+2526,418,Soy Sauce,3,tbsp
+2527,418,Tomato,4,pieces
+2528,418,Milk,270,ml
+2529,418,Mushroom,485,g
+2530,418,Pasta,502,g
+2531,419,Milk,488,ml
+2532,419,Salt,3,tsp
+2533,419,Beef,253,g
+2534,419,Rice,260,g
+2535,419,Cheese,97,g
+2536,419,Garlic,2,cloves
+2537,420,Egg,1,pieces
+2538,420,Beef,723,g
+2539,420,Garlic,3,cloves
+2540,420,Onion,6,pieces
+2541,420,Rice,755,g
+2542,420,Butter,727,g
+2543,420,Cheese,313,g
+2544,421,Salt,3,tsp
+2545,421,Pepper,1,tsp
+2546,421,Butter,123,g
+2547,421,Onion,9,pieces
+2548,422,Onion,2,pieces
+2549,422,Pasta,75,g
+2550,422,Beef,340,g
+2551,422,Soy Sauce,4,tbsp
+2552,422,Egg,2,pieces
+2553,423,Carrot,3,pieces
+2554,423,Pasta,296,g
+2555,423,Olive Oil,3,tbsp
+2556,423,Soy Sauce,4,tbsp
+2557,423,Cream,139,ml
+2558,423,Rice,340,g
+2559,423,Potato,8,pieces
+2560,424,Pasta,630,g
+2561,424,Chicken,62,g
+2562,424,Soy Sauce,1,tbsp
+2563,424,Salt,1,tsp
+2564,424,Onion,8,pieces
+2565,424,Chili Powder,1,tsp
+2566,424,Egg,6,pieces
+2567,424,Milk,379,ml
+2568,425,Salt,1,tsp
+2569,425,Rice,369,g
+2570,425,Garlic,3,cloves
+2571,425,Beef,694,g
+2572,425,Olive Oil,4,tbsp
+2573,425,Egg,2,pieces
+2574,425,Soy Sauce,1,tbsp
+2575,425,Butter,148,g
+2576,426,Rice,674,g
+2577,426,Mushroom,351,g
+2578,426,Milk,238,ml
+2579,426,Salt,3,tsp
+2580,426,Cheese,200,g
+2581,426,Butter,344,g
+2582,427,Pasta,373,g
+2583,427,Beef,223,g
+2584,427,Butter,649,g
+2585,427,Chili Powder,2,tsp
+2586,428,Pepper,3,tsp
+2587,428,Cream,200,ml
+2588,428,Pasta,363,g
+2589,428,Soy Sauce,4,tbsp
+2590,428,Milk,239,ml
+2591,428,Onion,1,pieces
+2592,428,Salt,3,tsp
+2593,428,Tomato,2,pieces
+2594,429,Milk,257,ml
+2595,429,Carrot,6,pieces
+2596,429,Mushroom,358,g
+2597,429,Salt,2,tsp
+2598,429,Soy Sauce,3,tbsp
+2599,429,Tomato,10,pieces
+2600,429,Beef,799,g
+2601,430,Chili Powder,2,tsp
+2602,430,Tomato,6,pieces
+2603,430,Cheese,52,g
+2604,430,Pasta,787,g
+2605,431,Salt,1,tsp
+2606,431,Pasta,479,g
+2607,431,Cheese,297,g
+2608,431,Mushroom,61,g
+2609,431,Carrot,8,pieces
+2610,431,Olive Oil,1,tbsp
+2611,431,Soy Sauce,5,tbsp
+2612,431,Chicken,677,g
+2613,432,Olive Oil,4,tbsp
+2614,432,Cream,279,ml
+2615,432,Cheese,155,g
+2616,432,Chili Powder,1,tsp
+2617,432,Butter,406,g
+2618,432,Milk,432,ml
+2619,433,Butter,456,g
+2620,433,Cheese,498,g
+2621,433,Milk,268,ml
+2622,433,Cream,213,ml
+2623,433,Rice,659,g
+2624,433,Soy Sauce,2,tbsp
+2625,433,Beef,168,g
+2626,434,Cheese,493,g
+2627,434,Chili Powder,3,tsp
+2628,434,Beef,618,g
+2629,434,Onion,3,pieces
+2630,434,Butter,358,g
+2631,434,Cream,429,ml
+2632,435,Carrot,4,pieces
+2633,435,Pasta,295,g
+2634,435,Chili Powder,1,tsp
+2635,435,Potato,2,pieces
+2636,435,Cheese,256,g
+2637,435,Butter,771,g
+2638,435,Rice,728,g
+2639,435,Chicken,531,g
+2640,436,Beef,507,g
+2641,436,Pasta,226,g
+2642,436,Cheese,121,g
+2643,436,Potato,1,pieces
+2644,436,Carrot,8,pieces
+2645,436,Rice,197,g
+2646,436,Soy Sauce,4,tbsp
+2647,437,Olive Oil,1,tbsp
+2648,437,Soy Sauce,4,tbsp
+2649,437,Butter,188,g
+2650,437,Garlic,3,cloves
+2651,437,Salt,3,tsp
+2652,437,Chicken,671,g
+2653,438,Chicken,144,g
+2654,438,Milk,318,ml
+2655,438,Carrot,4,pieces
+2656,438,Egg,1,pieces
+2657,438,Cream,478,ml
+2658,439,Milk,476,ml
+2659,439,Salt,2,tsp
+2660,439,Carrot,4,pieces
+2661,439,Butter,456,g
+2662,439,Pasta,567,g
+2663,439,Mushroom,483,g
+2664,439,Cream,173,ml
+2665,439,Soy Sauce,4,tbsp
+2666,440,Olive Oil,3,tbsp
+2667,440,Onion,9,pieces
+2668,440,Salt,3,tsp
+2669,440,Beef,753,g
+2670,440,Soy Sauce,1,tbsp
+2671,441,Olive Oil,1,tbsp
+2672,441,Garlic,3,cloves
+2673,441,Beef,143,g
+2674,441,Cheese,460,g
+2675,441,Chicken,405,g
+2676,442,Tomato,3,pieces
+2677,442,Potato,5,pieces
+2678,442,Pasta,757,g
+2679,442,Onion,2,pieces
+2680,442,Chicken,639,g
+2681,442,Mushroom,111,g
+2682,443,Salt,3,tsp
+2683,443,Tomato,10,pieces
+2684,443,Chili Powder,2,tsp
+2685,443,Garlic,1,cloves
+2686,443,Cream,420,ml
+2687,444,Garlic,1,cloves
+2688,444,Potato,9,pieces
+2689,444,Mushroom,789,g
+2690,444,Olive Oil,1,tbsp
+2691,444,Egg,3,pieces
+2692,445,Butter,652,g
+2693,445,Tomato,4,pieces
+2694,445,Pasta,744,g
+2695,445,Milk,203,ml
+2696,445,Cream,238,ml
+2697,446,Garlic,3,cloves
+2698,446,Salt,1,tsp
+2699,446,Chili Powder,2,tsp
+2700,446,Beef,633,g
+2701,446,Pepper,1,tsp
+2702,446,Potato,3,pieces
+2703,446,Olive Oil,3,tbsp
+2704,446,Onion,8,pieces
+2705,447,Carrot,7,pieces
+2706,447,Pepper,3,tsp
+2707,447,Soy Sauce,4,tbsp
+2708,447,Egg,1,pieces
+2709,447,Beef,407,g
+2710,447,Chili Powder,2,tsp
+2711,448,Egg,10,pieces
+2712,448,Pepper,3,tsp
+2713,448,Potato,8,pieces
+2714,448,Soy Sauce,2,tbsp
+2715,448,Rice,292,g
+2716,448,Chili Powder,1,tsp
+2717,449,Pasta,766,g
+2718,449,Carrot,4,pieces
+2719,449,Garlic,3,cloves
+2720,449,Soy Sauce,5,tbsp
+2721,449,Salt,3,tsp
+2722,449,Chicken,170,g
+2723,449,Mushroom,727,g
+2724,449,Tomato,4,pieces
+2725,450,Potato,9,pieces
+2726,450,Olive Oil,4,tbsp
+2727,450,Carrot,10,pieces
+2728,450,Pasta,379,g
+2729,450,Milk,337,ml
+2730,451,Rice,350,g
+2731,451,Cream,393,ml
+2732,451,Chili Powder,1,tsp
+2733,451,Potato,1,pieces
+2734,452,Olive Oil,2,tbsp
+2735,452,Pasta,721,g
+2736,452,Onion,9,pieces
+2737,452,Egg,3,pieces
+2738,452,Chili Powder,3,tsp
+2739,453,Tomato,4,pieces
+2740,453,Carrot,3,pieces
+2741,453,Rice,567,g
+2742,453,Cream,131,ml
+2743,453,Soy Sauce,3,tbsp
+2744,453,Potato,3,pieces
+2745,454,Pepper,2,tsp
+2746,454,Egg,5,pieces
+2747,454,Chicken,677,g
+2748,454,Salt,2,tsp
+2749,454,Tomato,3,pieces
+2750,454,Carrot,7,pieces
+2751,454,Cheese,338,g
+2752,455,Onion,9,pieces
+2753,455,Salt,1,tsp
+2754,455,Mushroom,601,g
+2755,455,Soy Sauce,5,tbsp
+2756,455,Rice,177,g
+2757,455,Olive Oil,4,tbsp
+2758,455,Carrot,3,pieces
+2759,455,Tomato,5,pieces
+2760,456,Soy Sauce,3,tbsp
+2761,456,Salt,3,tsp
+2762,456,Garlic,1,cloves
+2763,456,Cheese,301,g
+2764,456,Cream,260,ml
+2765,456,Chicken,578,g
+2766,456,Rice,597,g
+2767,457,Carrot,8,pieces
+2768,457,Milk,409,ml
+2769,457,Cheese,501,g
+2770,457,Beef,169,g
+2771,457,Cream,264,ml
+2772,457,Mushroom,65,g
+2773,457,Chili Powder,3,tsp
+2774,457,Pepper,2,tsp
+2775,458,Cheese,519,g
+2776,458,Carrot,1,pieces
+2777,458,Pasta,366,g
+2778,458,Garlic,1,cloves
+2779,458,Milk,368,ml
+2780,459,Beef,301,g
+2781,459,Cream,472,ml
+2782,459,Chicken,694,g
+2783,459,Milk,213,ml
+2784,459,Cheese,382,g
+2785,459,Garlic,1,cloves
+2786,459,Salt,3,tsp
+2787,459,Mushroom,471,g
+2788,460,Chili Powder,2,tsp
+2789,460,Cream,492,ml
+2790,460,Butter,562,g
+2791,460,Soy Sauce,3,tbsp
+2792,460,Salt,1,tsp
+2793,461,Butter,475,g
+2794,461,Pasta,503,g
+2795,461,Pepper,2,tsp
+2796,461,Tomato,1,pieces
+2797,462,Pasta,162,g
+2798,462,Carrot,2,pieces
+2799,462,Tomato,7,pieces
+2800,462,Salt,3,tsp
+2801,462,Mushroom,510,g
+2802,462,Garlic,3,cloves
+2803,462,Butter,433,g
+2804,462,Cheese,126,g
+2805,463,Pepper,1,tsp
+2806,463,Chili Powder,3,tsp
+2807,463,Milk,312,ml
+2808,463,Beef,230,g
+2809,463,Cheese,641,g
+2810,464,Olive Oil,5,tbsp
+2811,464,Chicken,257,g
+2812,464,Cream,346,ml
+2813,464,Potato,1,pieces
+2814,464,Cheese,435,g
+2815,464,Milk,305,ml
+2816,464,Pepper,2,tsp
+2817,464,Rice,434,g
+2818,465,Chicken,706,g
+2819,465,Olive Oil,3,tbsp
+2820,465,Tomato,2,pieces
+2821,465,Cream,455,ml
+2822,465,Mushroom,455,g
+2823,465,Butter,460,g
+2824,466,Cream,231,ml
+2825,466,Salt,1,tsp
+2826,466,Pasta,250,g
+2827,466,Potato,1,pieces
+2828,466,Cheese,110,g
+2829,466,Chicken,56,g
+2830,466,Butter,329,g
+2831,466,Garlic,2,cloves
+2832,467,Tomato,8,pieces
+2833,467,Butter,678,g
+2834,467,Garlic,2,cloves
+2835,467,Milk,481,ml
+2836,467,Chicken,762,g
+2837,468,Milk,203,ml
+2838,468,Salt,2,tsp
+2839,468,Chili Powder,3,tsp
+2840,468,Cheese,99,g
+2841,469,Onion,2,pieces
+2842,469,Beef,500,g
+2843,469,Garlic,1,cloves
+2844,469,Carrot,7,pieces
+2845,469,Milk,77,ml
+2846,469,Potato,2,pieces
+2847,470,Beef,206,g
+2848,470,Potato,1,pieces
+2849,470,Pasta,79,g
+2850,470,Milk,197,ml
+2851,471,Soy Sauce,4,tbsp
+2852,471,Milk,138,ml
+2853,471,Pepper,1,tsp
+2854,471,Carrot,9,pieces
+2855,471,Tomato,7,pieces
+2856,471,Potato,9,pieces
+2857,471,Onion,8,pieces
+2858,471,Butter,767,g
+2859,472,Tomato,10,pieces
+2860,472,Beef,197,g
+2861,472,Salt,2,tsp
+2862,472,Olive Oil,4,tbsp
+2863,472,Cream,427,ml
+2864,472,Pasta,130,g
+2865,473,Milk,332,ml
+2866,473,Egg,4,pieces
+2867,473,Onion,7,pieces
+2868,473,Garlic,3,cloves
+2869,473,Salt,2,tsp
+2870,473,Potato,7,pieces
+2871,473,Cream,248,ml
+2872,473,Carrot,8,pieces
+2873,474,Chili Powder,2,tsp
+2874,474,Milk,255,ml
+2875,474,Soy Sauce,1,tbsp
+2876,474,Potato,9,pieces
+2877,475,Tomato,1,pieces
+2878,475,Carrot,5,pieces
+2879,475,Butter,213,g
+2880,475,Olive Oil,2,tbsp
+2881,475,Pasta,56,g
+2882,475,Cheese,512,g
+2883,475,Cream,177,ml
+2884,476,Milk,401,ml
+2885,476,Chicken,132,g
+2886,476,Soy Sauce,3,tbsp
+2887,476,Tomato,1,pieces
+2888,476,Pepper,3,tsp
+2889,476,Olive Oil,5,tbsp
+2890,476,Beef,690,g
+2891,477,Soy Sauce,3,tbsp
+2892,477,Chicken,61,g
+2893,477,Cheese,688,g
+2894,477,Rice,493,g
+2895,477,Onion,6,pieces
+2896,478,Cream,279,ml
+2897,478,Onion,10,pieces
+2898,478,Mushroom,415,g
+2899,478,Potato,10,pieces
+2900,478,Tomato,1,pieces
+2901,478,Carrot,4,pieces
+2902,478,Milk,173,ml
+2903,479,Chili Powder,2,tsp
+2904,479,Chicken,272,g
+2905,479,Potato,5,pieces
+2906,479,Olive Oil,2,tbsp
+2907,479,Milk,322,ml
+2908,479,Cheese,545,g
+2909,479,Butter,464,g
+2910,479,Mushroom,201,g
+2911,480,Tomato,10,pieces
+2912,480,Mushroom,184,g
+2913,480,Potato,9,pieces
+2914,480,Cream,245,ml
+2915,480,Garlic,3,cloves
+2916,481,Tomato,9,pieces
+2917,481,Beef,165,g
+2918,481,Rice,789,g
+2919,481,Potato,3,pieces
+2920,481,Mushroom,524,g
+2921,481,Chicken,712,g
+2922,481,Butter,129,g
+2923,482,Soy Sauce,2,tbsp
+2924,482,Tomato,6,pieces
+2925,482,Salt,2,tsp
+2926,482,Cheese,645,g
+2927,483,Chicken,547,g
+2928,483,Pepper,2,tsp
+2929,483,Egg,6,pieces
+2930,483,Chili Powder,3,tsp
+2931,483,Mushroom,382,g
+2932,483,Milk,73,ml
+2933,484,Carrot,7,pieces
+2934,484,Olive Oil,5,tbsp
+2935,484,Beef,587,g
+2936,484,Egg,2,pieces
+2937,484,Cheese,591,g
+2938,485,Olive Oil,5,tbsp
+2939,485,Tomato,9,pieces
+2940,485,Chicken,278,g
+2941,485,Milk,381,ml
+2942,485,Garlic,3,cloves
+2943,485,Cheese,253,g
+2944,486,Onion,8,pieces
+2945,486,Salt,2,tsp
+2946,486,Egg,10,pieces
+2947,486,Carrot,7,pieces
+2948,486,Chili Powder,3,tsp
+2949,486,Cream,78,ml
+2950,486,Soy Sauce,5,tbsp
+2951,486,Tomato,7,pieces
+2952,487,Milk,189,ml
+2953,487,Onion,3,pieces
+2954,487,Olive Oil,1,tbsp
+2955,487,Rice,424,g
+2956,488,Rice,271,g
+2957,488,Butter,194,g
+2958,488,Tomato,9,pieces
+2959,488,Egg,5,pieces
+2960,488,Pepper,1,tsp
+2961,488,Chicken,699,g
+2962,488,Beef,619,g
+2963,488,Onion,3,pieces
+2964,489,Egg,8,pieces
+2965,489,Milk,307,ml
+2966,489,Butter,642,g
+2967,489,Mushroom,513,g
+2968,489,Potato,4,pieces
+2969,489,Chili Powder,1,tsp
+2970,489,Cheese,501,g
+2971,489,Pepper,3,tsp
+2972,490,Onion,8,pieces
+2973,490,Milk,310,ml
+2974,490,Garlic,2,cloves
+2975,490,Mushroom,552,g
+2976,491,Milk,262,ml
+2977,491,Salt,3,tsp
+2978,491,Rice,157,g
+2979,491,Egg,2,pieces
+2980,491,Garlic,1,cloves
+2981,491,Beef,113,g
+2982,491,Chicken,117,g
+2983,492,Pepper,2,tsp
+2984,492,Garlic,2,cloves
+2985,492,Chicken,690,g
+2986,492,Olive Oil,3,tbsp
+2987,492,Carrot,5,pieces
+2988,493,Mushroom,774,g
+2989,493,Soy Sauce,1,tbsp
+2990,493,Olive Oil,1,tbsp
+2991,493,Chicken,145,g
+2992,493,Butter,410,g
+2993,493,Pepper,2,tsp
+2994,494,Pepper,1,tsp
+2995,494,Soy Sauce,4,tbsp
+2996,494,Garlic,1,cloves
+2997,494,Chicken,61,g
+2998,494,Beef,375,g
+2999,494,Pasta,681,g
+3000,495,Carrot,8,pieces
+3001,495,Pasta,184,g
+3002,495,Cream,428,ml
+3003,495,Tomato,10,pieces
+3004,495,Salt,3,tsp
+3005,495,Soy Sauce,4,tbsp
+3006,495,Onion,4,pieces
+3007,495,Cheese,222,g
+3008,496,Olive Oil,5,tbsp
+3009,496,Mushroom,552,g
+3010,496,Butter,498,g
+3011,496,Potato,10,pieces
+3012,496,Pasta,532,g
+3013,497,Rice,732,g
+3014,497,Carrot,7,pieces
+3015,497,Soy Sauce,4,tbsp
+3016,497,Onion,8,pieces
+3017,497,Chicken,299,g
+3018,497,Pasta,102,g
+3019,498,Pasta,613,g
+3020,498,Garlic,1,cloves
+3021,498,Tomato,1,pieces
+3022,498,Rice,366,g
+3023,498,Butter,387,g
+3024,498,Mushroom,308,g
+3025,498,Milk,276,ml
+3026,498,Chicken,280,g
+3027,499,Soy Sauce,4,tbsp
+3028,499,Chili Powder,1,tsp
+3029,499,Beef,185,g
+3030,499,Salt,3,tsp
+3031,499,Pasta,395,g
+3032,499,Onion,9,pieces
+3033,499,Cream,206,ml
+3034,500,Egg,1,pieces
+3035,500,Pepper,3,tsp
+3036,500,Milk,458,ml
+3037,500,Cream,413,ml
+3038,500,Beef,310,g
+3039,501,Salt,1,tsp
+3040,501,Beef,212,g
+3041,501,Cheese,549,g
+3042,501,Rice,231,g
+3043,502,Salt,3,tsp
+3044,502,Carrot,7,pieces
+3045,502,Olive Oil,3,tbsp
+3046,502,Beef,600,g
+3047,502,Pepper,1,tsp
+3048,503,Chili Powder,2,tsp
+3049,503,Cheese,448,g
+3050,503,Butter,669,g
+3051,503,Soy Sauce,2,tbsp
+3052,504,Onion,10,pieces
+3053,504,Chicken,416,g
+3054,504,Olive Oil,4,tbsp
+3055,504,Pepper,1,tsp
+3056,504,Tomato,10,pieces
+3057,504,Carrot,1,pieces
+3058,504,Garlic,1,cloves
+3059,505,Rice,415,g
+3060,505,Tomato,3,pieces
+3061,505,Pasta,136,g
+3062,505,Milk,389,ml
+3063,505,Potato,1,pieces
+3064,505,Olive Oil,5,tbsp
+3065,506,Chili Powder,2,tsp
+3066,506,Pasta,504,g
+3067,506,Mushroom,693,g
+3068,506,Carrot,6,pieces
+3069,506,Butter,794,g
+3070,507,Beef,695,g
+3071,507,Milk,191,ml
+3072,507,Chicken,148,g
+3073,507,Soy Sauce,3,tbsp
+3074,507,Butter,775,g
+3075,507,Mushroom,401,g
+3076,508,Cream,477,ml
+3077,508,Pepper,1,tsp
+3078,508,Milk,52,ml
+3079,508,Carrot,8,pieces
+3080,509,Cheese,123,g
+3081,509,Carrot,8,pieces
+3082,509,Milk,274,ml
+3083,509,Garlic,3,cloves
+3084,509,Salt,1,tsp
+3085,509,Rice,89,g
+3086,509,Olive Oil,5,tbsp
+3087,510,Salt,3,tsp
+3088,510,Chili Powder,1,tsp
+3089,510,Garlic,2,cloves
+3090,510,Beef,188,g
+3091,510,Onion,8,pieces
+3092,510,Butter,370,g
+3093,511,Rice,374,g
+3094,511,Pepper,3,tsp
+3095,511,Butter,179,g
+3096,511,Cream,487,ml
+3097,511,Chili Powder,3,tsp
+3098,511,Carrot,10,pieces
+3099,511,Salt,3,tsp
+3100,511,Milk,443,ml
+3101,512,Butter,478,g
+3102,512,Garlic,2,cloves
+3103,512,Cheese,345,g
+3104,512,Olive Oil,5,tbsp
+3105,512,Carrot,7,pieces
+3106,512,Rice,208,g
+3107,512,Egg,3,pieces
+3108,513,Pasta,426,g
+3109,513,Pepper,2,tsp
+3110,513,Milk,380,ml
+3111,513,Salt,1,tsp
+3112,514,Potato,1,pieces
+3113,514,Garlic,2,cloves
+3114,514,Olive Oil,4,tbsp
+3115,514,Butter,60,g
+3116,515,Mushroom,582,g
+3117,515,Pepper,1,tsp
+3118,515,Tomato,2,pieces
+3119,515,Egg,5,pieces
+3120,515,Chicken,631,g
+3121,515,Cheese,220,g
+3122,515,Onion,3,pieces
+3123,515,Salt,3,tsp
+3124,516,Butter,291,g
+3125,516,Pasta,104,g
+3126,516,Cream,317,ml
+3127,516,Onion,4,pieces
+3128,516,Potato,5,pieces
+3129,517,Potato,4,pieces
+3130,517,Pepper,1,tsp
+3131,517,Milk,358,ml
+3132,517,Cream,286,ml
+3133,517,Salt,3,tsp
+3134,517,Onion,4,pieces
+3135,517,Rice,159,g
+3136,517,Tomato,10,pieces
+3137,518,Olive Oil,3,tbsp
+3138,518,Salt,3,tsp
+3139,518,Potato,7,pieces
+3140,518,Mushroom,515,g
+3141,518,Soy Sauce,5,tbsp
+3142,518,Beef,535,g
+3143,519,Onion,3,pieces
+3144,519,Tomato,1,pieces
+3145,519,Pasta,198,g
+3146,519,Pepper,2,tsp
+3147,520,Chili Powder,3,tsp
+3148,520,Butter,497,g
+3149,520,Carrot,5,pieces
+3150,520,Onion,5,pieces
+3151,520,Salt,1,tsp
+3152,520,Rice,488,g
+3153,520,Soy Sauce,5,tbsp
+3154,520,Beef,209,g
+3155,521,Pepper,1,tsp
+3156,521,Rice,515,g
+3157,521,Onion,1,pieces
+3158,521,Pasta,230,g
+3159,522,Beef,90,g
+3160,522,Pasta,607,g
+3161,522,Carrot,5,pieces
+3162,522,Rice,226,g
+3163,522,Cream,294,ml
+3164,523,Pepper,1,tsp
+3165,523,Beef,756,g
+3166,523,Chicken,687,g
+3167,523,Egg,9,pieces
+3168,523,Cream,441,ml
+3169,523,Pasta,310,g
+3170,524,Olive Oil,4,tbsp
+3171,524,Carrot,9,pieces
+3172,524,Pasta,195,g
+3173,524,Cream,413,ml
+3174,524,Tomato,1,pieces
+3175,524,Milk,247,ml
+3176,524,Potato,2,pieces
+3177,525,Garlic,1,cloves
+3178,525,Pasta,57,g
+3179,525,Pepper,1,tsp
+3180,525,Cream,295,ml
+3181,525,Mushroom,230,g
+3182,525,Potato,1,pieces
+3183,526,Tomato,8,pieces
+3184,526,Pepper,2,tsp
+3185,526,Butter,235,g
+3186,526,Rice,229,g
+3187,526,Soy Sauce,2,tbsp
+3188,527,Tomato,1,pieces
+3189,527,Garlic,3,cloves
+3190,527,Milk,194,ml
+3191,527,Soy Sauce,3,tbsp
+3192,528,Carrot,8,pieces
+3193,528,Beef,354,g
+3194,528,Soy Sauce,4,tbsp
+3195,528,Olive Oil,4,tbsp
+3196,529,Mushroom,633,g
+3197,529,Egg,6,pieces
+3198,529,Salt,1,tsp
+3199,529,Tomato,5,pieces
+3200,529,Pasta,709,g
+3201,530,Olive Oil,4,tbsp
+3202,530,Beef,647,g
+3203,530,Rice,100,g
+3204,530,Butter,341,g
+3205,530,Mushroom,596,g
+3206,530,Potato,8,pieces
+3207,530,Tomato,6,pieces
+3208,531,Onion,8,pieces
+3209,531,Olive Oil,5,tbsp
+3210,531,Salt,3,tsp
+3211,531,Garlic,1,cloves
+3212,531,Tomato,1,pieces
+3213,532,Mushroom,56,g
+3214,532,Salt,3,tsp
+3215,532,Carrot,10,pieces
+3216,532,Chili Powder,1,tsp
+3217,532,Beef,376,g
+3218,532,Chicken,598,g
+3219,533,Rice,181,g
+3220,533,Cheese,302,g
+3221,533,Tomato,4,pieces
+3222,533,Cream,145,ml
+3223,533,Pepper,3,tsp
+3224,534,Olive Oil,1,tbsp
+3225,534,Cream,438,ml
+3226,534,Chili Powder,2,tsp
+3227,534,Tomato,5,pieces
+3228,534,Potato,1,pieces
+3229,534,Mushroom,788,g
+3230,535,Chili Powder,3,tsp
+3231,535,Mushroom,132,g
+3232,535,Tomato,10,pieces
+3233,535,Garlic,2,cloves
+3234,536,Chili Powder,3,tsp
+3235,536,Potato,4,pieces
+3236,536,Cheese,385,g
+3237,536,Mushroom,163,g
+3238,536,Rice,378,g
+3239,536,Butter,393,g
+3240,536,Tomato,7,pieces
+3241,537,Egg,4,pieces
+3242,537,Pasta,652,g
+3243,537,Garlic,1,cloves
+3244,537,Beef,733,g
+3245,537,Tomato,10,pieces
+3246,538,Potato,2,pieces
+3247,538,Cream,443,ml
+3248,538,Egg,4,pieces
+3249,538,Pepper,3,tsp
+3250,538,Chili Powder,1,tsp
+3251,538,Butter,154,g
+3252,539,Chili Powder,3,tsp
+3253,539,Olive Oil,1,tbsp
+3254,539,Onion,2,pieces
+3255,539,Potato,5,pieces
+3256,539,Egg,7,pieces
+3257,539,Beef,54,g
+3258,539,Carrot,5,pieces
+3259,540,Cream,375,ml
+3260,540,Potato,5,pieces
+3261,540,Salt,1,tsp
+3262,540,Pepper,3,tsp
+3263,540,Cheese,56,g
+3264,540,Carrot,1,pieces
+3265,540,Mushroom,648,g
+3266,540,Soy Sauce,2,tbsp
+3267,541,Chili Powder,2,tsp
+3268,541,Cream,455,ml
+3269,541,Pepper,1,tsp
+3270,541,Tomato,7,pieces
+3271,541,Chicken,669,g
+3272,541,Onion,8,pieces
+3273,542,Pasta,519,g
+3274,542,Olive Oil,5,tbsp
+3275,542,Tomato,10,pieces
+3276,542,Pepper,2,tsp
+3277,542,Beef,473,g
+3278,542,Chili Powder,1,tsp
+3279,543,Soy Sauce,2,tbsp
+3280,543,Rice,324,g
+3281,543,Cheese,240,g
+3282,543,Onion,3,pieces
+3283,543,Chicken,519,g
+3284,544,Cheese,460,g
+3285,544,Cream,63,ml
+3286,544,Garlic,2,cloves
+3287,544,Egg,10,pieces
+3288,544,Salt,3,tsp
+3289,544,Chicken,705,g
+3290,544,Chili Powder,3,tsp
+3291,544,Beef,561,g
+3292,545,Milk,440,ml
+3293,545,Soy Sauce,5,tbsp
+3294,545,Butter,632,g
+3295,545,Salt,2,tsp
+3296,546,Potato,1,pieces
+3297,546,Mushroom,196,g
+3298,546,Pasta,454,g
+3299,546,Butter,507,g
+3300,546,Carrot,5,pieces
+3301,546,Beef,539,g
+3302,547,Milk,319,ml
+3303,547,Rice,432,g
+3304,547,Tomato,5,pieces
+3305,547,Chili Powder,2,tsp
+3306,547,Garlic,2,cloves
+3307,547,Pepper,2,tsp
+3308,547,Potato,10,pieces
+3309,548,Olive Oil,3,tbsp
+3310,548,Potato,4,pieces
+3311,548,Pepper,3,tsp
+3312,548,Tomato,3,pieces
+3313,548,Chili Powder,3,tsp
+3314,548,Beef,204,g
+3315,549,Cheese,435,g
+3316,549,Beef,741,g
+3317,549,Milk,378,ml
+3318,549,Mushroom,51,g
+3319,549,Tomato,7,pieces
+3320,549,Cream,132,ml
+3321,550,Pasta,329,g
+3322,550,Garlic,2,cloves
+3323,550,Chicken,175,g
+3324,550,Onion,8,pieces
+3325,550,Carrot,2,pieces
+3326,550,Pepper,2,tsp
+3327,550,Butter,757,g
+3328,551,Chili Powder,1,tsp
+3329,551,Beef,200,g
+3330,551,Olive Oil,1,tbsp
+3331,551,Milk,361,ml
+3332,551,Garlic,2,cloves
+3333,552,Pasta,625,g
+3334,552,Milk,275,ml
+3335,552,Rice,360,g
+3336,552,Pepper,2,tsp
+3337,553,Butter,344,g
+3338,553,Tomato,5,pieces
+3339,553,Mushroom,722,g
+3340,553,Salt,3,tsp
+3341,553,Soy Sauce,3,tbsp
+3342,553,Garlic,2,cloves
+3343,553,Pasta,113,g
+3344,553,Carrot,7,pieces
+3345,554,Chicken,751,g
+3346,554,Onion,8,pieces
+3347,554,Pasta,203,g
+3348,554,Butter,303,g
+3349,554,Chili Powder,3,tsp
+3350,554,Cream,499,ml
+3351,554,Mushroom,307,g
+3352,554,Beef,427,g
+3353,555,Pasta,333,g
+3354,555,Butter,145,g
+3355,555,Egg,7,pieces
+3356,555,Cream,342,ml
+3357,556,Soy Sauce,4,tbsp
+3358,556,Beef,709,g
+3359,556,Pasta,269,g
+3360,556,Milk,366,ml
+3361,556,Salt,1,tsp
+3362,556,Onion,3,pieces
+3363,556,Egg,5,pieces
+3364,556,Garlic,3,cloves
+3365,557,Cheese,499,g
+3366,557,Onion,5,pieces
+3367,557,Salt,2,tsp
+3368,557,Chili Powder,3,tsp
+3369,557,Potato,6,pieces
+3370,557,Milk,127,ml
+3371,557,Chicken,535,g
+3372,557,Garlic,3,cloves
+3373,558,Pasta,787,g
+3374,558,Soy Sauce,1,tbsp
+3375,558,Olive Oil,5,tbsp
+3376,558,Egg,9,pieces
+3377,558,Rice,645,g
+3378,559,Butter,763,g
+3379,559,Onion,1,pieces
+3380,559,Soy Sauce,4,tbsp
+3381,559,Cream,431,ml
+3382,560,Carrot,5,pieces
+3383,560,Beef,777,g
+3384,560,Pasta,766,g
+3385,560,Olive Oil,4,tbsp
+3386,560,Tomato,4,pieces
+3387,561,Garlic,1,cloves
+3388,561,Mushroom,296,g
+3389,561,Chicken,139,g
+3390,561,Cheese,295,g
+3391,561,Pepper,2,tsp
+3392,562,Milk,182,ml
+3393,562,Rice,149,g
+3394,562,Salt,3,tsp
+3395,562,Pasta,364,g
+3396,562,Cream,96,ml
+3397,562,Cheese,338,g
+3398,562,Potato,2,pieces
+3399,562,Olive Oil,4,tbsp
+3400,563,Onion,9,pieces
+3401,563,Rice,642,g
+3402,563,Carrot,4,pieces
+3403,563,Cream,82,ml
+3404,564,Chili Powder,3,tsp
+3405,564,Beef,336,g
+3406,564,Milk,320,ml
+3407,564,Cheese,69,g
+3408,564,Pepper,2,tsp
+3409,564,Potato,8,pieces
+3410,564,Rice,677,g
+3411,565,Carrot,1,pieces
+3412,565,Salt,2,tsp
+3413,565,Chicken,772,g
+3414,565,Chili Powder,3,tsp
+3415,565,Pasta,379,g
+3416,566,Onion,10,pieces
+3417,566,Pepper,2,tsp
+3418,566,Mushroom,473,g
+3419,566,Egg,4,pieces
+3420,566,Soy Sauce,1,tbsp
+3421,566,Olive Oil,4,tbsp
+3422,566,Potato,6,pieces
+3423,566,Tomato,5,pieces
+3424,567,Pepper,3,tsp
+3425,567,Mushroom,614,g
+3426,567,Tomato,3,pieces
+3427,567,Onion,8,pieces
+3428,567,Cheese,97,g
+3429,567,Garlic,1,cloves
+3430,568,Chili Powder,2,tsp
+3431,568,Olive Oil,5,tbsp
+3432,568,Butter,542,g
+3433,568,Salt,3,tsp
+3434,568,Beef,295,g
+3435,569,Cream,77,ml
+3436,569,Potato,3,pieces
+3437,569,Butter,118,g
+3438,569,Salt,1,tsp
+3439,569,Chicken,751,g
+3440,569,Egg,8,pieces
+3441,569,Chili Powder,2,tsp
+3442,569,Garlic,3,cloves
+3443,570,Carrot,4,pieces
+3444,570,Pasta,554,g
+3445,570,Olive Oil,3,tbsp
+3446,570,Mushroom,312,g
+3447,570,Onion,3,pieces
+3448,571,Carrot,1,pieces
+3449,571,Rice,770,g
+3450,571,Cream,455,ml
+3451,571,Cheese,516,g
+3452,572,Rice,82,g
+3453,572,Chili Powder,3,tsp
+3454,572,Butter,395,g
+3455,572,Beef,630,g
+3456,572,Olive Oil,5,tbsp
+3457,572,Soy Sauce,5,tbsp
+3458,572,Milk,374,ml
+3459,572,Cream,449,ml
+3460,573,Salt,2,tsp
+3461,573,Butter,593,g
+3462,573,Olive Oil,3,tbsp
+3463,573,Mushroom,219,g
+3464,573,Onion,5,pieces
+3465,573,Chili Powder,3,tsp
+3466,573,Tomato,7,pieces
+3467,573,Cream,235,ml
+3468,574,Chicken,610,g
+3469,574,Chili Powder,3,tsp
+3470,574,Rice,590,g
+3471,574,Cream,359,ml
+3472,574,Pepper,1,tsp
+3473,574,Milk,109,ml
+3474,575,Cheese,523,g
+3475,575,Salt,3,tsp
+3476,575,Garlic,1,cloves
+3477,575,Potato,1,pieces
+3478,575,Tomato,8,pieces
+3479,575,Pasta,568,g
+3480,575,Butter,179,g
+3481,576,Potato,2,pieces
+3482,576,Beef,283,g
+3483,576,Chili Powder,1,tsp
+3484,576,Carrot,6,pieces
+3485,576,Soy Sauce,3,tbsp
+3486,576,Tomato,7,pieces
+3487,576,Salt,1,tsp
+3488,576,Butter,717,g
+3489,577,Cheese,98,g
+3490,577,Salt,2,tsp
+3491,577,Butter,492,g
+3492,577,Chili Powder,3,tsp
+3493,577,Cream,404,ml
+3494,577,Beef,701,g
+3495,577,Onion,2,pieces
+3496,577,Carrot,1,pieces
+3497,578,Egg,8,pieces
+3498,578,Chili Powder,1,tsp
+3499,578,Mushroom,608,g
+3500,578,Cheese,68,g
+3501,578,Tomato,6,pieces
+3502,578,Garlic,1,cloves
+3503,579,Cheese,226,g
+3504,579,Chicken,121,g
+3505,579,Chili Powder,3,tsp
+3506,579,Salt,3,tsp
+3507,579,Mushroom,357,g
+3508,579,Garlic,3,cloves
+3509,579,Olive Oil,1,tbsp
+3510,580,Rice,302,g
+3511,580,Carrot,4,pieces
+3512,580,Onion,10,pieces
+3513,580,Beef,201,g
+3514,580,Garlic,2,cloves
+3515,581,Mushroom,383,g
+3516,581,Cheese,578,g
+3517,581,Chili Powder,3,tsp
+3518,581,Garlic,1,cloves
+3519,581,Pepper,3,tsp
+3520,581,Tomato,10,pieces
+3521,581,Milk,415,ml
+3522,581,Pasta,343,g
+3523,582,Olive Oil,1,tbsp
+3524,582,Mushroom,650,g
+3525,582,Egg,7,pieces
+3526,582,Salt,2,tsp
+3527,583,Cheese,753,g
+3528,583,Butter,354,g
+3529,583,Salt,1,tsp
+3530,583,Olive Oil,3,tbsp
+3531,584,Pepper,2,tsp
+3532,584,Carrot,4,pieces
+3533,584,Pasta,761,g
+3534,584,Egg,10,pieces
+3535,584,Potato,2,pieces
+3536,584,Olive Oil,3,tbsp
+3537,584,Chili Powder,1,tsp
+3538,584,Mushroom,454,g
+3539,585,Milk,387,ml
+3540,585,Potato,9,pieces
+3541,585,Pasta,300,g
+3542,585,Olive Oil,4,tbsp
+3543,585,Egg,10,pieces
+3544,585,Carrot,9,pieces
+3545,585,Chicken,334,g
+3546,585,Chili Powder,1,tsp
+3547,586,Carrot,9,pieces
+3548,586,Soy Sauce,4,tbsp
+3549,586,Tomato,8,pieces
+3550,586,Pepper,2,tsp
+3551,587,Chicken,724,g
+3552,587,Mushroom,345,g
+3553,587,Cheese,318,g
+3554,587,Chili Powder,1,tsp
+3555,587,Soy Sauce,1,tbsp
+3556,587,Garlic,1,cloves
+3557,587,Onion,9,pieces
+3558,587,Butter,554,g
+3559,588,Carrot,10,pieces
+3560,588,Onion,6,pieces
+3561,588,Chicken,118,g
+3562,588,Soy Sauce,2,tbsp
+3563,588,Mushroom,528,g
+3564,589,Olive Oil,1,tbsp
+3565,589,Garlic,3,cloves
+3566,589,Potato,2,pieces
+3567,589,Mushroom,360,g
+3568,589,Onion,7,pieces
+3569,590,Pasta,275,g
+3570,590,Chicken,611,g
+3571,590,Olive Oil,3,tbsp
+3572,590,Salt,1,tsp
+3573,590,Tomato,3,pieces
+3574,590,Cheese,760,g
+3575,590,Beef,601,g
+3576,590,Garlic,1,cloves
+3577,591,Garlic,1,cloves
+3578,591,Cheese,190,g
+3579,591,Butter,425,g
+3580,591,Soy Sauce,2,tbsp
+3581,592,Pepper,2,tsp
+3582,592,Butter,724,g
+3583,592,Egg,5,pieces
+3584,592,Cheese,525,g
+3585,592,Cream,260,ml
+3586,592,Garlic,1,cloves
+3587,592,Soy Sauce,1,tbsp
+3588,593,Milk,425,ml
+3589,593,Onion,3,pieces
+3590,593,Pepper,1,tsp
+3591,593,Butter,771,g
+3592,594,Cream,377,ml
+3593,594,Pepper,1,tsp
+3594,594,Butter,221,g
+3595,594,Cheese,723,g
+3596,594,Garlic,2,cloves
+3597,595,Carrot,6,pieces
+3598,595,Beef,365,g
+3599,595,Soy Sauce,5,tbsp
+3600,595,Egg,1,pieces
+3601,595,Garlic,1,cloves
+3602,595,Pasta,304,g
+3603,596,Potato,1,pieces
+3604,596,Soy Sauce,5,tbsp
+3605,596,Mushroom,699,g
+3606,596,Butter,558,g
+3607,597,Pepper,3,tsp
+3608,597,Potato,3,pieces
+3609,597,Pasta,520,g
+3610,597,Mushroom,258,g
+3611,597,Onion,8,pieces
+3612,597,Milk,200,ml
+3613,597,Salt,2,tsp
+3614,597,Egg,1,pieces
+3615,598,Rice,473,g
+3616,598,Mushroom,396,g
+3617,598,Salt,2,tsp
+3618,598,Tomato,2,pieces
+3619,599,Pasta,112,g
+3620,599,Rice,269,g
+3621,599,Butter,340,g
+3622,599,Cream,202,ml
+3623,599,Mushroom,136,g
+3624,599,Potato,5,pieces
+3625,599,Garlic,2,cloves
+3626,599,Cheese,763,g
+3627,600,Onion,2,pieces
+3628,600,Chicken,261,g
+3629,600,Cheese,282,g
+3630,600,Olive Oil,4,tbsp
+3631,600,Mushroom,431,g
+3632,600,Pasta,670,g
+3633,600,Butter,56,g
+3634,600,Carrot,6,pieces
+3635,601,Garlic,2,cloves
+3636,601,Beef,732,g
+3637,601,Milk,95,ml
+3638,601,Egg,5,pieces
+3639,601,Tomato,1,pieces
+3640,601,Salt,3,tsp
+3641,601,Butter,353,g
+3642,601,Chicken,526,g
+3643,602,Rice,176,g
+3644,602,Garlic,3,cloves
+3645,602,Chili Powder,3,tsp
+3646,602,Egg,3,pieces
+3647,602,Soy Sauce,2,tbsp
+3648,603,Tomato,1,pieces
+3649,603,Mushroom,260,g
+3650,603,Potato,9,pieces
+3651,603,Chili Powder,1,tsp
+3652,604,Mushroom,123,g
+3653,604,Soy Sauce,4,tbsp
+3654,604,Rice,639,g
+3655,604,Beef,189,g
+3656,605,Salt,3,tsp
+3657,605,Rice,771,g
+3658,605,Beef,743,g
+3659,605,Cream,276,ml
+3660,605,Onion,6,pieces
+3661,605,Tomato,3,pieces
+3662,605,Egg,4,pieces
+3663,606,Rice,779,g
+3664,606,Pasta,275,g
+3665,606,Pepper,2,tsp
+3666,606,Onion,3,pieces
+3667,607,Soy Sauce,1,tbsp
+3668,607,Chili Powder,3,tsp
+3669,607,Egg,7,pieces
+3670,607,Pasta,369,g
+3671,607,Butter,476,g
+3672,608,Chili Powder,3,tsp
+3673,608,Pepper,3,tsp
+3674,608,Soy Sauce,3,tbsp
+3675,608,Cheese,186,g
+3676,608,Beef,545,g
+3677,609,Onion,4,pieces
+3678,609,Olive Oil,4,tbsp
+3679,609,Mushroom,157,g
+3680,609,Chili Powder,2,tsp
+3681,609,Rice,354,g
+3682,610,Olive Oil,5,tbsp
+3683,610,Rice,400,g
+3684,610,Egg,7,pieces
+3685,610,Pasta,330,g
+3686,610,Mushroom,555,g
+3687,610,Pepper,1,tsp
+3688,610,Potato,7,pieces
+3689,611,Mushroom,719,g
+3690,611,Garlic,3,cloves
+3691,611,Salt,2,tsp
+3692,611,Pasta,674,g
+3693,611,Olive Oil,1,tbsp
+3694,611,Chili Powder,3,tsp
+3695,612,Onion,3,pieces
+3696,612,Pasta,181,g
+3697,612,Tomato,6,pieces
+3698,612,Chili Powder,1,tsp
+3699,612,Rice,620,g
+3700,613,Egg,10,pieces
+3701,613,Cream,109,ml
+3702,613,Olive Oil,3,tbsp
+3703,613,Pasta,245,g
+3704,614,Carrot,5,pieces
+3705,614,Butter,149,g
+3706,614,Onion,9,pieces
+3707,614,Pepper,3,tsp
+3708,614,Pasta,184,g
+3709,614,Soy Sauce,2,tbsp
+3710,615,Salt,3,tsp
+3711,615,Milk,441,ml
+3712,615,Garlic,3,cloves
+3713,615,Chili Powder,2,tsp
+3714,615,Soy Sauce,5,tbsp
+3715,615,Pepper,2,tsp
+3716,615,Beef,82,g
+3717,616,Soy Sauce,1,tbsp
+3718,616,Mushroom,328,g
+3719,616,Carrot,9,pieces
+3720,616,Garlic,3,cloves
+3721,617,Salt,2,tsp
+3722,617,Cream,296,ml
+3723,617,Garlic,3,cloves
+3724,617,Chicken,554,g
+3725,617,Tomato,7,pieces
+3726,617,Olive Oil,2,tbsp
+3727,618,Soy Sauce,5,tbsp
+3728,618,Chicken,557,g
+3729,618,Olive Oil,1,tbsp
+3730,618,Cream,118,ml
+3731,618,Butter,205,g
+3732,618,Milk,326,ml
+3733,618,Garlic,2,cloves
+3734,619,Onion,2,pieces
+3735,619,Beef,326,g
+3736,619,Cheese,756,g
+3737,619,Cream,247,ml
+3738,619,Salt,3,tsp
+3739,619,Carrot,2,pieces
+3740,619,Butter,710,g
+3741,620,Soy Sauce,1,tbsp
+3742,620,Potato,7,pieces
+3743,620,Onion,1,pieces
+3744,620,Chicken,160,g
+3745,620,Rice,361,g
+3746,620,Pepper,1,tsp
+3747,621,Rice,451,g
+3748,621,Salt,2,tsp
+3749,621,Chicken,296,g
+3750,621,Pepper,1,tsp
+3751,621,Olive Oil,4,tbsp
+3752,621,Soy Sauce,1,tbsp
+3753,621,Onion,4,pieces
+3754,622,Beef,88,g
+3755,622,Cheese,122,g
+3756,622,Tomato,3,pieces
+3757,622,Egg,5,pieces
+3758,622,Carrot,7,pieces
+3759,623,Olive Oil,2,tbsp
+3760,623,Rice,485,g
+3761,623,Onion,2,pieces
+3762,623,Pepper,2,tsp
+3763,624,Rice,208,g
+3764,624,Soy Sauce,5,tbsp
+3765,624,Chili Powder,2,tsp
+3766,624,Garlic,2,cloves
+3767,624,Chicken,137,g
+3768,624,Butter,83,g
+3769,624,Mushroom,133,g
+3770,625,Chicken,545,g
+3771,625,Butter,461,g
+3772,625,Potato,10,pieces
+3773,625,Milk,416,ml
+3774,625,Chili Powder,3,tsp
+3775,625,Beef,288,g
+3776,625,Salt,3,tsp
+3777,625,Onion,9,pieces
+3778,626,Pasta,624,g
+3779,626,Tomato,3,pieces
+3780,626,Beef,594,g
+3781,626,Garlic,3,cloves
+3782,627,Cheese,519,g
+3783,627,Chicken,517,g
+3784,627,Rice,292,g
+3785,627,Mushroom,526,g
+3786,628,Carrot,5,pieces
+3787,628,Rice,745,g
+3788,628,Tomato,4,pieces
+3789,628,Cheese,593,g
+3790,628,Olive Oil,2,tbsp
+3791,628,Potato,8,pieces
+3792,628,Beef,125,g
+3793,628,Garlic,3,cloves
+3794,629,Olive Oil,4,tbsp
+3795,629,Salt,2,tsp
+3796,629,Potato,3,pieces
+3797,629,Butter,364,g
+3798,630,Pasta,631,g
+3799,630,Chicken,572,g
+3800,630,Olive Oil,2,tbsp
+3801,630,Chili Powder,1,tsp
+3802,630,Egg,3,pieces
+3803,630,Garlic,2,cloves
+3804,630,Mushroom,741,g
+3805,630,Beef,693,g
+3806,631,Pasta,612,g
+3807,631,Beef,276,g
+3808,631,Potato,6,pieces
+3809,631,Tomato,1,pieces
+3810,631,Olive Oil,5,tbsp
+3811,631,Soy Sauce,1,tbsp
+3812,631,Rice,798,g
+3813,632,Tomato,8,pieces
+3814,632,Potato,2,pieces
+3815,632,Egg,3,pieces
+3816,632,Carrot,1,pieces
+3817,632,Butter,495,g
+3818,633,Chili Powder,2,tsp
+3819,633,Butter,561,g
+3820,633,Milk,409,ml
+3821,633,Potato,9,pieces
+3822,633,Carrot,6,pieces
+3823,633,Salt,2,tsp
+3824,634,Salt,1,tsp
+3825,634,Chicken,312,g
+3826,634,Milk,346,ml
+3827,634,Soy Sauce,2,tbsp
+3828,634,Mushroom,395,g
+3829,634,Pepper,2,tsp
+3830,634,Onion,8,pieces
+3831,634,Rice,465,g
+3832,635,Olive Oil,5,tbsp
+3833,635,Soy Sauce,3,tbsp
+3834,635,Milk,327,ml
+3835,635,Garlic,3,cloves
+3836,635,Beef,569,g
+3837,635,Chili Powder,2,tsp
+3838,636,Chili Powder,1,tsp
+3839,636,Salt,1,tsp
+3840,636,Egg,10,pieces
+3841,636,Mushroom,799,g
+3842,637,Chili Powder,2,tsp
+3843,637,Egg,7,pieces
+3844,637,Onion,8,pieces
+3845,637,Garlic,1,cloves
+3846,638,Egg,3,pieces
+3847,638,Cream,149,ml
+3848,638,Carrot,3,pieces
+3849,638,Chili Powder,3,tsp
+3850,638,Mushroom,649,g
+3851,638,Pasta,572,g
+3852,638,Cheese,727,g
+3853,639,Cheese,169,g
+3854,639,Butter,743,g
+3855,639,Milk,410,ml
+3856,639,Rice,647,g
+3857,639,Beef,288,g
+3858,639,Onion,2,pieces
+3859,640,Carrot,9,pieces
+3860,640,Onion,7,pieces
+3861,640,Garlic,2,cloves
+3862,640,Butter,167,g
+3863,640,Chili Powder,2,tsp
+3864,640,Olive Oil,5,tbsp
+3865,640,Mushroom,375,g
+3866,640,Beef,187,g
+3867,641,Chili Powder,3,tsp
+3868,641,Salt,2,tsp
+3869,641,Mushroom,506,g
+3870,641,Garlic,1,cloves
+3871,641,Potato,7,pieces
+3872,642,Olive Oil,2,tbsp
+3873,642,Beef,532,g
+3874,642,Mushroom,540,g
+3875,642,Egg,10,pieces
+3876,642,Soy Sauce,3,tbsp
+3877,643,Rice,664,g
+3878,643,Carrot,4,pieces
+3879,643,Mushroom,296,g
+3880,643,Cream,237,ml
+3881,643,Butter,343,g
+3882,643,Salt,2,tsp
+3883,643,Beef,516,g
+3884,643,Chili Powder,1,tsp
+3885,644,Butter,606,g
+3886,644,Tomato,10,pieces
+3887,644,Mushroom,527,g
+3888,644,Olive Oil,5,tbsp
+3889,645,Rice,607,g
+3890,645,Onion,2,pieces
+3891,645,Carrot,8,pieces
+3892,645,Butter,281,g
+3893,646,Chicken,331,g
+3894,646,Soy Sauce,4,tbsp
+3895,646,Carrot,6,pieces
+3896,646,Salt,3,tsp
+3897,646,Onion,4,pieces
+3898,646,Cheese,195,g
+3899,647,Cream,267,ml
+3900,647,Milk,125,ml
+3901,647,Onion,9,pieces
+3902,647,Cheese,595,g
+3903,648,Chicken,172,g
+3904,648,Pasta,414,g
+3905,648,Carrot,9,pieces
+3906,648,Cream,68,ml
+3907,648,Soy Sauce,5,tbsp
+3908,648,Rice,797,g
+3909,648,Mushroom,417,g
+3910,649,Carrot,6,pieces
+3911,649,Tomato,7,pieces
+3912,649,Garlic,3,cloves
+3913,649,Chicken,324,g
+3914,649,Milk,310,ml
+3915,650,Olive Oil,4,tbsp
+3916,650,Chili Powder,2,tsp
+3917,650,Cream,369,ml
+3918,650,Mushroom,153,g
+3919,650,Garlic,2,cloves
+3920,650,Pepper,1,tsp
+3921,650,Carrot,10,pieces
+3922,651,Pasta,697,g
+3923,651,Cheese,143,g
+3924,651,Carrot,8,pieces
+3925,651,Egg,4,pieces
+3926,652,Chili Powder,3,tsp
+3927,652,Soy Sauce,1,tbsp
+3928,652,Cream,318,ml
+3929,652,Pasta,514,g
+3930,652,Salt,2,tsp
+3931,652,Olive Oil,5,tbsp
+3932,653,Chicken,124,g
+3933,653,Cream,82,ml
+3934,653,Beef,302,g
+3935,653,Salt,3,tsp
+3936,653,Onion,4,pieces
+3937,653,Milk,200,ml
+3938,653,Mushroom,707,g
+3939,654,Potato,9,pieces
+3940,654,Milk,51,ml
+3941,654,Garlic,2,cloves
+3942,654,Cream,133,ml
+3943,654,Salt,1,tsp
+3944,654,Egg,4,pieces
+3945,654,Butter,383,g
+3946,654,Chili Powder,1,tsp
+3947,655,Beef,67,g
+3948,655,Rice,580,g
+3949,655,Salt,2,tsp
+3950,655,Potato,6,pieces
+3951,656,Olive Oil,2,tbsp
+3952,656,Cheese,787,g
+3953,656,Mushroom,540,g
+3954,656,Onion,6,pieces
+3955,656,Milk,474,ml
+3956,656,Chicken,563,g
+3957,657,Tomato,8,pieces
+3958,657,Soy Sauce,1,tbsp
+3959,657,Chicken,328,g
+3960,657,Rice,761,g
+3961,657,Butter,182,g
+3962,658,Rice,143,g
+3963,658,Tomato,1,pieces
+3964,658,Butter,290,g
+3965,658,Milk,153,ml
+3966,658,Cream,440,ml
+3967,658,Pasta,613,g
+3968,658,Potato,1,pieces
+3969,659,Mushroom,753,g
+3970,659,Pasta,89,g
+3971,659,Olive Oil,4,tbsp
+3972,659,Butter,749,g
+3973,659,Chicken,526,g
+3974,660,Olive Oil,3,tbsp
+3975,660,Soy Sauce,3,tbsp
+3976,660,Pasta,206,g
+3977,660,Egg,2,pieces
+3978,661,Potato,4,pieces
+3979,661,Rice,649,g
+3980,661,Cheese,52,g
+3981,661,Chili Powder,1,tsp
+3982,661,Soy Sauce,4,tbsp
+3983,661,Pasta,169,g
+3984,661,Milk,306,ml
+3985,661,Garlic,2,cloves
+3986,662,Cream,251,ml
+3987,662,Tomato,6,pieces
+3988,662,Pasta,480,g
+3989,662,Garlic,1,cloves
+3990,663,Olive Oil,3,tbsp
+3991,663,Salt,1,tsp
+3992,663,Pepper,2,tsp
+3993,663,Chili Powder,2,tsp
+3994,663,Milk,361,ml
+3995,664,Mushroom,221,g
+3996,664,Soy Sauce,2,tbsp
+3997,664,Milk,97,ml
+3998,664,Tomato,7,pieces
+3999,664,Pepper,1,tsp
+4000,664,Onion,8,pieces
+4001,665,Cream,125,ml
+4002,665,Beef,426,g
+4003,665,Butter,800,g
+4004,665,Chicken,790,g
+4005,665,Cheese,709,g
+4006,665,Pepper,3,tsp
+4007,665,Olive Oil,3,tbsp
+4008,665,Salt,2,tsp
+4009,666,Chili Powder,2,tsp
+4010,666,Egg,5,pieces
+4011,666,Potato,7,pieces
+4012,666,Mushroom,661,g
+4013,667,Salt,2,tsp
+4014,667,Soy Sauce,4,tbsp
+4015,667,Potato,2,pieces
+4016,667,Chili Powder,1,tsp
+4017,667,Chicken,170,g
+4018,667,Olive Oil,1,tbsp
+4019,667,Cheese,797,g
+4020,667,Tomato,3,pieces
+4021,668,Mushroom,238,g
+4022,668,Chicken,799,g
+4023,668,Pepper,1,tsp
+4024,668,Olive Oil,3,tbsp
+4025,668,Onion,6,pieces
+4026,668,Rice,526,g
+4027,668,Butter,422,g
+4028,668,Egg,2,pieces
+4029,669,Cheese,334,g
+4030,669,Chicken,365,g
+4031,669,Salt,2,tsp
+4032,669,Milk,372,ml
+4033,670,Chili Powder,2,tsp
+4034,670,Mushroom,361,g
+4035,670,Garlic,1,cloves
+4036,670,Rice,397,g
+4037,670,Milk,458,ml
+4038,671,Chili Powder,2,tsp
+4039,671,Chicken,712,g
+4040,671,Potato,10,pieces
+4041,671,Soy Sauce,5,tbsp
+4042,671,Beef,260,g
+4043,672,Chili Powder,2,tsp
+4044,672,Tomato,3,pieces
+4045,672,Pasta,417,g
+4046,672,Cream,414,ml
+4047,672,Cheese,621,g
+4048,673,Cream,380,ml
+4049,673,Soy Sauce,2,tbsp
+4050,673,Olive Oil,4,tbsp
+4051,673,Chili Powder,3,tsp
+4052,674,Pepper,2,tsp
+4053,674,Onion,9,pieces
+4054,674,Chili Powder,1,tsp
+4055,674,Garlic,3,cloves
+4056,674,Salt,3,tsp
+4057,674,Potato,7,pieces
+4058,674,Beef,454,g
+4059,675,Butter,378,g
+4060,675,Beef,413,g
+4061,675,Carrot,5,pieces
+4062,675,Onion,3,pieces
+4063,675,Mushroom,533,g
+4064,675,Garlic,2,cloves
+4065,675,Tomato,5,pieces
+4066,676,Onion,9,pieces
+4067,676,Potato,5,pieces
+4068,676,Cream,283,ml
+4069,676,Pepper,1,tsp
+4070,676,Olive Oil,5,tbsp
+4071,676,Tomato,5,pieces
+4072,677,Onion,9,pieces
+4073,677,Potato,1,pieces
+4074,677,Milk,275,ml
+4075,677,Garlic,2,cloves
+4076,677,Pasta,96,g
+4077,678,Potato,8,pieces
+4078,678,Tomato,1,pieces
+4079,678,Carrot,3,pieces
+4080,678,Egg,10,pieces
+4081,678,Garlic,3,cloves
+4082,679,Pepper,2,tsp
+4083,679,Cheese,534,g
+4084,679,Milk,293,ml
+4085,679,Soy Sauce,4,tbsp
+4086,679,Butter,755,g
+4087,679,Olive Oil,5,tbsp
+4088,680,Potato,2,pieces
+4089,680,Mushroom,369,g
+4090,680,Butter,800,g
+4091,680,Salt,1,tsp
+4092,681,Potato,9,pieces
+4093,681,Tomato,2,pieces
+4094,681,Pepper,3,tsp
+4095,681,Mushroom,504,g
+4096,681,Olive Oil,1,tbsp
+4097,681,Egg,1,pieces
+4098,681,Milk,320,ml
+4099,681,Soy Sauce,2,tbsp
+4100,682,Chicken,579,g
+4101,682,Tomato,5,pieces
+4102,682,Potato,7,pieces
+4103,682,Cheese,373,g
+4104,682,Olive Oil,1,tbsp
+4105,682,Milk,146,ml
+4106,682,Carrot,3,pieces
+4107,683,Tomato,10,pieces
+4108,683,Egg,1,pieces
+4109,683,Carrot,4,pieces
+4110,683,Garlic,3,cloves
+4111,684,Onion,1,pieces
+4112,684,Egg,2,pieces
+4113,684,Rice,146,g
+4114,684,Pasta,281,g
+4115,684,Soy Sauce,5,tbsp
+4116,684,Chicken,704,g
+4117,684,Carrot,7,pieces
+4118,684,Tomato,8,pieces
+4119,685,Butter,525,g
+4120,685,Garlic,3,cloves
+4121,685,Cream,209,ml
+4122,685,Chicken,719,g
+4123,685,Olive Oil,3,tbsp
+4124,685,Onion,2,pieces
+4125,686,Tomato,5,pieces
+4126,686,Cheese,479,g
+4127,686,Chili Powder,3,tsp
+4128,686,Chicken,51,g
+4129,686,Soy Sauce,3,tbsp
+4130,686,Olive Oil,5,tbsp
+4131,687,Garlic,1,cloves
+4132,687,Pepper,1,tsp
+4133,687,Rice,521,g
+4134,687,Salt,2,tsp
+4135,687,Tomato,5,pieces
+4136,687,Milk,209,ml
+4137,688,Carrot,9,pieces
+4138,688,Beef,133,g
+4139,688,Pasta,454,g
+4140,688,Chili Powder,2,tsp
+4141,689,Potato,10,pieces
+4142,689,Rice,739,g
+4143,689,Cream,105,ml
+4144,689,Milk,156,ml
+4145,689,Mushroom,126,g
+4146,689,Salt,1,tsp
+4147,689,Carrot,7,pieces
+4148,689,Chili Powder,3,tsp
+4149,690,Chili Powder,1,tsp
+4150,690,Butter,438,g
+4151,690,Mushroom,742,g
+4152,690,Cheese,256,g
+4153,690,Beef,604,g
+4154,690,Pepper,3,tsp
+4155,690,Chicken,612,g
+4156,691,Garlic,3,cloves
+4157,691,Mushroom,476,g
+4158,691,Butter,417,g
+4159,691,Onion,5,pieces
+4160,691,Cheese,136,g
+4161,691,Beef,511,g
+4162,692,Salt,3,tsp
+4163,692,Cream,248,ml
+4164,692,Potato,1,pieces
+4165,692,Cheese,240,g
+4166,692,Pasta,566,g
+4167,692,Mushroom,259,g
+4168,693,Chicken,596,g
+4169,693,Onion,5,pieces
+4170,693,Pepper,1,tsp
+4171,693,Soy Sauce,3,tbsp
+4172,693,Carrot,4,pieces
+4173,693,Beef,218,g
+4174,693,Milk,496,ml
+4175,693,Egg,1,pieces
+4176,694,Chili Powder,3,tsp
+4177,694,Mushroom,800,g
+4178,694,Garlic,3,cloves
+4179,694,Pasta,421,g
+4180,694,Beef,549,g
+4181,694,Chicken,242,g
+4182,694,Butter,657,g
+4183,694,Rice,76,g
+4184,695,Olive Oil,3,tbsp
+4185,695,Beef,686,g
+4186,695,Egg,2,pieces
+4187,695,Cream,265,ml
+4188,695,Chicken,518,g
+4189,695,Cheese,78,g
+4190,695,Potato,4,pieces
+4191,695,Mushroom,296,g
+4192,696,Mushroom,552,g
+4193,696,Soy Sauce,2,tbsp
+4194,696,Onion,2,pieces
+4195,696,Carrot,4,pieces
+4196,696,Milk,432,ml
+4197,696,Beef,767,g
+4198,696,Cream,331,ml
+4199,696,Pepper,1,tsp
+4200,697,Soy Sauce,2,tbsp
+4201,697,Egg,9,pieces
+4202,697,Rice,760,g
+4203,697,Cream,64,ml
+4204,698,Chili Powder,1,tsp
+4205,698,Milk,102,ml
+4206,698,Cream,237,ml
+4207,698,Soy Sauce,4,tbsp
+4208,699,Pepper,1,tsp
+4209,699,Pasta,647,g
+4210,699,Rice,81,g
+4211,699,Olive Oil,3,tbsp
+4212,699,Butter,534,g
+4213,699,Tomato,10,pieces
+4214,700,Milk,53,ml
+4215,700,Tomato,2,pieces
+4216,700,Butter,234,g
+4217,700,Salt,3,tsp
+4218,700,Pasta,446,g
+4219,700,Cheese,774,g
+4220,701,Carrot,9,pieces
+4221,701,Cream,439,ml
+4222,701,Tomato,5,pieces
+4223,701,Potato,9,pieces
+4224,701,Salt,1,tsp
+4225,701,Egg,5,pieces
+4226,701,Garlic,2,cloves
+4227,701,Pepper,1,tsp
+4228,702,Mushroom,78,g
+4229,702,Pepper,1,tsp
+4230,702,Butter,570,g
+4231,702,Rice,466,g
+4232,702,Cream,261,ml
+4233,702,Carrot,3,pieces
+4234,702,Soy Sauce,1,tbsp
+4235,702,Cheese,703,g
+4236,703,Carrot,4,pieces
+4237,703,Soy Sauce,3,tbsp
+4238,703,Tomato,7,pieces
+4239,703,Pasta,555,g
+4240,704,Onion,3,pieces
+4241,704,Mushroom,282,g
+4242,704,Chicken,251,g
+4243,704,Tomato,10,pieces
+4244,704,Egg,10,pieces
+4245,704,Carrot,3,pieces
+4246,704,Butter,572,g
+4247,704,Chili Powder,3,tsp
+4248,705,Milk,174,ml
+4249,705,Egg,2,pieces
+4250,705,Pasta,578,g
+4251,705,Cream,93,ml
+4252,705,Chicken,468,g
+4253,705,Cheese,60,g
+4254,706,Mushroom,529,g
+4255,706,Carrot,8,pieces
+4256,706,Soy Sauce,5,tbsp
+4257,706,Egg,5,pieces
+4258,707,Onion,7,pieces
+4259,707,Cream,278,ml
+4260,707,Pepper,1,tsp
+4261,707,Potato,3,pieces
+4262,707,Rice,781,g
+4263,707,Cheese,206,g
+4264,708,Chili Powder,2,tsp
+4265,708,Garlic,1,cloves
+4266,708,Salt,1,tsp
+4267,708,Olive Oil,2,tbsp
+4268,708,Rice,661,g
+4269,708,Egg,1,pieces
+4270,708,Chicken,621,g
+4271,708,Soy Sauce,1,tbsp
+4272,709,Beef,570,g
+4273,709,Chicken,671,g
+4274,709,Rice,673,g
+4275,709,Salt,2,tsp
+4276,709,Milk,328,ml
+4277,709,Pasta,597,g
+4278,710,Carrot,6,pieces
+4279,710,Chili Powder,1,tsp
+4280,710,Chicken,355,g
+4281,710,Pasta,434,g
+4282,710,Onion,1,pieces
+4283,710,Soy Sauce,5,tbsp
+4284,710,Beef,150,g
+4285,710,Garlic,1,cloves
+4286,711,Chili Powder,1,tsp
+4287,711,Olive Oil,3,tbsp
+4288,711,Pepper,2,tsp
+4289,711,Mushroom,145,g
+4290,711,Cheese,256,g
+4291,711,Carrot,10,pieces
+4292,712,Potato,10,pieces
+4293,712,Pasta,698,g
+4294,712,Chicken,109,g
+4295,712,Carrot,2,pieces
+4296,712,Garlic,1,cloves
+4297,712,Cheese,528,g
+4298,712,Tomato,2,pieces
+4299,712,Olive Oil,2,tbsp
+4300,713,Milk,429,ml
+4301,713,Rice,298,g
+4302,713,Pasta,791,g
+4303,713,Pepper,2,tsp
+4304,713,Soy Sauce,3,tbsp
+4305,713,Cheese,100,g
+4306,714,Butter,469,g
+4307,714,Mushroom,706,g
+4308,714,Egg,2,pieces
+4309,714,Chili Powder,1,tsp
+4310,714,Pepper,3,tsp
+4311,714,Beef,493,g
+4312,714,Carrot,3,pieces
+4313,715,Chili Powder,3,tsp
+4314,715,Tomato,10,pieces
+4315,715,Onion,2,pieces
+4316,715,Salt,1,tsp
+4317,715,Carrot,1,pieces
+4318,716,Egg,2,pieces
+4319,716,Beef,584,g
+4320,716,Chili Powder,3,tsp
+4321,716,Carrot,2,pieces
+4322,716,Salt,1,tsp
+4323,716,Olive Oil,4,tbsp
+4324,716,Garlic,1,cloves
+4325,717,Tomato,10,pieces
+4326,717,Onion,6,pieces
+4327,717,Milk,410,ml
+4328,717,Garlic,3,cloves
+4329,717,Potato,4,pieces
+4330,717,Pepper,1,tsp
+4331,717,Chicken,637,g
+4332,718,Pepper,2,tsp
+4333,718,Egg,5,pieces
+4334,718,Garlic,1,cloves
+4335,718,Cheese,304,g
+4336,718,Soy Sauce,5,tbsp
+4337,718,Potato,10,pieces
+4338,718,Chicken,465,g
+4339,718,Cream,183,ml
+4340,719,Potato,3,pieces
+4341,719,Milk,300,ml
+4342,719,Egg,1,pieces
+4343,719,Mushroom,70,g
+4344,719,Pepper,1,tsp
+4345,720,Milk,108,ml
+4346,720,Salt,3,tsp
+4347,720,Pasta,618,g
+4348,720,Potato,10,pieces
+4349,720,Egg,3,pieces
+4350,721,Carrot,5,pieces
+4351,721,Pepper,2,tsp
+4352,721,Rice,267,g
+4353,721,Chicken,544,g
+4354,721,Salt,2,tsp
+4355,721,Onion,7,pieces
+4356,722,Pasta,142,g
+4357,722,Egg,3,pieces
+4358,722,Chili Powder,2,tsp
+4359,722,Cream,286,ml
+4360,722,Onion,6,pieces
+4361,723,Beef,736,g
+4362,723,Rice,112,g
+4363,723,Egg,3,pieces
+4364,723,Milk,474,ml
+4365,723,Olive Oil,1,tbsp
+4366,723,Mushroom,101,g
+4367,723,Cheese,599,g
+4368,724,Milk,291,ml
+4369,724,Pepper,2,tsp
+4370,724,Soy Sauce,5,tbsp
+4371,724,Garlic,3,cloves
+4372,724,Carrot,8,pieces
+4373,724,Egg,6,pieces
+4374,724,Tomato,9,pieces
+4375,724,Potato,8,pieces
+4376,725,Pasta,545,g
+4377,725,Carrot,4,pieces
+4378,725,Pepper,2,tsp
+4379,725,Soy Sauce,2,tbsp
+4380,726,Mushroom,716,g
+4381,726,Milk,234,ml
+4382,726,Garlic,2,cloves
+4383,726,Carrot,7,pieces
+4384,726,Pepper,3,tsp
+4385,727,Potato,1,pieces
+4386,727,Egg,2,pieces
+4387,727,Chicken,796,g
+4388,727,Cream,116,ml
+4389,728,Egg,8,pieces
+4390,728,Tomato,1,pieces
+4391,728,Onion,7,pieces
+4392,728,Salt,3,tsp
+4393,728,Mushroom,236,g
+4394,729,Cream,71,ml
+4395,729,Salt,1,tsp
+4396,729,Carrot,4,pieces
+4397,729,Olive Oil,5,tbsp
+4398,729,Soy Sauce,4,tbsp
+4399,729,Mushroom,162,g
+4400,729,Onion,7,pieces
+4401,730,Mushroom,352,g
+4402,730,Chicken,573,g
+4403,730,Pasta,476,g
+4404,730,Rice,251,g
+4405,730,Onion,1,pieces
+4406,730,Carrot,1,pieces
+4407,730,Chili Powder,1,tsp
+4408,730,Butter,211,g
+4409,731,Chicken,705,g
+4410,731,Olive Oil,2,tbsp
+4411,731,Pepper,1,tsp
+4412,731,Salt,2,tsp
+4413,731,Mushroom,185,g
+4414,732,Butter,454,g
+4415,732,Mushroom,619,g
+4416,732,Pepper,1,tsp
+4417,732,Chicken,74,g
+4418,733,Mushroom,178,g
+4419,733,Onion,2,pieces
+4420,733,Soy Sauce,3,tbsp
+4421,733,Tomato,8,pieces
+4422,733,Olive Oil,3,tbsp
+4423,733,Cheese,442,g
+4424,734,Onion,5,pieces
+4425,734,Mushroom,215,g
+4426,734,Pasta,202,g
+4427,734,Pepper,3,tsp
+4428,734,Milk,374,ml
+4429,734,Egg,6,pieces
+4430,734,Garlic,3,cloves
+4431,735,Cheese,787,g
+4432,735,Cream,436,ml
+4433,735,Garlic,1,cloves
+4434,735,Potato,5,pieces
+4435,735,Rice,255,g
+4436,735,Beef,172,g
+4437,735,Salt,1,tsp
+4438,736,Butter,399,g
+4439,736,Cheese,569,g
+4440,736,Rice,542,g
+4441,736,Chicken,283,g
+4442,736,Potato,10,pieces
+4443,737,Cheese,692,g
+4444,737,Tomato,3,pieces
+4445,737,Potato,3,pieces
+4446,737,Soy Sauce,5,tbsp
+4447,737,Beef,618,g
+4448,737,Onion,1,pieces
+4449,737,Olive Oil,3,tbsp
+4450,737,Rice,475,g
+4451,738,Olive Oil,2,tbsp
+4452,738,Pasta,521,g
+4453,738,Butter,206,g
+4454,738,Carrot,3,pieces
+4455,738,Chicken,148,g
+4456,738,Tomato,5,pieces
+4457,738,Milk,240,ml
+4458,739,Pepper,1,tsp
+4459,739,Mushroom,487,g
+4460,739,Butter,614,g
+4461,739,Carrot,3,pieces
+4462,740,Potato,6,pieces
+4463,740,Beef,304,g
+4464,740,Chicken,342,g
+4465,740,Milk,116,ml
+4466,741,Onion,3,pieces
+4467,741,Chili Powder,2,tsp
+4468,741,Soy Sauce,1,tbsp
+4469,741,Rice,126,g
+4470,741,Butter,662,g
+4471,741,Chicken,529,g
+4472,742,Mushroom,573,g
+4473,742,Cheese,444,g
+4474,742,Pepper,2,tsp
+4475,742,Tomato,1,pieces
+4476,742,Garlic,1,cloves
+4477,742,Olive Oil,5,tbsp
+4478,742,Potato,9,pieces
+4479,742,Cream,241,ml
+4480,743,Pepper,2,tsp
+4481,743,Onion,9,pieces
+4482,743,Mushroom,77,g
+4483,743,Chicken,523,g
+4484,743,Potato,3,pieces
+4485,744,Potato,3,pieces
+4486,744,Carrot,1,pieces
+4487,744,Egg,10,pieces
+4488,744,Rice,290,g
+4489,744,Garlic,1,cloves
+4490,744,Mushroom,166,g
+4491,744,Chili Powder,2,tsp
+4492,744,Tomato,7,pieces
+4493,745,Pepper,3,tsp
+4494,745,Tomato,3,pieces
+4495,745,Chicken,344,g
+4496,745,Butter,645,g
+4497,746,Pepper,1,tsp
+4498,746,Butter,588,g
+4499,746,Salt,3,tsp
+4500,746,Olive Oil,5,tbsp
+4501,746,Carrot,1,pieces
+4502,746,Cheese,235,g
+4503,746,Chili Powder,3,tsp
+4504,747,Beef,471,g
+4505,747,Butter,223,g
+4506,747,Egg,7,pieces
+4507,747,Chili Powder,1,tsp
+4508,748,Cheese,537,g
+4509,748,Pasta,228,g
+4510,748,Cream,177,ml
+4511,748,Beef,783,g
+4512,748,Carrot,7,pieces
+4513,748,Butter,230,g
+4514,748,Garlic,3,cloves
+4515,749,Carrot,3,pieces
+4516,749,Beef,428,g
+4517,749,Egg,6,pieces
+4518,749,Butter,553,g
+4519,749,Soy Sauce,4,tbsp
+4520,749,Potato,9,pieces
+4521,749,Cheese,80,g
+4522,749,Onion,8,pieces
+4523,750,Chili Powder,2,tsp
+4524,750,Butter,278,g
+4525,750,Cheese,216,g
+4526,750,Rice,611,g
+4527,750,Egg,2,pieces
+4528,750,Pasta,672,g
+4529,751,Butter,496,g
+4530,751,Beef,58,g
+4531,751,Chili Powder,3,tsp
+4532,751,Pepper,2,tsp
+4533,751,Soy Sauce,5,tbsp
+4534,752,Mushroom,770,g
+4535,752,Tomato,3,pieces
+4536,752,Garlic,2,cloves
+4537,752,Butter,354,g
+4538,753,Milk,370,ml
+4539,753,Garlic,3,cloves
+4540,753,Soy Sauce,4,tbsp
+4541,753,Cheese,687,g
+4542,753,Butter,784,g
+4543,754,Onion,8,pieces
+4544,754,Salt,2,tsp
+4545,754,Chili Powder,3,tsp
+4546,754,Butter,441,g
+4547,754,Olive Oil,3,tbsp
+4548,754,Cream,59,ml
+4549,754,Rice,633,g
+4550,755,Beef,599,g
+4551,755,Mushroom,650,g
+4552,755,Olive Oil,4,tbsp
+4553,755,Cheese,173,g
+4554,755,Onion,7,pieces
+4555,755,Chili Powder,3,tsp
+4556,755,Carrot,2,pieces
+4557,755,Pasta,379,g
+4558,756,Butter,344,g
+4559,756,Beef,379,g
+4560,756,Egg,6,pieces
+4561,756,Carrot,2,pieces
+4562,756,Potato,1,pieces
+4563,756,Onion,8,pieces
+4564,756,Cheese,791,g
+4565,757,Salt,2,tsp
+4566,757,Soy Sauce,1,tbsp
+4567,757,Chicken,414,g
+4568,757,Milk,296,ml
+4569,758,Salt,1,tsp
+4570,758,Chicken,645,g
+4571,758,Cheese,371,g
+4572,758,Potato,10,pieces
+4573,758,Chili Powder,3,tsp
+4574,758,Beef,436,g
+4575,759,Pepper,2,tsp
+4576,759,Garlic,1,cloves
+4577,759,Milk,426,ml
+4578,759,Soy Sauce,2,tbsp
+4579,759,Cream,355,ml
+4580,760,Garlic,2,cloves
+4581,760,Olive Oil,5,tbsp
+4582,760,Onion,9,pieces
+4583,760,Butter,78,g
+4584,760,Cream,231,ml
+4585,760,Chili Powder,3,tsp
+4586,760,Salt,2,tsp
+4587,761,Tomato,7,pieces
+4588,761,Onion,1,pieces
+4589,761,Pasta,506,g
+4590,761,Rice,685,g
+4591,761,Carrot,8,pieces
+4592,762,Pepper,2,tsp
+4593,762,Egg,9,pieces
+4594,762,Beef,191,g
+4595,762,Carrot,8,pieces
+4596,762,Salt,2,tsp
+4597,762,Milk,458,ml
+4598,762,Mushroom,519,g
+4599,762,Garlic,1,cloves
+4600,763,Egg,1,pieces
+4601,763,Butter,700,g
+4602,763,Carrot,8,pieces
+4603,763,Pepper,2,tsp
+4604,763,Garlic,2,cloves
+4605,763,Potato,4,pieces
+4606,763,Salt,1,tsp
+4607,763,Onion,7,pieces
+4608,764,Onion,10,pieces
+4609,764,Potato,4,pieces
+4610,764,Milk,185,ml
+4611,764,Pasta,267,g
+4612,764,Cream,110,ml
+4613,764,Chicken,164,g
+4614,764,Mushroom,517,g
+4615,764,Cheese,505,g
+4616,765,Carrot,10,pieces
+4617,765,Cream,117,ml
+4618,765,Rice,391,g
+4619,765,Pepper,3,tsp
+4620,765,Olive Oil,2,tbsp
+4621,766,Milk,358,ml
+4622,766,Onion,7,pieces
+4623,766,Pasta,677,g
+4624,766,Cheese,473,g
+4625,766,Cream,338,ml
+4626,766,Carrot,7,pieces
+4627,766,Salt,2,tsp
+4628,767,Garlic,3,cloves
+4629,767,Butter,676,g
+4630,767,Potato,7,pieces
+4631,767,Onion,10,pieces
+4632,767,Pepper,3,tsp
+4633,768,Garlic,3,cloves
+4634,768,Chicken,703,g
+4635,768,Chili Powder,3,tsp
+4636,768,Milk,229,ml
+4637,768,Olive Oil,2,tbsp
+4638,768,Egg,5,pieces
+4639,768,Tomato,1,pieces
+4640,769,Egg,5,pieces
+4641,769,Carrot,7,pieces
+4642,769,Pasta,439,g
+4643,769,Potato,2,pieces
+4644,769,Beef,56,g
+4645,769,Olive Oil,4,tbsp
+4646,769,Mushroom,617,g
+4647,770,Pepper,1,tsp
+4648,770,Tomato,1,pieces
+4649,770,Beef,514,g
+4650,770,Chicken,539,g
+4651,771,Chili Powder,1,tsp
+4652,771,Soy Sauce,2,tbsp
+4653,771,Olive Oil,5,tbsp
+4654,771,Chicken,175,g
+4655,771,Rice,66,g
+4656,772,Pasta,110,g
+4657,772,Onion,8,pieces
+4658,772,Cream,106,ml
+4659,772,Olive Oil,2,tbsp
+4660,772,Carrot,1,pieces
+4661,772,Garlic,1,cloves
+4662,772,Mushroom,696,g
+4663,773,Butter,391,g
+4664,773,Garlic,3,cloves
+4665,773,Egg,6,pieces
+4666,773,Soy Sauce,4,tbsp
+4667,773,Chili Powder,2,tsp
+4668,773,Carrot,4,pieces
+4669,773,Pasta,315,g
+4670,773,Potato,2,pieces
+4671,774,Milk,227,ml
+4672,774,Cream,91,ml
+4673,774,Olive Oil,4,tbsp
+4674,774,Mushroom,251,g
+4675,774,Soy Sauce,3,tbsp
+4676,774,Rice,292,g
+4677,774,Garlic,1,cloves
+4678,775,Potato,9,pieces
+4679,775,Soy Sauce,5,tbsp
+4680,775,Salt,2,tsp
+4681,775,Pasta,672,g
+4682,775,Milk,400,ml
+4683,775,Rice,585,g
+4684,775,Chicken,238,g
+4685,775,Egg,3,pieces
+4686,776,Potato,10,pieces
+4687,776,Cheese,773,g
+4688,776,Pepper,1,tsp
+4689,776,Olive Oil,2,tbsp
+4690,776,Egg,7,pieces
+4691,776,Pasta,361,g
+4692,776,Butter,564,g
+4693,776,Tomato,10,pieces
+4694,777,Potato,3,pieces
+4695,777,Egg,2,pieces
+4696,777,Beef,108,g
+4697,777,Olive Oil,4,tbsp
+4698,777,Milk,198,ml
+4699,777,Pasta,496,g
+4700,777,Butter,153,g
+4701,778,Milk,167,ml
+4702,778,Chicken,410,g
+4703,778,Salt,2,tsp
+4704,778,Egg,7,pieces
+4705,778,Cheese,575,g
+4706,778,Soy Sauce,2,tbsp
+4707,778,Garlic,1,cloves
+4708,779,Egg,6,pieces
+4709,779,Olive Oil,2,tbsp
+4710,779,Onion,7,pieces
+4711,779,Tomato,5,pieces
+4712,780,Garlic,1,cloves
+4713,780,Pasta,504,g
+4714,780,Onion,4,pieces
+4715,780,Olive Oil,3,tbsp
+4716,780,Milk,105,ml
+4717,781,Tomato,2,pieces
+4718,781,Egg,3,pieces
+4719,781,Milk,358,ml
+4720,781,Pepper,3,tsp
+4721,781,Mushroom,504,g
+4722,782,Milk,185,ml
+4723,782,Soy Sauce,1,tbsp
+4724,782,Chicken,398,g
+4725,782,Mushroom,214,g
+4726,782,Pasta,406,g
+4727,782,Butter,342,g
+4728,782,Olive Oil,5,tbsp
+4729,783,Potato,6,pieces
+4730,783,Onion,3,pieces
+4731,783,Olive Oil,2,tbsp
+4732,783,Cheese,733,g
+4733,783,Soy Sauce,3,tbsp
+4734,783,Milk,281,ml
+4735,784,Garlic,1,cloves
+4736,784,Pasta,657,g
+4737,784,Beef,571,g
+4738,784,Cheese,563,g
+4739,784,Potato,7,pieces
+4740,784,Carrot,9,pieces
+4741,784,Olive Oil,4,tbsp
+4742,784,Mushroom,700,g
+4743,785,Cheese,70,g
+4744,785,Butter,202,g
+4745,785,Onion,4,pieces
+4746,785,Garlic,1,cloves
+4747,785,Olive Oil,4,tbsp
+4748,785,Chili Powder,3,tsp
+4749,786,Carrot,5,pieces
+4750,786,Rice,785,g
+4751,786,Chicken,293,g
+4752,786,Olive Oil,2,tbsp
+4753,786,Tomato,9,pieces
+4754,786,Soy Sauce,5,tbsp
+4755,787,Pepper,2,tsp
+4756,787,Cheese,475,g
+4757,787,Carrot,6,pieces
+4758,787,Chicken,359,g
+4759,787,Milk,134,ml
+4760,787,Beef,670,g
+4761,788,Tomato,8,pieces
+4762,788,Soy Sauce,1,tbsp
+4763,788,Beef,228,g
+4764,788,Potato,3,pieces
+4765,788,Cheese,111,g
+4766,788,Butter,506,g
+4767,788,Carrot,3,pieces
+4768,788,Garlic,3,cloves
+4769,789,Rice,82,g
+4770,789,Carrot,7,pieces
+4771,789,Beef,410,g
+4772,789,Mushroom,392,g
+4773,789,Tomato,3,pieces
+4774,789,Pepper,1,tsp
+4775,790,Pasta,790,g
+4776,790,Egg,4,pieces
+4777,790,Chicken,170,g
+4778,790,Olive Oil,4,tbsp
+4779,790,Mushroom,80,g
+4780,790,Pepper,2,tsp
+4781,791,Carrot,4,pieces
+4782,791,Salt,3,tsp
+4783,791,Onion,3,pieces
+4784,791,Potato,6,pieces
+4785,791,Olive Oil,3,tbsp
+4786,791,Pasta,665,g
+4787,791,Soy Sauce,1,tbsp
+4788,792,Chicken,126,g
+4789,792,Olive Oil,4,tbsp
+4790,792,Onion,2,pieces
+4791,792,Salt,1,tsp
+4792,792,Rice,306,g
+4793,793,Milk,60,ml
+4794,793,Carrot,1,pieces
+4795,793,Tomato,7,pieces
+4796,793,Butter,79,g
+4797,793,Olive Oil,3,tbsp
+4798,793,Egg,8,pieces
+4799,793,Beef,432,g
+4800,793,Garlic,1,cloves
+4801,794,Butter,287,g
+4802,794,Garlic,1,cloves
+4803,794,Onion,8,pieces
+4804,794,Chicken,673,g
+4805,794,Soy Sauce,5,tbsp
+4806,794,Pepper,1,tsp
+4807,794,Carrot,2,pieces
+4808,795,Chicken,416,g
+4809,795,Beef,408,g
+4810,795,Olive Oil,2,tbsp
+4811,795,Milk,87,ml
+4812,795,Garlic,2,cloves
+4813,795,Chili Powder,2,tsp
+4814,795,Tomato,3,pieces
+4815,796,Onion,9,pieces
+4816,796,Olive Oil,4,tbsp
+4817,796,Cream,163,ml
+4818,796,Chicken,573,g
+4819,796,Potato,4,pieces
+4820,797,Pasta,599,g
+4821,797,Soy Sauce,4,tbsp
+4822,797,Beef,745,g
+4823,797,Rice,572,g
+4824,797,Olive Oil,5,tbsp
+4825,798,Pepper,1,tsp
+4826,798,Salt,2,tsp
+4827,798,Carrot,5,pieces
+4828,798,Pasta,739,g
+4829,798,Tomato,8,pieces
+4830,799,Carrot,1,pieces
+4831,799,Beef,546,g
+4832,799,Cheese,693,g
+4833,799,Mushroom,530,g
+4834,799,Olive Oil,4,tbsp
+4835,799,Egg,2,pieces
+4836,799,Butter,80,g
+4837,800,Potato,3,pieces
+4838,800,Carrot,1,pieces
+4839,800,Pepper,3,tsp
+4840,800,Chicken,173,g
+4841,800,Milk,375,ml
+4842,800,Beef,480,g
+4843,800,Onion,8,pieces
+4844,800,Mushroom,362,g
+4845,801,Potato,10,pieces
+4846,801,Garlic,2,cloves
+4847,801,Beef,367,g
+4848,801,Chicken,504,g
+4849,801,Mushroom,570,g
+4850,801,Salt,2,tsp
+4851,801,Tomato,2,pieces
+4852,802,Rice,172,g
+4853,802,Pepper,2,tsp
+4854,802,Mushroom,722,g
+4855,802,Tomato,4,pieces
+4856,802,Chili Powder,1,tsp
+4857,802,Egg,9,pieces
+4858,802,Beef,358,g
+4859,803,Pasta,217,g
+4860,803,Garlic,3,cloves
+4861,803,Salt,3,tsp
+4862,803,Rice,542,g
+4863,804,Olive Oil,2,tbsp
+4864,804,Pasta,247,g
+4865,804,Mushroom,297,g
+4866,804,Cream,253,ml
+4867,804,Chili Powder,3,tsp
+4868,804,Potato,3,pieces
+4869,804,Butter,222,g
+4870,804,Salt,3,tsp
+4871,805,Cheese,600,g
+4872,805,Chicken,698,g
+4873,805,Milk,331,ml
+4874,805,Soy Sauce,2,tbsp
+4875,805,Potato,1,pieces
+4876,806,Tomato,1,pieces
+4877,806,Olive Oil,3,tbsp
+4878,806,Garlic,3,cloves
+4879,806,Rice,125,g
+4880,806,Chili Powder,1,tsp
+4881,806,Milk,427,ml
+4882,806,Salt,2,tsp
+4883,807,Cheese,459,g
+4884,807,Salt,1,tsp
+4885,807,Cream,132,ml
+4886,807,Butter,310,g
+4887,807,Egg,9,pieces
+4888,807,Tomato,2,pieces
+4889,808,Butter,457,g
+4890,808,Cream,217,ml
+4891,808,Mushroom,512,g
+4892,808,Tomato,6,pieces
+4893,808,Egg,3,pieces
+4894,808,Salt,1,tsp
+4895,809,Carrot,5,pieces
+4896,809,Pepper,3,tsp
+4897,809,Pasta,609,g
+4898,809,Cheese,155,g
+4899,809,Chicken,327,g
+4900,810,Soy Sauce,5,tbsp
+4901,810,Garlic,3,cloves
+4902,810,Chicken,594,g
+4903,810,Egg,9,pieces
+4904,810,Pasta,559,g
+4905,810,Onion,8,pieces
+4906,811,Chili Powder,3,tsp
+4907,811,Mushroom,182,g
+4908,811,Garlic,1,cloves
+4909,811,Olive Oil,3,tbsp
+4910,812,Milk,319,ml
+4911,812,Carrot,1,pieces
+4912,812,Cheese,637,g
+4913,812,Potato,2,pieces
+4914,813,Butter,541,g
+4915,813,Pasta,686,g
+4916,813,Salt,3,tsp
+4917,813,Pepper,2,tsp
+4918,814,Potato,9,pieces
+4919,814,Rice,283,g
+4920,814,Butter,323,g
+4921,814,Pasta,579,g
+4922,814,Pepper,1,tsp
+4923,814,Milk,368,ml
+4924,815,Mushroom,799,g
+4925,815,Chili Powder,3,tsp
+4926,815,Salt,3,tsp
+4927,815,Egg,1,pieces
+4928,815,Chicken,102,g
+4929,815,Cream,248,ml
+4930,816,Milk,315,ml
+4931,816,Chili Powder,2,tsp
+4932,816,Cream,100,ml
+4933,816,Onion,4,pieces
+4934,816,Carrot,7,pieces
+4935,816,Butter,737,g
+4936,817,Cream,120,ml
+4937,817,Soy Sauce,4,tbsp
+4938,817,Chili Powder,2,tsp
+4939,817,Cheese,162,g
+4940,818,Carrot,8,pieces
+4941,818,Mushroom,386,g
+4942,818,Onion,3,pieces
+4943,818,Cream,101,ml
+4944,819,Butter,619,g
+4945,819,Olive Oil,1,tbsp
+4946,819,Milk,228,ml
+4947,819,Beef,71,g
+4948,819,Chili Powder,1,tsp
+4949,819,Cream,291,ml
+4950,819,Mushroom,327,g
+4951,820,Beef,563,g
+4952,820,Chicken,729,g
+4953,820,Pepper,2,tsp
+4954,820,Olive Oil,1,tbsp
+4955,820,Butter,464,g
+4956,820,Carrot,9,pieces
+4957,820,Garlic,2,cloves
+4958,821,Milk,278,ml
+4959,821,Onion,3,pieces
+4960,821,Beef,671,g
+4961,821,Carrot,10,pieces
+4962,821,Chicken,530,g
+4963,822,Milk,442,ml
+4964,822,Beef,708,g
+4965,822,Salt,2,tsp
+4966,822,Pepper,1,tsp
+4967,822,Chicken,698,g
+4968,822,Olive Oil,4,tbsp
+4969,823,Tomato,10,pieces
+4970,823,Mushroom,225,g
+4971,823,Olive Oil,3,tbsp
+4972,823,Milk,248,ml
+4973,823,Salt,2,tsp
+4974,824,Garlic,1,cloves
+4975,824,Butter,50,g
+4976,824,Salt,2,tsp
+4977,824,Rice,555,g
+4978,824,Chicken,438,g
+4979,824,Onion,7,pieces
+4980,824,Cream,239,ml
+4981,825,Salt,3,tsp
+4982,825,Chicken,252,g
+4983,825,Potato,3,pieces
+4984,825,Olive Oil,3,tbsp
+4985,826,Cream,56,ml
+4986,826,Beef,465,g
+4987,826,Pepper,1,tsp
+4988,826,Butter,305,g
+4989,827,Rice,475,g
+4990,827,Garlic,1,cloves
+4991,827,Egg,8,pieces
+4992,827,Chili Powder,3,tsp
+4993,827,Cheese,268,g
+4994,827,Milk,423,ml
+4995,827,Pepper,1,tsp
+4996,827,Carrot,5,pieces
+4997,828,Pasta,554,g
+4998,828,Olive Oil,5,tbsp
+4999,828,Cheese,733,g
+5000,828,Carrot,3,pieces
+5001,828,Egg,5,pieces
+5002,828,Potato,7,pieces
+5003,829,Olive Oil,4,tbsp
+5004,829,Salt,3,tsp
+5005,829,Mushroom,136,g
+5006,829,Rice,539,g
+5007,829,Chili Powder,2,tsp
+5008,829,Onion,9,pieces
+5009,829,Carrot,5,pieces
+5010,830,Beef,454,g
+5011,830,Potato,5,pieces
+5012,830,Pepper,1,tsp
+5013,830,Carrot,4,pieces
+5014,830,Onion,6,pieces
+5015,830,Soy Sauce,2,tbsp
+5016,830,Cream,254,ml
+5017,831,Onion,1,pieces
+5018,831,Egg,10,pieces
+5019,831,Tomato,1,pieces
+5020,831,Garlic,2,cloves
+5021,831,Potato,6,pieces
+5022,832,Pepper,3,tsp
+5023,832,Tomato,9,pieces
+5024,832,Milk,235,ml
+5025,832,Garlic,3,cloves
+5026,833,Butter,662,g
+5027,833,Milk,485,ml
+5028,833,Chili Powder,2,tsp
+5029,833,Egg,10,pieces
+5030,833,Chicken,196,g
+5031,833,Pepper,3,tsp
+5032,833,Onion,5,pieces
+5033,834,Rice,197,g
+5034,834,Potato,6,pieces
+5035,834,Garlic,1,cloves
+5036,834,Salt,2,tsp
+5037,834,Cream,172,ml
+5038,834,Cheese,142,g
+5039,835,Olive Oil,4,tbsp
+5040,835,Cream,88,ml
+5041,835,Pasta,520,g
+5042,835,Rice,415,g
+5043,835,Carrot,2,pieces
+5044,835,Pepper,1,tsp
+5045,836,Cream,316,ml
+5046,836,Soy Sauce,4,tbsp
+5047,836,Milk,328,ml
+5048,836,Mushroom,100,g
+5049,836,Beef,471,g
+5050,836,Pasta,392,g
+5051,837,Carrot,9,pieces
+5052,837,Milk,53,ml
+5053,837,Mushroom,261,g
+5054,837,Garlic,3,cloves
+5055,837,Cream,75,ml
+5056,837,Potato,5,pieces
+5057,838,Soy Sauce,1,tbsp
+5058,838,Egg,9,pieces
+5059,838,Carrot,4,pieces
+5060,838,Rice,142,g
+5061,838,Chili Powder,1,tsp
+5062,839,Egg,3,pieces
+5063,839,Onion,3,pieces
+5064,839,Butter,621,g
+5065,839,Soy Sauce,5,tbsp
+5066,839,Carrot,5,pieces
+5067,840,Garlic,3,cloves
+5068,840,Butter,778,g
+5069,840,Milk,334,ml
+5070,840,Pasta,726,g
+5071,840,Rice,350,g
+5072,840,Salt,1,tsp
+5073,840,Potato,10,pieces
+5074,840,Soy Sauce,1,tbsp
+5075,841,Cheese,223,g
+5076,841,Carrot,9,pieces
+5077,841,Chili Powder,1,tsp
+5078,841,Mushroom,132,g
+5079,841,Egg,1,pieces
+5080,841,Pepper,1,tsp
+5081,841,Garlic,1,cloves
+5082,841,Pasta,741,g
+5083,842,Butter,300,g
+5084,842,Milk,387,ml
+5085,842,Chicken,344,g
+5086,842,Garlic,1,cloves
+5087,842,Olive Oil,5,tbsp
+5088,842,Onion,8,pieces
+5089,842,Rice,334,g
+5090,843,Olive Oil,3,tbsp
+5091,843,Milk,223,ml
+5092,843,Chili Powder,1,tsp
+5093,843,Chicken,79,g
+5094,843,Butter,664,g
+5095,844,Rice,735,g
+5096,844,Pepper,3,tsp
+5097,844,Cream,399,ml
+5098,844,Butter,471,g
+5099,844,Beef,576,g
+5100,844,Cheese,208,g
+5101,844,Chicken,412,g
+5102,844,Egg,4,pieces
+5103,845,Egg,2,pieces
+5104,845,Carrot,10,pieces
+5105,845,Cream,183,ml
+5106,845,Olive Oil,3,tbsp
+5107,846,Milk,147,ml
+5108,846,Carrot,7,pieces
+5109,846,Rice,352,g
+5110,846,Mushroom,416,g
+5111,846,Chicken,610,g
+5112,846,Butter,117,g
+5113,846,Cream,405,ml
+5114,847,Tomato,8,pieces
+5115,847,Pasta,83,g
+5116,847,Potato,2,pieces
+5117,847,Butter,61,g
+5118,848,Chili Powder,3,tsp
+5119,848,Pepper,2,tsp
+5120,848,Egg,3,pieces
+5121,848,Chicken,670,g
+5122,848,Cream,496,ml
+5123,849,Tomato,2,pieces
+5124,849,Chicken,784,g
+5125,849,Cheese,677,g
+5126,849,Pasta,600,g
+5127,850,Salt,1,tsp
+5128,850,Pepper,3,tsp
+5129,850,Cream,400,ml
+5130,850,Rice,552,g
+5131,850,Cheese,667,g
+5132,850,Chicken,739,g
+5133,850,Carrot,9,pieces
+5134,850,Olive Oil,5,tbsp
+5135,851,Cream,89,ml
+5136,851,Mushroom,241,g
+5137,851,Chicken,788,g
+5138,851,Butter,432,g
+5139,851,Cheese,680,g
+5140,851,Pepper,1,tsp
+5141,852,Beef,174,g
+5142,852,Onion,5,pieces
+5143,852,Chicken,479,g
+5144,852,Cream,433,ml
+5145,852,Rice,152,g
+5146,852,Mushroom,604,g
+5147,852,Cheese,416,g
+5148,853,Onion,9,pieces
+5149,853,Mushroom,627,g
+5150,853,Rice,510,g
+5151,853,Pasta,373,g
+5152,853,Soy Sauce,1,tbsp
+5153,854,Olive Oil,5,tbsp
+5154,854,Garlic,2,cloves
+5155,854,Pepper,3,tsp
+5156,854,Mushroom,225,g
+5157,854,Soy Sauce,2,tbsp
+5158,855,Butter,244,g
+5159,855,Pepper,1,tsp
+5160,855,Garlic,2,cloves
+5161,855,Salt,3,tsp
+5162,856,Rice,51,g
+5163,856,Potato,1,pieces
+5164,856,Tomato,3,pieces
+5165,856,Butter,674,g
+5166,856,Egg,9,pieces
+5167,857,Chicken,529,g
+5168,857,Rice,557,g
+5169,857,Milk,248,ml
+5170,857,Onion,4,pieces
+5171,857,Mushroom,322,g
+5172,857,Potato,1,pieces
+5173,858,Egg,4,pieces
+5174,858,Pepper,1,tsp
+5175,858,Chicken,82,g
+5176,858,Salt,3,tsp
+5177,858,Chili Powder,1,tsp
+5178,858,Onion,2,pieces
+5179,859,Pasta,473,g
+5180,859,Rice,84,g
+5181,859,Salt,1,tsp
+5182,859,Milk,195,ml
+5183,859,Beef,171,g
+5184,859,Chili Powder,1,tsp
+5185,859,Butter,764,g
+5186,859,Onion,9,pieces
+5187,860,Cheese,522,g
+5188,860,Egg,6,pieces
+5189,860,Rice,130,g
+5190,860,Tomato,10,pieces
+5191,860,Carrot,5,pieces
+5192,860,Salt,2,tsp
+5193,860,Onion,9,pieces
+5194,861,Chili Powder,3,tsp
+5195,861,Egg,6,pieces
+5196,861,Chicken,474,g
+5197,861,Rice,776,g
+5198,861,Pepper,1,tsp
+5199,862,Salt,2,tsp
+5200,862,Onion,5,pieces
+5201,862,Milk,321,ml
+5202,862,Pepper,2,tsp
+5203,863,Tomato,3,pieces
+5204,863,Mushroom,655,g
+5205,863,Beef,381,g
+5206,863,Rice,227,g
+5207,863,Cheese,759,g
+5208,863,Garlic,3,cloves
+5209,863,Pepper,3,tsp
+5210,864,Milk,386,ml
+5211,864,Onion,1,pieces
+5212,864,Carrot,1,pieces
+5213,864,Soy Sauce,1,tbsp
+5214,864,Garlic,2,cloves
+5215,864,Salt,2,tsp
+5216,865,Cheese,193,g
+5217,865,Chicken,641,g
+5218,865,Tomato,6,pieces
+5219,865,Salt,3,tsp
+5220,865,Egg,1,pieces
+5221,866,Chicken,792,g
+5222,866,Rice,472,g
+5223,866,Soy Sauce,2,tbsp
+5224,866,Egg,3,pieces
+5225,866,Pasta,251,g
+5226,867,Onion,10,pieces
+5227,867,Garlic,3,cloves
+5228,867,Rice,786,g
+5229,867,Chicken,311,g
+5230,867,Soy Sauce,3,tbsp
+5231,867,Beef,703,g
+5232,868,Salt,3,tsp
+5233,868,Carrot,7,pieces
+5234,868,Potato,3,pieces
+5235,868,Garlic,1,cloves
+5236,868,Cheese,61,g
+5237,868,Chicken,227,g
+5238,869,Olive Oil,4,tbsp
+5239,869,Pasta,291,g
+5240,869,Egg,9,pieces
+5241,869,Butter,160,g
+5242,869,Garlic,3,cloves
+5243,869,Carrot,5,pieces
+5244,869,Chicken,82,g
+5245,869,Soy Sauce,4,tbsp
+5246,870,Chili Powder,2,tsp
+5247,870,Milk,184,ml
+5248,870,Salt,3,tsp
+5249,870,Cream,141,ml
+5250,870,Butter,154,g
+5251,870,Cheese,50,g
+5252,871,Butter,410,g
+5253,871,Milk,236,ml
+5254,871,Soy Sauce,2,tbsp
+5255,871,Onion,5,pieces
+5256,871,Carrot,3,pieces
+5257,871,Garlic,2,cloves
+5258,872,Olive Oil,1,tbsp
+5259,872,Carrot,9,pieces
+5260,872,Egg,7,pieces
+5261,872,Chicken,514,g
+5262,873,Onion,5,pieces
+5263,873,Olive Oil,5,tbsp
+5264,873,Pepper,2,tsp
+5265,873,Pasta,353,g
+5266,873,Mushroom,649,g
+5267,873,Chicken,290,g
+5268,873,Egg,10,pieces
+5269,873,Carrot,2,pieces
+5270,874,Rice,204,g
+5271,874,Mushroom,376,g
+5272,874,Onion,4,pieces
+5273,874,Potato,4,pieces
+5274,874,Garlic,2,cloves
+5275,875,Egg,3,pieces
+5276,875,Carrot,2,pieces
+5277,875,Cheese,473,g
+5278,875,Rice,757,g
+5279,875,Mushroom,531,g
+5280,875,Chicken,264,g
+5281,876,Mushroom,556,g
+5282,876,Potato,8,pieces
+5283,876,Butter,277,g
+5284,876,Onion,2,pieces
+5285,876,Carrot,6,pieces
+5286,876,Rice,647,g
+5287,876,Cream,280,ml
+5288,876,Salt,1,tsp
+5289,877,Mushroom,189,g
+5290,877,Garlic,3,cloves
+5291,877,Egg,2,pieces
+5292,877,Butter,184,g
+5293,877,Olive Oil,2,tbsp
+5294,877,Cream,441,ml
+5295,878,Pasta,505,g
+5296,878,Carrot,9,pieces
+5297,878,Salt,3,tsp
+5298,878,Rice,673,g
+5299,878,Milk,350,ml
+5300,878,Olive Oil,2,tbsp
+5301,878,Egg,7,pieces
+5302,879,Salt,1,tsp
+5303,879,Egg,4,pieces
+5304,879,Beef,116,g
+5305,879,Potato,7,pieces
+5306,879,Butter,666,g
+5307,879,Olive Oil,5,tbsp
+5308,879,Chicken,288,g
+5309,880,Milk,437,ml
+5310,880,Potato,9,pieces
+5311,880,Cheese,500,g
+5312,880,Salt,1,tsp
+5313,881,Tomato,8,pieces
+5314,881,Chili Powder,3,tsp
+5315,881,Cheese,299,g
+5316,881,Milk,59,ml
+5317,881,Salt,2,tsp
+5318,881,Rice,549,g
+5319,881,Pasta,255,g
+5320,882,Cheese,597,g
+5321,882,Egg,1,pieces
+5322,882,Olive Oil,2,tbsp
+5323,882,Tomato,2,pieces
+5324,882,Chicken,513,g
+5325,882,Carrot,4,pieces
+5326,882,Salt,2,tsp
+5327,882,Cream,336,ml
+5328,883,Mushroom,566,g
+5329,883,Pepper,2,tsp
+5330,883,Pasta,152,g
+5331,883,Egg,10,pieces
+5332,883,Milk,231,ml
+5333,884,Salt,1,tsp
+5334,884,Cheese,207,g
+5335,884,Beef,473,g
+5336,884,Milk,461,ml
+5337,885,Salt,3,tsp
+5338,885,Cream,402,ml
+5339,885,Tomato,6,pieces
+5340,885,Beef,594,g
+5341,885,Potato,6,pieces
+5342,886,Cheese,780,g
+5343,886,Potato,7,pieces
+5344,886,Tomato,6,pieces
+5345,886,Garlic,2,cloves
+5346,887,Potato,8,pieces
+5347,887,Carrot,6,pieces
+5348,887,Salt,1,tsp
+5349,887,Mushroom,238,g
+5350,888,Beef,473,g
+5351,888,Olive Oil,3,tbsp
+5352,888,Chili Powder,3,tsp
+5353,888,Soy Sauce,3,tbsp
+5354,888,Rice,278,g
+5355,889,Egg,9,pieces
+5356,889,Tomato,1,pieces
+5357,889,Soy Sauce,2,tbsp
+5358,889,Chili Powder,2,tsp
+5359,889,Onion,4,pieces
+5360,889,Mushroom,334,g
+5361,889,Olive Oil,5,tbsp
+5362,889,Salt,1,tsp
+5363,890,Chili Powder,1,tsp
+5364,890,Soy Sauce,3,tbsp
+5365,890,Cheese,671,g
+5366,890,Potato,10,pieces
+5367,890,Olive Oil,5,tbsp
+5368,891,Onion,8,pieces
+5369,891,Beef,740,g
+5370,891,Rice,390,g
+5371,891,Potato,10,pieces
+5372,891,Mushroom,69,g
+5373,892,Onion,8,pieces
+5374,892,Potato,3,pieces
+5375,892,Chicken,104,g
+5376,892,Garlic,1,cloves
+5377,892,Salt,3,tsp
+5378,892,Chili Powder,1,tsp
+5379,892,Pepper,3,tsp
+5380,893,Milk,78,ml
+5381,893,Potato,7,pieces
+5382,893,Cream,329,ml
+5383,893,Mushroom,409,g
+5384,893,Carrot,10,pieces
+5385,893,Tomato,9,pieces
+5386,894,Cream,300,ml
+5387,894,Butter,87,g
+5388,894,Salt,2,tsp
+5389,894,Pasta,338,g
+5390,895,Soy Sauce,1,tbsp
+5391,895,Chicken,594,g
+5392,895,Rice,119,g
+5393,895,Chili Powder,2,tsp
+5394,895,Carrot,4,pieces
+5395,895,Mushroom,390,g
+5396,895,Egg,10,pieces
+5397,896,Pasta,656,g
+5398,896,Garlic,1,cloves
+5399,896,Potato,10,pieces
+5400,896,Soy Sauce,2,tbsp
+5401,896,Butter,420,g
+5402,897,Tomato,10,pieces
+5403,897,Salt,3,tsp
+5404,897,Beef,112,g
+5405,897,Chili Powder,2,tsp
+5406,898,Tomato,4,pieces
+5407,898,Milk,55,ml
+5408,898,Garlic,2,cloves
+5409,898,Salt,1,tsp
+5410,898,Rice,105,g
+5411,899,Carrot,9,pieces
+5412,899,Soy Sauce,4,tbsp
+5413,899,Cream,455,ml
+5414,899,Mushroom,471,g
+5415,899,Garlic,2,cloves
+5416,899,Cheese,190,g
+5417,899,Onion,4,pieces
+5418,900,Chicken,388,g
+5419,900,Salt,1,tsp
+5420,900,Potato,3,pieces
+5421,900,Mushroom,77,g
+5422,901,Onion,5,pieces
+5423,901,Milk,91,ml
+5424,901,Mushroom,390,g
+5425,901,Pasta,110,g
+5426,902,Olive Oil,2,tbsp
+5427,902,Cream,354,ml
+5428,902,Cheese,462,g
+5429,902,Chicken,526,g
+5430,902,Onion,9,pieces
+5431,903,Egg,6,pieces
+5432,903,Salt,3,tsp
+5433,903,Cream,456,ml
+5434,903,Garlic,2,cloves
+5435,903,Potato,9,pieces
+5436,903,Cheese,255,g
+5437,903,Chili Powder,2,tsp
+5438,903,Rice,247,g
+5439,904,Rice,638,g
+5440,904,Tomato,10,pieces
+5441,904,Garlic,2,cloves
+5442,904,Mushroom,664,g
+5443,904,Pasta,380,g
+5444,905,Cream,392,ml
+5445,905,Cheese,686,g
+5446,905,Beef,794,g
+5447,905,Butter,794,g
+5448,905,Garlic,1,cloves
+5449,906,Pepper,2,tsp
+5450,906,Cream,468,ml
+5451,906,Egg,6,pieces
+5452,906,Onion,10,pieces
+5453,906,Chicken,659,g
+5454,906,Beef,798,g
+5455,907,Olive Oil,2,tbsp
+5456,907,Mushroom,687,g
+5457,907,Onion,7,pieces
+5458,907,Tomato,8,pieces
+5459,907,Soy Sauce,4,tbsp
+5460,907,Cheese,610,g
+5461,908,Rice,614,g
+5462,908,Cheese,642,g
+5463,908,Butter,575,g
+5464,908,Olive Oil,1,tbsp
+5465,908,Chicken,416,g
+5466,909,Rice,760,g
+5467,909,Pasta,98,g
+5468,909,Carrot,8,pieces
+5469,909,Garlic,3,cloves
+5470,909,Cheese,389,g
+5471,909,Chicken,603,g
+5472,909,Milk,150,ml
+5473,909,Olive Oil,2,tbsp
+5474,910,Cream,475,ml
+5475,910,Mushroom,698,g
+5476,910,Carrot,6,pieces
+5477,910,Cheese,341,g
+5478,910,Onion,9,pieces
+5479,910,Chicken,166,g
+5480,911,Carrot,7,pieces
+5481,911,Cheese,492,g
+5482,911,Chili Powder,1,tsp
+5483,911,Garlic,2,cloves
+5484,911,Mushroom,200,g
+5485,911,Olive Oil,2,tbsp
+5486,911,Butter,209,g
+5487,911,Pepper,1,tsp
+5488,912,Cheese,508,g
+5489,912,Tomato,1,pieces
+5490,912,Olive Oil,1,tbsp
+5491,912,Garlic,3,cloves
+5492,912,Chili Powder,1,tsp
+5493,912,Milk,181,ml
+5494,912,Onion,7,pieces
+5495,912,Cream,117,ml
+5496,913,Chili Powder,1,tsp
+5497,913,Butter,660,g
+5498,913,Chicken,491,g
+5499,913,Soy Sauce,5,tbsp
+5500,913,Cream,224,ml
+5501,913,Beef,777,g
+5502,913,Mushroom,480,g
+5503,914,Beef,215,g
+5504,914,Pepper,2,tsp
+5505,914,Butter,128,g
+5506,914,Pasta,100,g
+5507,914,Tomato,10,pieces
+5508,914,Milk,68,ml
+5509,915,Carrot,1,pieces
+5510,915,Milk,424,ml
+5511,915,Rice,250,g
+5512,915,Potato,3,pieces
+5513,915,Soy Sauce,4,tbsp
+5514,915,Tomato,5,pieces
+5515,915,Pasta,322,g
+5516,915,Beef,278,g
+5517,916,Soy Sauce,4,tbsp
+5518,916,Mushroom,418,g
+5519,916,Potato,1,pieces
+5520,916,Chicken,755,g
+5521,916,Butter,351,g
+5522,917,Potato,7,pieces
+5523,917,Rice,58,g
+5524,917,Milk,359,ml
+5525,917,Tomato,2,pieces
+5526,918,Salt,1,tsp
+5527,918,Pasta,254,g
+5528,918,Chili Powder,3,tsp
+5529,918,Potato,10,pieces
+5530,918,Milk,317,ml
+5531,918,Tomato,8,pieces
+5532,918,Chicken,287,g
+5533,919,Garlic,2,cloves
+5534,919,Tomato,10,pieces
+5535,919,Milk,384,ml
+5536,919,Carrot,5,pieces
+5537,919,Cheese,713,g
+5538,919,Potato,3,pieces
+5539,919,Rice,437,g
+5540,919,Chili Powder,2,tsp
+5541,920,Pepper,1,tsp
+5542,920,Tomato,9,pieces
+5543,920,Milk,218,ml
+5544,920,Mushroom,168,g
+5545,920,Rice,439,g
+5546,920,Olive Oil,3,tbsp
+5547,921,Potato,5,pieces
+5548,921,Pasta,765,g
+5549,921,Garlic,1,cloves
+5550,921,Beef,208,g
+5551,921,Soy Sauce,4,tbsp
+5552,922,Pasta,163,g
+5553,922,Soy Sauce,2,tbsp
+5554,922,Chicken,414,g
+5555,922,Rice,463,g
+5556,922,Tomato,10,pieces
+5557,922,Mushroom,513,g
+5558,922,Onion,6,pieces
+5559,922,Cream,91,ml
+5560,923,Chicken,697,g
+5561,923,Beef,594,g
+5562,923,Carrot,3,pieces
+5563,923,Tomato,7,pieces
+5564,923,Onion,4,pieces
+5565,923,Cheese,530,g
+5566,923,Milk,341,ml
+5567,923,Soy Sauce,2,tbsp
+5568,924,Tomato,5,pieces
+5569,924,Garlic,3,cloves
+5570,924,Milk,127,ml
+5571,924,Chicken,754,g
+5572,924,Pepper,3,tsp
+5573,924,Cream,81,ml
+5574,925,Cheese,483,g
+5575,925,Pepper,3,tsp
+5576,925,Olive Oil,4,tbsp
+5577,925,Carrot,3,pieces
+5578,925,Beef,385,g
+5579,925,Salt,1,tsp
+5580,925,Cream,268,ml
+5581,925,Milk,207,ml
+5582,926,Onion,9,pieces
+5583,926,Soy Sauce,4,tbsp
+5584,926,Egg,6,pieces
+5585,926,Garlic,1,cloves
+5586,926,Pepper,2,tsp
+5587,926,Cream,53,ml
+5588,926,Chili Powder,3,tsp
+5589,927,Egg,2,pieces
+5590,927,Pasta,131,g
+5591,927,Rice,576,g
+5592,927,Soy Sauce,4,tbsp
+5593,927,Cream,344,ml
+5594,927,Chili Powder,1,tsp
+5595,928,Egg,7,pieces
+5596,928,Milk,411,ml
+5597,928,Beef,75,g
+5598,928,Chili Powder,2,tsp
+5599,928,Cheese,428,g
+5600,928,Pasta,716,g
+5601,928,Rice,216,g
+5602,929,Olive Oil,4,tbsp
+5603,929,Pasta,601,g
+5604,929,Salt,3,tsp
+5605,929,Mushroom,88,g
+5606,929,Egg,1,pieces
+5607,930,Soy Sauce,1,tbsp
+5608,930,Pepper,2,tsp
+5609,930,Potato,7,pieces
+5610,930,Rice,151,g
+5611,930,Chicken,211,g
+5612,930,Beef,665,g
+5613,930,Milk,292,ml
+5614,930,Cream,166,ml
+5615,931,Egg,1,pieces
+5616,931,Onion,1,pieces
+5617,931,Mushroom,421,g
+5618,931,Cream,114,ml
+5619,931,Pasta,275,g
+5620,931,Milk,405,ml
+5621,931,Chili Powder,2,tsp
+5622,932,Salt,2,tsp
+5623,932,Milk,413,ml
+5624,932,Garlic,2,cloves
+5625,932,Mushroom,459,g
+5626,933,Butter,110,g
+5627,933,Egg,3,pieces
+5628,933,Mushroom,746,g
+5629,933,Rice,107,g
+5630,933,Olive Oil,5,tbsp
+5631,933,Cheese,662,g
+5632,934,Beef,492,g
+5633,934,Pasta,213,g
+5634,934,Cream,384,ml
+5635,934,Garlic,3,cloves
+5636,934,Tomato,2,pieces
+5637,934,Mushroom,230,g
+5638,935,Chicken,216,g
+5639,935,Pepper,3,tsp
+5640,935,Olive Oil,3,tbsp
+5641,935,Garlic,3,cloves
+5642,935,Soy Sauce,2,tbsp
+5643,936,Cream,390,ml
+5644,936,Butter,435,g
+5645,936,Milk,320,ml
+5646,936,Potato,7,pieces
+5647,936,Soy Sauce,1,tbsp
+5648,936,Onion,8,pieces
+5649,937,Potato,6,pieces
+5650,937,Beef,542,g
+5651,937,Onion,5,pieces
+5652,937,Mushroom,157,g
+5653,938,Egg,9,pieces
+5654,938,Cream,480,ml
+5655,938,Butter,466,g
+5656,938,Rice,670,g
+5657,938,Onion,10,pieces
+5658,938,Beef,158,g
+5659,938,Milk,174,ml
+5660,939,Cheese,423,g
+5661,939,Garlic,2,cloves
+5662,939,Pasta,736,g
+5663,939,Salt,1,tsp
+5664,939,Egg,4,pieces
+5665,939,Mushroom,198,g
+5666,939,Cream,487,ml
+5667,940,Cream,410,ml
+5668,940,Garlic,2,cloves
+5669,940,Soy Sauce,3,tbsp
+5670,940,Cheese,661,g
+5671,940,Chicken,613,g
+5672,940,Potato,5,pieces
+5673,941,Chicken,589,g
+5674,941,Beef,565,g
+5675,941,Pepper,2,tsp
+5676,941,Rice,209,g
+5677,941,Salt,1,tsp
+5678,941,Potato,2,pieces
+5679,941,Tomato,10,pieces
+5680,941,Soy Sauce,1,tbsp
+5681,942,Pasta,527,g
+5682,942,Beef,752,g
+5683,942,Salt,3,tsp
+5684,942,Potato,3,pieces
+5685,942,Chili Powder,2,tsp
+5686,942,Cheese,606,g
+5687,942,Tomato,4,pieces
+5688,942,Garlic,2,cloves
+5689,943,Chili Powder,3,tsp
+5690,943,Garlic,3,cloves
+5691,943,Salt,3,tsp
+5692,943,Beef,230,g
+5693,943,Egg,3,pieces
+5694,943,Chicken,186,g
+5695,943,Potato,7,pieces
+5696,944,Mushroom,54,g
+5697,944,Chili Powder,3,tsp
+5698,944,Olive Oil,2,tbsp
+5699,944,Carrot,10,pieces
+5700,944,Cheese,263,g
+5701,944,Butter,779,g
+5702,944,Beef,643,g
+5703,945,Beef,247,g
+5704,945,Onion,4,pieces
+5705,945,Pasta,780,g
+5706,945,Egg,8,pieces
+5707,946,Mushroom,70,g
+5708,946,Pepper,2,tsp
+5709,946,Soy Sauce,4,tbsp
+5710,946,Pasta,341,g
+5711,947,Pepper,2,tsp
+5712,947,Cheese,275,g
+5713,947,Egg,9,pieces
+5714,947,Potato,4,pieces
+5715,947,Mushroom,276,g
+5716,947,Carrot,1,pieces
+5717,947,Salt,2,tsp
+5718,948,Cream,121,ml
+5719,948,Pepper,1,tsp
+5720,948,Onion,10,pieces
+5721,948,Chili Powder,3,tsp
+5722,948,Soy Sauce,3,tbsp
+5723,949,Potato,7,pieces
+5724,949,Milk,262,ml
+5725,949,Pasta,707,g
+5726,949,Mushroom,270,g
+5727,949,Pepper,1,tsp
+5728,950,Onion,10,pieces
+5729,950,Mushroom,708,g
+5730,950,Chicken,338,g
+5731,950,Egg,3,pieces
+5732,950,Cream,290,ml
+5733,950,Milk,476,ml
+5734,950,Beef,204,g
+5735,951,Chicken,57,g
+5736,951,Rice,512,g
+5737,951,Chili Powder,2,tsp
+5738,951,Tomato,5,pieces
+5739,951,Milk,358,ml
+5740,951,Mushroom,328,g
+5741,951,Cream,260,ml
+5742,952,Mushroom,700,g
+5743,952,Olive Oil,3,tbsp
+5744,952,Chicken,108,g
+5745,952,Soy Sauce,4,tbsp
+5746,952,Carrot,9,pieces
+5747,952,Milk,478,ml
+5748,952,Beef,168,g
+5749,953,Carrot,7,pieces
+5750,953,Tomato,5,pieces
+5751,953,Egg,7,pieces
+5752,953,Beef,664,g
+5753,953,Salt,3,tsp
+5754,953,Pasta,269,g
+5755,953,Pepper,2,tsp
+5756,953,Cream,93,ml
+5757,954,Pepper,1,tsp
+5758,954,Olive Oil,4,tbsp
+5759,954,Salt,1,tsp
+5760,954,Egg,10,pieces
+5761,954,Rice,306,g
+5762,955,Chili Powder,3,tsp
+5763,955,Milk,401,ml
+5764,955,Onion,9,pieces
+5765,955,Cheese,673,g
+5766,955,Pasta,128,g
+5767,955,Tomato,5,pieces
+5768,955,Salt,2,tsp
+5769,956,Olive Oil,4,tbsp
+5770,956,Milk,455,ml
+5771,956,Rice,84,g
+5772,956,Potato,3,pieces
+5773,956,Chicken,223,g
+5774,956,Pepper,1,tsp
+5775,957,Milk,130,ml
+5776,957,Cream,297,ml
+5777,957,Egg,3,pieces
+5778,957,Rice,697,g
+5779,957,Beef,173,g
+5780,957,Pasta,671,g
+5781,957,Onion,2,pieces
+5782,957,Pepper,3,tsp
+5783,958,Tomato,5,pieces
+5784,958,Onion,7,pieces
+5785,958,Chicken,416,g
+5786,958,Potato,4,pieces
+5787,958,Olive Oil,1,tbsp
+5788,958,Butter,307,g
+5789,958,Beef,340,g
+5790,959,Cheese,511,g
+5791,959,Pepper,1,tsp
+5792,959,Butter,304,g
+5793,959,Chili Powder,3,tsp
+5794,959,Garlic,3,cloves
+5795,959,Salt,3,tsp
+5796,959,Mushroom,311,g
+5797,960,Pasta,153,g
+5798,960,Tomato,8,pieces
+5799,960,Beef,699,g
+5800,960,Onion,10,pieces
+5801,960,Soy Sauce,5,tbsp
+5802,960,Cheese,588,g
+5803,960,Chicken,332,g
+5804,961,Rice,265,g
+5805,961,Cream,358,ml
+5806,961,Soy Sauce,4,tbsp
+5807,961,Garlic,2,cloves
+5808,962,Chili Powder,1,tsp
+5809,962,Milk,398,ml
+5810,962,Cheese,433,g
+5811,962,Egg,5,pieces
+5812,962,Soy Sauce,1,tbsp
+5813,962,Carrot,8,pieces
+5814,962,Tomato,10,pieces
+5815,962,Garlic,2,cloves
+5816,963,Salt,2,tsp
+5817,963,Carrot,7,pieces
+5818,963,Garlic,2,cloves
+5819,963,Milk,94,ml
+5820,964,Egg,5,pieces
+5821,964,Cream,302,ml
+5822,964,Cheese,490,g
+5823,964,Chili Powder,2,tsp
+5824,964,Onion,8,pieces
+5825,964,Butter,767,g
+5826,965,Garlic,2,cloves
+5827,965,Onion,8,pieces
+5828,965,Soy Sauce,3,tbsp
+5829,965,Tomato,3,pieces
+5830,965,Egg,8,pieces
+5831,966,Milk,377,ml
+5832,966,Rice,563,g
+5833,966,Egg,3,pieces
+5834,966,Beef,112,g
+5835,966,Pasta,149,g
+5836,966,Soy Sauce,4,tbsp
+5837,966,Garlic,2,cloves
+5838,966,Cream,389,ml
+5839,967,Onion,10,pieces
+5840,967,Soy Sauce,3,tbsp
+5841,967,Chicken,565,g
+5842,967,Carrot,2,pieces
+5843,968,Mushroom,391,g
+5844,968,Milk,52,ml
+5845,968,Cheese,74,g
+5846,968,Chicken,721,g
+5847,969,Egg,6,pieces
+5848,969,Milk,255,ml
+5849,969,Onion,7,pieces
+5850,969,Pasta,768,g
+5851,969,Carrot,5,pieces
+5852,969,Salt,3,tsp
+5853,970,Carrot,3,pieces
+5854,970,Chicken,52,g
+5855,970,Cheese,771,g
+5856,970,Pasta,495,g
+5857,970,Salt,2,tsp
+5858,970,Mushroom,439,g
+5859,970,Cream,471,ml
+5860,971,Carrot,10,pieces
+5861,971,Soy Sauce,5,tbsp
+5862,971,Butter,768,g
+5863,971,Olive Oil,2,tbsp
+5864,971,Chili Powder,3,tsp
+5865,971,Pepper,1,tsp
+5866,971,Garlic,2,cloves
+5867,971,Potato,7,pieces
+5868,972,Garlic,2,cloves
+5869,972,Salt,1,tsp
+5870,972,Cheese,596,g
+5871,972,Milk,131,ml
+5872,973,Egg,9,pieces
+5873,973,Olive Oil,2,tbsp
+5874,973,Garlic,1,cloves
+5875,973,Tomato,2,pieces
+5876,973,Mushroom,607,g
+5877,973,Salt,2,tsp
+5878,973,Butter,84,g
+5879,973,Chicken,393,g
+5880,974,Rice,217,g
+5881,974,Soy Sauce,5,tbsp
+5882,974,Salt,3,tsp
+5883,974,Carrot,9,pieces
+5884,974,Pasta,582,g
+5885,974,Cheese,576,g
+5886,974,Egg,1,pieces
+5887,974,Milk,365,ml
+5888,975,Olive Oil,5,tbsp
+5889,975,Pepper,2,tsp
+5890,975,Milk,81,ml
+5891,975,Chicken,488,g
+5892,975,Tomato,8,pieces
+5893,975,Beef,306,g
+5894,976,Onion,7,pieces
+5895,976,Mushroom,112,g
+5896,976,Olive Oil,2,tbsp
+5897,976,Garlic,2,cloves
+5898,976,Beef,147,g
+5899,976,Carrot,6,pieces
+5900,976,Tomato,4,pieces
+5901,977,Cream,187,ml
+5902,977,Chili Powder,3,tsp
+5903,977,Mushroom,549,g
+5904,977,Pepper,2,tsp
+5905,977,Carrot,2,pieces
+5906,978,Mushroom,333,g
+5907,978,Rice,417,g
+5908,978,Chicken,155,g
+5909,978,Cheese,228,g
+5910,978,Cream,458,ml
+5911,978,Chili Powder,2,tsp
+5912,979,Onion,10,pieces
+5913,979,Tomato,2,pieces
+5914,979,Garlic,3,cloves
+5915,979,Chili Powder,1,tsp
+5916,979,Potato,1,pieces
+5917,979,Cream,305,ml
+5918,979,Cheese,259,g
+5919,979,Rice,373,g
+5920,980,Butter,608,g
+5921,980,Potato,8,pieces
+5922,980,Pepper,3,tsp
+5923,980,Tomato,5,pieces
+5924,980,Rice,65,g
+5925,980,Chicken,169,g
+5926,980,Mushroom,568,g
+5927,980,Cheese,578,g
+5928,981,Tomato,2,pieces
+5929,981,Garlic,3,cloves
+5930,981,Cream,111,ml
+5931,981,Chili Powder,3,tsp
+5932,982,Onion,5,pieces
+5933,982,Tomato,8,pieces
+5934,982,Cream,78,ml
+5935,982,Chicken,174,g
+5936,982,Mushroom,745,g
+5937,983,Milk,63,ml
+5938,983,Soy Sauce,2,tbsp
+5939,983,Chili Powder,1,tsp
+5940,983,Onion,4,pieces
+5941,984,Tomato,6,pieces
+5942,984,Chili Powder,1,tsp
+5943,984,Cream,350,ml
+5944,984,Rice,395,g
+5945,984,Carrot,4,pieces
+5946,984,Potato,7,pieces
+5947,984,Pasta,177,g
+5948,984,Milk,168,ml
+5949,985,Carrot,7,pieces
+5950,985,Pepper,2,tsp
+5951,985,Mushroom,598,g
+5952,985,Chicken,342,g
+5953,985,Milk,111,ml
+5954,986,Chili Powder,3,tsp
+5955,986,Cream,302,ml
+5956,986,Pasta,289,g
+5957,986,Olive Oil,2,tbsp
+5958,986,Onion,7,pieces
+5959,986,Butter,234,g
+5960,986,Garlic,3,cloves
+5961,987,Mushroom,425,g
+5962,987,Soy Sauce,1,tbsp
+5963,987,Chili Powder,1,tsp
+5964,987,Onion,10,pieces
+5965,987,Potato,8,pieces
+5966,988,Potato,3,pieces
+5967,988,Pasta,272,g
+5968,988,Pepper,2,tsp
+5969,988,Mushroom,487,g
+5970,988,Salt,2,tsp
+5971,989,Potato,9,pieces
+5972,989,Chicken,349,g
+5973,989,Cream,86,ml
+5974,989,Olive Oil,4,tbsp
+5975,989,Garlic,3,cloves
+5976,989,Pepper,3,tsp
+5977,989,Mushroom,594,g
+5978,989,Egg,9,pieces
+5979,990,Olive Oil,3,tbsp
+5980,990,Egg,10,pieces
+5981,990,Chicken,703,g
+5982,990,Tomato,6,pieces
+5983,990,Garlic,1,cloves
+5984,991,Soy Sauce,2,tbsp
+5985,991,Rice,667,g
+5986,991,Onion,1,pieces
+5987,991,Mushroom,71,g
+5988,992,Soy Sauce,1,tbsp
+5989,992,Tomato,2,pieces
+5990,992,Chili Powder,2,tsp
+5991,992,Cheese,609,g
+5992,992,Potato,1,pieces
+5993,992,Garlic,2,cloves
+5994,992,Egg,3,pieces
+5995,993,Onion,5,pieces
+5996,993,Tomato,2,pieces
+5997,993,Milk,369,ml
+5998,993,Chicken,671,g
+5999,993,Egg,1,pieces
+6000,993,Salt,2,tsp
+6001,993,Rice,743,g
+6002,993,Pepper,2,tsp
+6003,994,Rice,238,g
+6004,994,Soy Sauce,4,tbsp
+6005,994,Cream,303,ml
+6006,994,Milk,391,ml
+6007,994,Garlic,2,cloves
+6008,994,Onion,2,pieces
+6009,995,Cream,111,ml
+6010,995,Egg,6,pieces
+6011,995,Mushroom,732,g
+6012,995,Carrot,9,pieces
+6013,995,Rice,251,g
+6014,995,Pepper,3,tsp
+6015,995,Soy Sauce,1,tbsp
+6016,995,Chicken,433,g
+6017,996,Olive Oil,4,tbsp
+6018,996,Beef,491,g
+6019,996,Pasta,210,g
+6020,996,Pepper,1,tsp
+6021,996,Cream,228,ml
+6022,996,Potato,10,pieces
+6023,997,Rice,405,g
+6024,997,Milk,371,ml
+6025,997,Mushroom,134,g
+6026,997,Onion,5,pieces
+6027,997,Beef,278,g
+6028,997,Butter,91,g
+6029,998,Potato,3,pieces
+6030,998,Tomato,7,pieces
+6031,998,Pasta,162,g
+6032,998,Mushroom,539,g
+6033,999,Rice,698,g
+6034,999,Chili Powder,3,tsp
+6035,999,Soy Sauce,1,tbsp
+6036,999,Mushroom,617,g
+6037,999,Egg,1,pieces
+6038,999,Cream,366,ml
+6039,999,Cheese,155,g
+6040,999,Garlic,1,cloves
+6041,1000,Chicken,274,g
+6042,1000,Cheese,299,g
+6043,1000,Beef,591,g
+6044,1000,Chili Powder,1,tsp
+6045,1000,Mushroom,218,g
+6046,1000,Garlic,1,cloves
+6047,1000,Rice,716,g

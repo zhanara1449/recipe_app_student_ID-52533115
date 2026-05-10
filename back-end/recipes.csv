@@ -1,0 +1,1001 @@
+recipe_id,name,cuisine,cooking_time,difficulty
+1,Fried Rice 1,Italian,38,Easy
+2,Fish Tacos 2,French,53,Medium
+3,BBQ Chicken 3,American,22,Easy
+4,Pasta Alfredo 4,Greek,30,Hard
+5,Garlic Noodles 5,Greek,22,Hard
+6,Pasta Alfredo 6,British,90,Medium
+7,Mushroom Risotto 7,Mexican,80,Hard
+8,Beef Burger 8,British,59,Easy
+9,Vegetable Curry 9,Thai,45,Hard
+10,Fried Rice 10,Japanese,12,Easy
+11,Fried Rice 11,Greek,99,Easy
+12,Vegetable Soup 12,Japanese,120,Easy
+13,Beef Stir Fry 13,Japanese,62,Hard
+14,Beef Burger 14,British,118,Medium
+15,BBQ Chicken 15,Mexican,58,Easy
+16,Pasta Alfredo 16,Mexican,68,Hard
+17,Pasta Alfredo 17,Thai,95,Easy
+18,Beef Stir Fry 18,Thai,27,Easy
+19,Cheese Pizza 19,American,86,Easy
+20,Beef Burger 20,British,36,Hard
+21,Vegetable Curry 21,Chinese,40,Easy
+22,Chicken Alfredo 22,Indian,11,Medium
+23,Chicken Curry 23,Chinese,86,Easy
+24,Lamb Stew 24,British,81,Hard
+25,Pasta Alfredo 25,Thai,15,Hard
+26,Tomato Pasta 26,French,50,Medium
+27,Garlic Noodles 27,Italian,86,Hard
+28,Fish Tacos 28,Mexican,24,Medium
+29,Fried Rice 29,American,71,Medium
+30,Tomato Pasta 30,American,12,Easy
+31,Beef Burger 31,Japanese,27,Medium
+32,Chicken Alfredo 32,American,15,Medium
+33,Grilled Salmon 33,Thai,43,Hard
+34,Beef Burger 34,Japanese,112,Easy
+35,Garlic Noodles 35,Greek,63,Medium
+36,Mushroom Risotto 36,Thai,65,Easy
+37,Vegetable Curry 37,Chinese,76,Hard
+38,Beef Stir Fry 38,French,102,Easy
+39,Beef Burger 39,Mexican,13,Easy
+40,Vegetable Soup 40,Japanese,11,Medium
+41,BBQ Chicken 41,Japanese,19,Easy
+42,Beef Burger 42,Greek,103,Easy
+43,Mushroom Risotto 43,American,70,Easy
+44,Mushroom Risotto 44,British,103,Easy
+45,Tomato Pasta 45,French,35,Medium
+46,Tomato Pasta 46,Japanese,54,Hard
+47,Pasta Alfredo 47,Indian,96,Medium
+48,Chicken Curry 48,Japanese,22,Easy
+49,Egg Fried Rice 49,Japanese,69,Easy
+50,Pasta Alfredo 50,Japanese,40,Medium
+51,Beef Burger 51,Indian,48,Easy
+52,Tomato Pasta 52,Mexican,74,Easy
+53,Egg Fried Rice 53,British,67,Easy
+54,Chicken Alfredo 54,Mexican,34,Medium
+55,Chicken Alfredo 55,Italian,93,Medium
+56,Tomato Pasta 56,French,48,Medium
+57,Pasta Alfredo 57,Chinese,117,Easy
+58,Garlic Noodles 58,Indian,91,Easy
+59,Fried Rice 59,Thai,90,Medium
+60,BBQ Chicken 60,American,50,Medium
+61,Tomato Pasta 61,French,97,Easy
+62,Garlic Noodles 62,French,55,Hard
+63,Cheese Pizza 63,Greek,107,Easy
+64,Garlic Noodles 64,Indian,46,Easy
+65,Chicken Curry 65,Thai,111,Hard
+66,Vegetable Soup 66,American,14,Medium
+67,Tomato Pasta 67,Mexican,31,Hard
+68,Grilled Salmon 68,Mexican,60,Easy
+69,Beef Burger 69,Mexican,31,Hard
+70,Mushroom Risotto 70,Mexican,55,Easy
+71,Tomato Pasta 71,Greek,75,Medium
+72,Lamb Stew 72,American,15,Hard
+73,Beef Stir Fry 73,Mexican,61,Medium
+74,Garlic Noodles 74,Indian,85,Hard
+75,Lamb Stew 75,Chinese,116,Medium
+76,Egg Fried Rice 76,French,28,Hard
+77,Vegetable Soup 77,Mexican,110,Hard
+78,Chicken Alfredo 78,American,64,Hard
+79,Vegetable Curry 79,Italian,46,Medium
+80,Tomato Pasta 80,Thai,41,Easy
+81,Chicken Curry 81,Japanese,16,Medium
+82,Garlic Noodles 82,Indian,42,Hard
+83,Tomato Pasta 83,French,42,Hard
+84,Fried Rice 84,Italian,114,Hard
+85,Egg Fried Rice 85,Thai,83,Easy
+86,Lamb Stew 86,Mexican,74,Easy
+87,Vegetable Curry 87,French,26,Medium
+88,Cheese Pizza 88,British,35,Easy
+89,Fish Tacos 89,British,109,Hard
+90,Chicken Curry 90,Chinese,41,Medium
+91,Grilled Salmon 91,French,60,Easy
+92,Pasta Alfredo 92,Japanese,101,Hard
+93,Fish Tacos 93,Chinese,80,Medium
+94,Fried Rice 94,Mexican,17,Medium
+95,Beef Burger 95,Thai,75,Easy
+96,Garlic Noodles 96,British,67,Easy
+97,Grilled Salmon 97,Indian,18,Easy
+98,Beef Stir Fry 98,Greek,76,Easy
+99,BBQ Chicken 99,American,99,Hard
+100,Mushroom Risotto 100,Japanese,27,Medium
+101,Lamb Stew 101,Chinese,81,Medium
+102,Beef Stir Fry 102,Greek,12,Hard
+103,Beef Stir Fry 103,Indian,45,Medium
+104,Fried Rice 104,Mexican,80,Hard
+105,Tomato Pasta 105,Indian,87,Easy
+106,Vegetable Soup 106,Italian,105,Hard
+107,Tomato Pasta 107,Greek,16,Easy
+108,Beef Stir Fry 108,Indian,61,Hard
+109,Chicken Alfredo 109,Italian,81,Medium
+110,Fried Rice 110,American,45,Hard
+111,Garlic Noodles 111,Indian,99,Medium
+112,Vegetable Soup 112,Italian,96,Medium
+113,Fish Tacos 113,British,86,Medium
+114,Garlic Noodles 114,American,96,Hard
+115,Chicken Curry 115,Mexican,106,Medium
+116,Vegetable Soup 116,British,38,Easy
+117,Beef Burger 117,British,40,Easy
+118,Cheese Pizza 118,Mexican,37,Hard
+119,Garlic Noodles 119,Indian,114,Medium
+120,Fish Tacos 120,French,75,Easy
+121,Fried Rice 121,Chinese,74,Hard
+122,Cheese Pizza 122,Chinese,75,Medium
+123,Chicken Curry 123,Thai,120,Hard
+124,Garlic Noodles 124,American,12,Medium
+125,Vegetable Curry 125,Thai,116,Hard
+126,Tomato Pasta 126,British,101,Medium
+127,Pasta Alfredo 127,French,83,Hard
+128,Tomato Pasta 128,Greek,85,Medium
+129,Pasta Alfredo 129,Indian,67,Easy
+130,Grilled Salmon 130,Mexican,41,Medium
+131,Lamb Stew 131,Thai,100,Medium
+132,Vegetable Curry 132,Chinese,38,Medium
+133,Vegetable Soup 133,Indian,105,Medium
+134,Tomato Pasta 134,Chinese,113,Easy
+135,Egg Fried Rice 135,American,27,Hard
+136,Chicken Curry 136,Italian,61,Easy
+137,Tomato Pasta 137,Italian,87,Hard
+138,Cheese Pizza 138,Mexican,16,Medium
+139,Fish Tacos 139,Greek,106,Hard
+140,BBQ Chicken 140,American,47,Medium
+141,Vegetable Soup 141,Greek,24,Easy
+142,Garlic Noodles 142,Italian,18,Medium
+143,Lamb Stew 143,Japanese,67,Medium
+144,Beef Stir Fry 144,Italian,64,Easy
+145,Chicken Curry 145,Mexican,89,Hard
+146,BBQ Chicken 146,Italian,80,Easy
+147,Tomato Pasta 147,French,117,Medium
+148,Lamb Stew 148,Thai,83,Medium
+149,Garlic Noodles 149,Greek,62,Easy
+150,Egg Fried Rice 150,Chinese,55,Hard
+151,BBQ Chicken 151,Mexican,87,Medium
+152,Beef Burger 152,Japanese,55,Medium
+153,Garlic Noodles 153,Mexican,20,Hard
+154,Fried Rice 154,French,67,Medium
+155,Vegetable Soup 155,American,58,Easy
+156,Chicken Alfredo 156,American,68,Hard
+157,Tomato Pasta 157,Japanese,73,Easy
+158,Mushroom Risotto 158,Thai,95,Hard
+159,Vegetable Soup 159,Mexican,76,Easy
+160,Chicken Alfredo 160,American,113,Easy
+161,Chicken Alfredo 161,Mexican,82,Medium
+162,Grilled Salmon 162,French,56,Medium
+163,Chicken Curry 163,Italian,30,Easy
+164,Egg Fried Rice 164,Indian,117,Hard
+165,Fried Rice 165,Japanese,28,Medium
+166,Lamb Stew 166,Thai,106,Hard
+167,Chicken Alfredo 167,Mexican,31,Medium
+168,Beef Burger 168,Indian,88,Easy
+169,Garlic Noodles 169,Indian,64,Medium
+170,Grilled Salmon 170,Greek,34,Medium
+171,Chicken Alfredo 171,Greek,70,Medium
+172,Chicken Alfredo 172,Indian,33,Easy
+173,Fried Rice 173,French,67,Easy
+174,Beef Stir Fry 174,French,103,Easy
+175,Fried Rice 175,British,21,Easy
+176,Grilled Salmon 176,Mexican,83,Medium
+177,Chicken Curry 177,Chinese,18,Medium
+178,Pasta Alfredo 178,British,42,Medium
+179,Beef Burger 179,Japanese,50,Medium
+180,Vegetable Soup 180,French,46,Hard
+181,Chicken Curry 181,Indian,84,Easy
+182,Vegetable Soup 182,Thai,34,Hard
+183,Garlic Noodles 183,Indian,23,Medium
+184,Tomato Pasta 184,Indian,72,Easy
+185,Egg Fried Rice 185,Greek,93,Hard
+186,Lamb Stew 186,Greek,67,Hard
+187,Chicken Alfredo 187,Mexican,37,Hard
+188,Chicken Alfredo 188,American,59,Medium
+189,Beef Stir Fry 189,American,116,Easy
+190,Tomato Pasta 190,Mexican,62,Medium
+191,Tomato Pasta 191,British,31,Medium
+192,Lamb Stew 192,Mexican,30,Medium
+193,Garlic Noodles 193,Thai,112,Hard
+194,Garlic Noodles 194,British,106,Easy
+195,Mushroom Risotto 195,Japanese,72,Easy
+196,Cheese Pizza 196,French,10,Medium
+197,Egg Fried Rice 197,American,39,Medium
+198,Egg Fried Rice 198,American,16,Easy
+199,Egg Fried Rice 199,Italian,97,Easy
+200,Lamb Stew 200,British,35,Easy
+201,Vegetable Curry 201,British,49,Hard
+202,Lamb Stew 202,Japanese,94,Medium
+203,Mushroom Risotto 203,Japanese,57,Easy
+204,BBQ Chicken 204,Japanese,50,Hard
+205,Vegetable Curry 205,Japanese,108,Easy
+206,Mushroom Risotto 206,Indian,30,Hard
+207,Grilled Salmon 207,Italian,59,Easy
+208,Mushroom Risotto 208,Mexican,52,Hard
+209,Vegetable Soup 209,Greek,111,Medium
+210,Lamb Stew 210,American,77,Medium
+211,Cheese Pizza 211,Chinese,95,Hard
+212,Cheese Pizza 212,Indian,63,Easy
+213,Cheese Pizza 213,Mexican,42,Hard
+214,Beef Burger 214,Italian,102,Hard
+215,Beef Stir Fry 215,British,76,Medium
+216,Tomato Pasta 216,Indian,20,Hard
+217,Tomato Pasta 217,Japanese,104,Hard
+218,Chicken Curry 218,Chinese,80,Easy
+219,Pasta Alfredo 219,Thai,39,Hard
+220,Fish Tacos 220,Indian,73,Easy
+221,Fried Rice 221,French,39,Hard
+222,Fried Rice 222,British,106,Hard
+223,Garlic Noodles 223,French,118,Hard
+224,BBQ Chicken 224,Thai,76,Easy
+225,Lamb Stew 225,British,32,Medium
+226,Beef Stir Fry 226,Italian,13,Medium
+227,BBQ Chicken 227,Greek,73,Hard
+228,Grilled Salmon 228,American,97,Medium
+229,Tomato Pasta 229,Indian,12,Medium
+230,Egg Fried Rice 230,French,66,Hard
+231,Chicken Curry 231,Thai,14,Medium
+232,Chicken Alfredo 232,Italian,20,Medium
+233,Mushroom Risotto 233,Japanese,62,Hard
+234,Lamb Stew 234,American,118,Hard
+235,Vegetable Soup 235,Mexican,78,Hard
+236,Cheese Pizza 236,Thai,88,Hard
+237,Fish Tacos 237,Indian,13,Easy
+238,Egg Fried Rice 238,Chinese,119,Medium
+239,Chicken Curry 239,Indian,104,Easy
+240,Vegetable Curry 240,Chinese,58,Medium
+241,Pasta Alfredo 241,Mexican,76,Medium
+242,Chicken Alfredo 242,Japanese,21,Hard
+243,Pasta Alfredo 243,Indian,14,Easy
+244,Beef Stir Fry 244,Italian,44,Hard
+245,Egg Fried Rice 245,Thai,107,Medium
+246,Chicken Curry 246,Mexican,91,Easy
+247,Garlic Noodles 247,Thai,55,Medium
+248,Chicken Alfredo 248,Mexican,102,Easy
+249,Vegetable Curry 249,Japanese,107,Hard
+250,Vegetable Curry 250,Mexican,21,Easy
+251,Lamb Stew 251,French,70,Hard
+252,Beef Stir Fry 252,Mexican,69,Medium
+253,Grilled Salmon 253,Indian,120,Medium
+254,Grilled Salmon 254,American,10,Easy
+255,Beef Stir Fry 255,Greek,33,Medium
+256,Pasta Alfredo 256,British,28,Medium
+257,Chicken Curry 257,Indian,111,Medium
+258,Mushroom Risotto 258,Thai,86,Hard
+259,Pasta Alfredo 259,Italian,93,Medium
+260,Fried Rice 260,Mexican,47,Medium
+261,Chicken Curry 261,Italian,114,Hard
+262,Mushroom Risotto 262,British,93,Medium
+263,Tomato Pasta 263,Greek,86,Hard
+264,Egg Fried Rice 264,Mexican,106,Medium
+265,BBQ Chicken 265,Greek,54,Easy
+266,Mushroom Risotto 266,Chinese,39,Medium
+267,Vegetable Curry 267,Mexican,83,Hard
+268,Fish Tacos 268,Indian,94,Easy
+269,Beef Burger 269,Italian,27,Medium
+270,Pasta Alfredo 270,French,38,Easy
+271,Mushroom Risotto 271,Greek,12,Medium
+272,Chicken Curry 272,Greek,62,Medium
+273,Beef Stir Fry 273,British,112,Hard
+274,BBQ Chicken 274,British,22,Easy
+275,Mushroom Risotto 275,Japanese,67,Medium
+276,Fish Tacos 276,Italian,46,Medium
+277,BBQ Chicken 277,Japanese,91,Hard
+278,Vegetable Curry 278,Japanese,91,Hard
+279,Garlic Noodles 279,Italian,78,Medium
+280,Beef Burger 280,French,85,Hard
+281,Tomato Pasta 281,Italian,102,Easy
+282,Tomato Pasta 282,Greek,98,Hard
+283,Egg Fried Rice 283,French,81,Hard
+284,BBQ Chicken 284,Mexican,112,Easy
+285,BBQ Chicken 285,French,104,Medium
+286,BBQ Chicken 286,Thai,97,Hard
+287,Lamb Stew 287,French,114,Medium
+288,Garlic Noodles 288,Thai,119,Hard
+289,Fried Rice 289,Japanese,103,Easy
+290,Fish Tacos 290,Mexican,65,Medium
+291,Lamb Stew 291,Thai,87,Medium
+292,Beef Burger 292,Thai,102,Medium
+293,Fried Rice 293,Italian,100,Hard
+294,Garlic Noodles 294,Italian,64,Easy
+295,Fish Tacos 295,Thai,52,Medium
+296,BBQ Chicken 296,American,92,Medium
+297,Pasta Alfredo 297,American,66,Medium
+298,Vegetable Curry 298,American,103,Hard
+299,Vegetable Curry 299,British,12,Medium
+300,Grilled Salmon 300,Chinese,50,Hard
+301,Mushroom Risotto 301,Thai,48,Medium
+302,Lamb Stew 302,Indian,43,Hard
+303,Beef Burger 303,French,50,Medium
+304,Egg Fried Rice 304,Greek,86,Hard
+305,BBQ Chicken 305,Mexican,39,Hard
+306,Tomato Pasta 306,Indian,22,Medium
+307,Tomato Pasta 307,French,85,Easy
+308,Mushroom Risotto 308,Indian,60,Medium
+309,Chicken Curry 309,American,35,Easy
+310,Vegetable Curry 310,British,39,Easy
+311,Beef Stir Fry 311,Indian,106,Hard
+312,Mushroom Risotto 312,Mexican,104,Medium
+313,Grilled Salmon 313,American,105,Easy
+314,Mushroom Risotto 314,Japanese,12,Hard
+315,Fried Rice 315,French,91,Medium
+316,Garlic Noodles 316,Thai,46,Easy
+317,BBQ Chicken 317,French,68,Hard
+318,Egg Fried Rice 318,American,95,Medium
+319,Mushroom Risotto 319,Mexican,97,Medium
+320,Tomato Pasta 320,American,15,Hard
+321,Egg Fried Rice 321,American,81,Medium
+322,BBQ Chicken 322,American,21,Medium
+323,Fried Rice 323,Mexican,25,Medium
+324,Fish Tacos 324,British,82,Medium
+325,Fish Tacos 325,French,100,Hard
+326,Cheese Pizza 326,Italian,51,Hard
+327,Chicken Curry 327,British,39,Easy
+328,Fried Rice 328,Chinese,74,Medium
+329,Chicken Alfredo 329,British,64,Easy
+330,Fried Rice 330,American,83,Medium
+331,Grilled Salmon 331,Chinese,98,Easy
+332,Vegetable Soup 332,Greek,81,Medium
+333,Garlic Noodles 333,British,39,Medium
+334,Lamb Stew 334,Thai,14,Easy
+335,Mushroom Risotto 335,Mexican,54,Easy
+336,Grilled Salmon 336,French,61,Hard
+337,Vegetable Soup 337,Italian,118,Hard
+338,Fried Rice 338,Indian,54,Easy
+339,Egg Fried Rice 339,Mexican,103,Easy
+340,Chicken Curry 340,American,108,Hard
+341,Chicken Curry 341,French,63,Medium
+342,Grilled Salmon 342,Chinese,111,Medium
+343,Mushroom Risotto 343,Greek,50,Hard
+344,Beef Stir Fry 344,French,34,Hard
+345,Fish Tacos 345,Chinese,107,Easy
+346,Grilled Salmon 346,Greek,59,Easy
+347,Grilled Salmon 347,Italian,43,Medium
+348,Egg Fried Rice 348,Greek,40,Medium
+349,Tomato Pasta 349,Indian,58,Hard
+350,Chicken Alfredo 350,Mexican,87,Medium
+351,Beef Burger 351,Greek,44,Medium
+352,Lamb Stew 352,British,85,Medium
+353,BBQ Chicken 353,American,79,Hard
+354,Chicken Curry 354,British,101,Medium
+355,Chicken Alfredo 355,Greek,13,Easy
+356,Grilled Salmon 356,British,91,Hard
+357,Vegetable Curry 357,British,13,Hard
+358,Mushroom Risotto 358,Greek,33,Medium
+359,Vegetable Curry 359,Chinese,68,Easy
+360,Lamb Stew 360,Chinese,98,Medium
+361,Chicken Alfredo 361,Greek,12,Easy
+362,BBQ Chicken 362,Greek,24,Easy
+363,Grilled Salmon 363,Thai,13,Medium
+364,Chicken Curry 364,Thai,67,Hard
+365,Pasta Alfredo 365,Thai,28,Hard
+366,Chicken Curry 366,American,77,Easy
+367,Fish Tacos 367,British,91,Hard
+368,Grilled Salmon 368,American,80,Medium
+369,Beef Stir Fry 369,Italian,39,Easy
+370,Grilled Salmon 370,Greek,41,Hard
+371,Vegetable Soup 371,French,62,Hard
+372,Fried Rice 372,French,22,Hard
+373,Egg Fried Rice 373,American,78,Easy
+374,Chicken Alfredo 374,Mexican,57,Easy
+375,Tomato Pasta 375,Indian,98,Easy
+376,Egg Fried Rice 376,Indian,101,Hard
+377,BBQ Chicken 377,Chinese,54,Easy
+378,Garlic Noodles 378,British,39,Easy
+379,Vegetable Soup 379,Greek,37,Easy
+380,Pasta Alfredo 380,Japanese,74,Easy
+381,Lamb Stew 381,Chinese,64,Easy
+382,Lamb Stew 382,Chinese,106,Hard
+383,Vegetable Curry 383,Japanese,64,Hard
+384,Egg Fried Rice 384,Thai,59,Hard
+385,Beef Stir Fry 385,Greek,17,Hard
+386,Beef Burger 386,Chinese,46,Medium
+387,Fish Tacos 387,British,45,Easy
+388,Cheese Pizza 388,Greek,60,Hard
+389,Beef Stir Fry 389,French,18,Medium
+390,Cheese Pizza 390,American,30,Easy
+391,Fried Rice 391,French,85,Medium
+392,Chicken Curry 392,Mexican,53,Hard
+393,BBQ Chicken 393,French,48,Hard
+394,Chicken Curry 394,Thai,12,Easy
+395,Mushroom Risotto 395,Indian,90,Medium
+396,Lamb Stew 396,Chinese,95,Hard
+397,Egg Fried Rice 397,Indian,57,Medium
+398,Beef Stir Fry 398,Thai,22,Easy
+399,Fried Rice 399,Thai,106,Hard
+400,Fried Rice 400,Thai,60,Hard
+401,Cheese Pizza 401,French,103,Easy
+402,Mushroom Risotto 402,British,113,Medium
+403,BBQ Chicken 403,Italian,93,Medium
+404,Vegetable Curry 404,Chinese,112,Medium
+405,Vegetable Soup 405,Chinese,111,Medium
+406,Garlic Noodles 406,Thai,50,Hard
+407,Vegetable Curry 407,French,93,Hard
+408,Garlic Noodles 408,Italian,96,Hard
+409,Fish Tacos 409,Thai,15,Easy
+410,Fried Rice 410,Greek,34,Medium
+411,Pasta Alfredo 411,Italian,88,Easy
+412,Mushroom Risotto 412,Japanese,58,Easy
+413,Lamb Stew 413,Japanese,100,Medium
+414,Mushroom Risotto 414,Greek,61,Medium
+415,Lamb Stew 415,Indian,13,Easy
+416,Lamb Stew 416,Mexican,50,Hard
+417,Fried Rice 417,French,106,Easy
+418,Chicken Alfredo 418,Greek,63,Medium
+419,Vegetable Curry 419,American,16,Hard
+420,Chicken Curry 420,Indian,53,Hard
+421,Vegetable Soup 421,Greek,112,Hard
+422,Vegetable Curry 422,Indian,42,Hard
+423,BBQ Chicken 423,Thai,65,Medium
+424,Egg Fried Rice 424,American,40,Easy
+425,Tomato Pasta 425,British,18,Hard
+426,Tomato Pasta 426,American,79,Medium
+427,Chicken Alfredo 427,British,72,Medium
+428,Pasta Alfredo 428,Thai,84,Medium
+429,Garlic Noodles 429,Chinese,22,Easy
+430,Beef Burger 430,American,119,Medium
+431,Tomato Pasta 431,Chinese,25,Easy
+432,Vegetable Curry 432,French,93,Easy
+433,Fish Tacos 433,Indian,66,Hard
+434,Grilled Salmon 434,British,35,Hard
+435,Egg Fried Rice 435,French,118,Medium
+436,BBQ Chicken 436,French,20,Medium
+437,Garlic Noodles 437,Chinese,54,Hard
+438,Egg Fried Rice 438,French,72,Hard
+439,Mushroom Risotto 439,British,116,Easy
+440,Vegetable Soup 440,French,18,Easy
+441,Beef Stir Fry 441,Indian,67,Easy
+442,Lamb Stew 442,Indian,120,Medium
+443,Beef Burger 443,Japanese,75,Easy
+444,BBQ Chicken 444,Chinese,59,Hard
+445,Tomato Pasta 445,Greek,73,Hard
+446,Pasta Alfredo 446,Greek,97,Medium
+447,Lamb Stew 447,Italian,40,Medium
+448,BBQ Chicken 448,Italian,61,Easy
+449,Chicken Alfredo 449,French,109,Easy
+450,Garlic Noodles 450,Mexican,54,Easy
+451,Vegetable Soup 451,Chinese,33,Easy
+452,Grilled Salmon 452,Japanese,68,Medium
+453,Vegetable Curry 453,Thai,17,Medium
+454,Chicken Curry 454,Indian,10,Medium
+455,Fish Tacos 455,Indian,76,Easy
+456,Chicken Alfredo 456,Thai,58,Easy
+457,Vegetable Soup 457,American,88,Hard
+458,BBQ Chicken 458,Italian,34,Easy
+459,Cheese Pizza 459,Chinese,116,Easy
+460,Lamb Stew 460,Italian,57,Medium
+461,Cheese Pizza 461,British,29,Hard
+462,Beef Stir Fry 462,Chinese,119,Hard
+463,Chicken Curry 463,British,68,Hard
+464,Vegetable Curry 464,Japanese,95,Medium
+465,Vegetable Curry 465,French,20,Easy
+466,Tomato Pasta 466,Japanese,116,Easy
+467,BBQ Chicken 467,Italian,39,Hard
+468,Chicken Alfredo 468,Japanese,95,Hard
+469,Vegetable Soup 469,Italian,98,Easy
+470,Beef Stir Fry 470,Thai,24,Hard
+471,Beef Burger 471,British,89,Medium
+472,Grilled Salmon 472,Greek,36,Medium
+473,Lamb Stew 473,Japanese,90,Medium
+474,Cheese Pizza 474,Italian,110,Medium
+475,Chicken Alfredo 475,Mexican,25,Easy
+476,Fried Rice 476,British,37,Hard
+477,Egg Fried Rice 477,Chinese,26,Medium
+478,Beef Burger 478,Italian,23,Hard
+479,Fried Rice 479,French,35,Hard
+480,Beef Burger 480,Chinese,107,Easy
+481,Tomato Pasta 481,Chinese,116,Hard
+482,Grilled Salmon 482,French,15,Medium
+483,Pasta Alfredo 483,Greek,81,Hard
+484,Pasta Alfredo 484,Thai,37,Hard
+485,Chicken Alfredo 485,American,95,Hard
+486,Cheese Pizza 486,Greek,87,Medium
+487,Chicken Alfredo 487,Thai,53,Easy
+488,Mushroom Risotto 488,Greek,73,Medium
+489,Mushroom Risotto 489,French,46,Medium
+490,Chicken Curry 490,Thai,26,Hard
+491,Grilled Salmon 491,Japanese,62,Hard
+492,BBQ Chicken 492,Indian,68,Hard
+493,Grilled Salmon 493,Mexican,76,Hard
+494,Chicken Alfredo 494,American,13,Hard
+495,Fish Tacos 495,British,42,Medium
+496,Pasta Alfredo 496,Chinese,35,Easy
+497,Fried Rice 497,American,44,Medium
+498,Garlic Noodles 498,Thai,43,Hard
+499,Fried Rice 499,Italian,85,Medium
+500,Beef Stir Fry 500,American,26,Easy
+501,Beef Burger 501,French,50,Easy
+502,BBQ Chicken 502,American,59,Hard
+503,Fish Tacos 503,Mexican,70,Hard
+504,Vegetable Curry 504,British,61,Medium
+505,Chicken Curry 505,French,94,Medium
+506,Chicken Alfredo 506,French,36,Medium
+507,Lamb Stew 507,Chinese,83,Hard
+508,Beef Stir Fry 508,Italian,16,Medium
+509,Egg Fried Rice 509,Thai,25,Easy
+510,Beef Stir Fry 510,American,103,Medium
+511,Fish Tacos 511,Greek,21,Easy
+512,Egg Fried Rice 512,Thai,96,Medium
+513,Vegetable Soup 513,Greek,108,Easy
+514,Beef Burger 514,Indian,49,Medium
+515,Cheese Pizza 515,French,93,Easy
+516,Beef Burger 516,Mexican,11,Easy
+517,Beef Burger 517,Chinese,46,Hard
+518,Fish Tacos 518,French,22,Medium
+519,Mushroom Risotto 519,Thai,102,Easy
+520,Grilled Salmon 520,Thai,67,Medium
+521,Lamb Stew 521,Italian,101,Hard
+522,Vegetable Curry 522,British,54,Easy
+523,Tomato Pasta 523,Japanese,112,Medium
+524,Beef Burger 524,British,19,Easy
+525,Fried Rice 525,Mexican,49,Medium
+526,Mushroom Risotto 526,American,91,Hard
+527,Chicken Curry 527,British,51,Hard
+528,Beef Burger 528,Greek,16,Easy
+529,Fried Rice 529,Thai,13,Medium
+530,Chicken Curry 530,Thai,52,Hard
+531,Cheese Pizza 531,Japanese,59,Medium
+532,Egg Fried Rice 532,Italian,78,Hard
+533,Vegetable Soup 533,Indian,63,Easy
+534,Garlic Noodles 534,Italian,103,Hard
+535,Fried Rice 535,Japanese,34,Medium
+536,Mushroom Risotto 536,Indian,40,Hard
+537,Chicken Alfredo 537,British,59,Easy
+538,Cheese Pizza 538,Greek,32,Medium
+539,Garlic Noodles 539,Italian,20,Medium
+540,Fried Rice 540,Italian,36,Medium
+541,Fish Tacos 541,Chinese,35,Medium
+542,Pasta Alfredo 542,Indian,93,Medium
+543,BBQ Chicken 543,Japanese,35,Easy
+544,Chicken Curry 544,Chinese,16,Easy
+545,BBQ Chicken 545,Greek,13,Hard
+546,Beef Stir Fry 546,Greek,31,Medium
+547,Fish Tacos 547,Japanese,90,Easy
+548,Garlic Noodles 548,Chinese,13,Hard
+549,Lamb Stew 549,Greek,21,Easy
+550,Pasta Alfredo 550,British,86,Hard
+551,Pasta Alfredo 551,Italian,53,Hard
+552,Vegetable Soup 552,Japanese,61,Hard
+553,Tomato Pasta 553,French,62,Medium
+554,BBQ Chicken 554,Greek,19,Medium
+555,Tomato Pasta 555,Thai,96,Hard
+556,Mushroom Risotto 556,Greek,104,Medium
+557,Garlic Noodles 557,British,84,Hard
+558,Fried Rice 558,Italian,13,Medium
+559,Tomato Pasta 559,American,87,Hard
+560,Vegetable Curry 560,British,71,Hard
+561,Egg Fried Rice 561,Thai,54,Medium
+562,Beef Stir Fry 562,British,46,Hard
+563,Vegetable Soup 563,British,106,Hard
+564,Fish Tacos 564,British,30,Easy
+565,Chicken Curry 565,Italian,56,Hard
+566,Mushroom Risotto 566,Indian,99,Hard
+567,Beef Stir Fry 567,Chinese,108,Easy
+568,Lamb Stew 568,Mexican,69,Hard
+569,Garlic Noodles 569,Greek,71,Easy
+570,Lamb Stew 570,Indian,74,Easy
+571,Garlic Noodles 571,Japanese,86,Easy
+572,BBQ Chicken 572,French,54,Medium
+573,Vegetable Soup 573,Greek,119,Hard
+574,Tomato Pasta 574,Italian,75,Easy
+575,Pasta Alfredo 575,Japanese,42,Easy
+576,Lamb Stew 576,Thai,55,Hard
+577,Vegetable Curry 577,Italian,108,Easy
+578,Vegetable Curry 578,Mexican,99,Hard
+579,Vegetable Soup 579,Indian,86,Easy
+580,Beef Burger 580,Indian,82,Hard
+581,Lamb Stew 581,Mexican,108,Hard
+582,Pasta Alfredo 582,Chinese,60,Medium
+583,Pasta Alfredo 583,American,69,Hard
+584,Beef Burger 584,Italian,54,Hard
+585,Garlic Noodles 585,Mexican,70,Hard
+586,Vegetable Curry 586,Chinese,60,Hard
+587,BBQ Chicken 587,Greek,20,Medium
+588,Garlic Noodles 588,Chinese,82,Medium
+589,Fried Rice 589,Thai,45,Hard
+590,Mushroom Risotto 590,Mexican,28,Easy
+591,Pasta Alfredo 591,American,14,Hard
+592,Fried Rice 592,Japanese,77,Hard
+593,Cheese Pizza 593,Greek,63,Medium
+594,Lamb Stew 594,Thai,26,Easy
+595,Vegetable Curry 595,French,26,Medium
+596,Lamb Stew 596,Thai,35,Hard
+597,Vegetable Curry 597,Indian,19,Hard
+598,Beef Stir Fry 598,French,108,Hard
+599,Fish Tacos 599,Greek,80,Medium
+600,Beef Burger 600,British,34,Easy
+601,Lamb Stew 601,Greek,77,Medium
+602,Beef Burger 602,Mexican,114,Easy
+603,Garlic Noodles 603,Japanese,48,Easy
+604,Fish Tacos 604,Chinese,12,Hard
+605,Lamb Stew 605,American,93,Hard
+606,Grilled Salmon 606,American,20,Medium
+607,Garlic Noodles 607,Japanese,42,Medium
+608,Fried Rice 608,Chinese,65,Hard
+609,Fish Tacos 609,Italian,59,Medium
+610,Pasta Alfredo 610,American,90,Hard
+611,Pasta Alfredo 611,Chinese,74,Medium
+612,Lamb Stew 612,Greek,75,Medium
+613,Vegetable Soup 613,Italian,32,Medium
+614,Beef Burger 614,Italian,41,Easy
+615,Fried Rice 615,Japanese,108,Medium
+616,Chicken Alfredo 616,Mexican,113,Easy
+617,Beef Stir Fry 617,American,41,Hard
+618,Cheese Pizza 618,French,108,Medium
+619,BBQ Chicken 619,British,42,Hard
+620,Fish Tacos 620,Chinese,72,Medium
+621,Cheese Pizza 621,Indian,120,Easy
+622,Vegetable Soup 622,British,58,Easy
+623,Tomato Pasta 623,Japanese,80,Easy
+624,Egg Fried Rice 624,British,42,Easy
+625,Tomato Pasta 625,Indian,99,Easy
+626,Pasta Alfredo 626,French,48,Easy
+627,Tomato Pasta 627,Italian,12,Hard
+628,Vegetable Curry 628,Mexican,111,Easy
+629,Vegetable Curry 629,Mexican,14,Medium
+630,Chicken Curry 630,British,102,Easy
+631,Cheese Pizza 631,Indian,48,Medium
+632,Grilled Salmon 632,British,89,Easy
+633,Cheese Pizza 633,Mexican,59,Medium
+634,Fish Tacos 634,Indian,98,Medium
+635,Lamb Stew 635,Mexican,44,Medium
+636,Pasta Alfredo 636,Greek,51,Easy
+637,Tomato Pasta 637,Chinese,58,Medium
+638,Fish Tacos 638,Italian,67,Easy
+639,Beef Stir Fry 639,Italian,97,Medium
+640,Beef Burger 640,British,24,Medium
+641,Chicken Alfredo 641,Indian,119,Hard
+642,Lamb Stew 642,French,87,Hard
+643,Cheese Pizza 643,Greek,73,Medium
+644,Lamb Stew 644,American,74,Easy
+645,BBQ Chicken 645,Mexican,52,Hard
+646,Fish Tacos 646,Mexican,112,Easy
+647,BBQ Chicken 647,Italian,87,Medium
+648,Grilled Salmon 648,Italian,31,Medium
+649,Chicken Alfredo 649,Chinese,55,Medium
+650,Lamb Stew 650,Japanese,39,Medium
+651,Grilled Salmon 651,Indian,103,Easy
+652,Fish Tacos 652,Indian,48,Hard
+653,Grilled Salmon 653,Thai,43,Medium
+654,Pasta Alfredo 654,Chinese,86,Medium
+655,Pasta Alfredo 655,Japanese,17,Medium
+656,Chicken Alfredo 656,British,111,Medium
+657,Vegetable Soup 657,Chinese,36,Medium
+658,Beef Burger 658,French,86,Medium
+659,Chicken Curry 659,British,30,Medium
+660,Lamb Stew 660,Mexican,108,Hard
+661,Grilled Salmon 661,British,94,Medium
+662,Pasta Alfredo 662,Greek,85,Easy
+663,Cheese Pizza 663,Indian,55,Easy
+664,Grilled Salmon 664,Japanese,42,Hard
+665,Fried Rice 665,Greek,117,Medium
+666,Tomato Pasta 666,Indian,87,Hard
+667,Chicken Curry 667,Mexican,14,Easy
+668,Vegetable Soup 668,Japanese,108,Medium
+669,Beef Burger 669,American,40,Hard
+670,BBQ Chicken 670,Indian,70,Easy
+671,Mushroom Risotto 671,French,64,Easy
+672,Chicken Alfredo 672,American,16,Easy
+673,Egg Fried Rice 673,Greek,38,Medium
+674,Beef Stir Fry 674,Indian,19,Medium
+675,Fish Tacos 675,Chinese,30,Hard
+676,Chicken Alfredo 676,French,41,Easy
+677,BBQ Chicken 677,Italian,11,Hard
+678,Fish Tacos 678,Thai,95,Hard
+679,Vegetable Curry 679,Mexican,72,Easy
+680,Pasta Alfredo 680,American,40,Hard
+681,Garlic Noodles 681,British,71,Medium
+682,Grilled Salmon 682,Italian,61,Easy
+683,Garlic Noodles 683,American,76,Easy
+684,Mushroom Risotto 684,Greek,56,Easy
+685,BBQ Chicken 685,British,79,Easy
+686,Pasta Alfredo 686,Mexican,69,Easy
+687,Fish Tacos 687,Thai,29,Medium
+688,Vegetable Soup 688,Japanese,30,Medium
+689,Grilled Salmon 689,Mexican,111,Hard
+690,Beef Burger 690,French,62,Easy
+691,BBQ Chicken 691,American,94,Medium
+692,Vegetable Curry 692,Greek,13,Medium
+693,Fried Rice 693,British,27,Medium
+694,Garlic Noodles 694,Greek,36,Hard
+695,Chicken Alfredo 695,Indian,32,Medium
+696,Fried Rice 696,British,82,Medium
+697,Chicken Alfredo 697,British,69,Medium
+698,Vegetable Soup 698,British,17,Easy
+699,Grilled Salmon 699,French,11,Hard
+700,Beef Burger 700,Japanese,15,Hard
+701,Chicken Alfredo 701,Greek,56,Hard
+702,Chicken Curry 702,American,11,Easy
+703,Mushroom Risotto 703,Thai,49,Easy
+704,Egg Fried Rice 704,Japanese,84,Hard
+705,Lamb Stew 705,Mexican,44,Medium
+706,Chicken Curry 706,Japanese,105,Medium
+707,Egg Fried Rice 707,Chinese,116,Easy
+708,Pasta Alfredo 708,Indian,93,Medium
+709,Fish Tacos 709,American,90,Hard
+710,Chicken Alfredo 710,Chinese,66,Medium
+711,Beef Stir Fry 711,Mexican,74,Easy
+712,Pasta Alfredo 712,British,106,Medium
+713,Vegetable Curry 713,Indian,48,Easy
+714,Mushroom Risotto 714,Greek,41,Hard
+715,Mushroom Risotto 715,French,18,Easy
+716,Chicken Alfredo 716,French,10,Hard
+717,Beef Burger 717,Italian,85,Easy
+718,Egg Fried Rice 718,Italian,80,Hard
+719,Mushroom Risotto 719,Chinese,50,Medium
+720,Garlic Noodles 720,Japanese,41,Hard
+721,Chicken Alfredo 721,French,57,Hard
+722,Tomato Pasta 722,Greek,50,Hard
+723,Grilled Salmon 723,Japanese,53,Medium
+724,Vegetable Soup 724,Indian,85,Easy
+725,Cheese Pizza 725,British,119,Easy
+726,Chicken Curry 726,Chinese,78,Medium
+727,Cheese Pizza 727,Greek,92,Easy
+728,Mushroom Risotto 728,Greek,46,Easy
+729,Cheese Pizza 729,British,106,Medium
+730,Chicken Alfredo 730,Greek,58,Medium
+731,Tomato Pasta 731,French,56,Medium
+732,Egg Fried Rice 732,Chinese,85,Easy
+733,Cheese Pizza 733,Mexican,115,Medium
+734,Fried Rice 734,Japanese,104,Hard
+735,Grilled Salmon 735,Chinese,97,Medium
+736,Cheese Pizza 736,American,75,Medium
+737,Mushroom Risotto 737,American,13,Hard
+738,Pasta Alfredo 738,Indian,84,Easy
+739,Beef Stir Fry 739,French,62,Hard
+740,BBQ Chicken 740,Thai,97,Medium
+741,Garlic Noodles 741,Indian,74,Easy
+742,Garlic Noodles 742,Greek,44,Easy
+743,Chicken Curry 743,Mexican,49,Easy
+744,Cheese Pizza 744,Italian,31,Medium
+745,BBQ Chicken 745,British,80,Easy
+746,BBQ Chicken 746,Chinese,69,Easy
+747,Cheese Pizza 747,Thai,88,Hard
+748,Grilled Salmon 748,American,63,Easy
+749,Grilled Salmon 749,Japanese,90,Hard
+750,Egg Fried Rice 750,Indian,54,Easy
+751,Mushroom Risotto 751,Thai,90,Easy
+752,Vegetable Soup 752,Mexican,33,Hard
+753,Chicken Alfredo 753,Mexican,84,Hard
+754,Cheese Pizza 754,American,21,Hard
+755,Vegetable Soup 755,Italian,60,Hard
+756,Chicken Curry 756,French,30,Medium
+757,Vegetable Curry 757,American,14,Medium
+758,Chicken Curry 758,Japanese,14,Medium
+759,Egg Fried Rice 759,French,97,Medium
+760,Beef Burger 760,Chinese,92,Easy
+761,Fish Tacos 761,Chinese,119,Hard
+762,Vegetable Curry 762,Italian,45,Medium
+763,Grilled Salmon 763,Thai,120,Medium
+764,Cheese Pizza 764,Italian,14,Easy
+765,Fried Rice 765,Japanese,72,Hard
+766,Beef Burger 766,Thai,43,Medium
+767,Grilled Salmon 767,French,65,Easy
+768,Cheese Pizza 768,British,39,Hard
+769,Tomato Pasta 769,Chinese,27,Medium
+770,Egg Fried Rice 770,British,86,Medium
+771,BBQ Chicken 771,Thai,103,Medium
+772,Chicken Alfredo 772,Greek,76,Medium
+773,Vegetable Soup 773,Japanese,51,Easy
+774,Beef Stir Fry 774,Mexican,12,Easy
+775,Garlic Noodles 775,Italian,104,Hard
+776,Pasta Alfredo 776,Japanese,56,Easy
+777,Fried Rice 777,Thai,95,Easy
+778,Vegetable Soup 778,Thai,119,Hard
+779,Egg Fried Rice 779,Chinese,75,Easy
+780,Vegetable Curry 780,British,87,Hard
+781,Fried Rice 781,Mexican,96,Medium
+782,Egg Fried Rice 782,American,74,Easy
+783,Mushroom Risotto 783,Indian,28,Medium
+784,BBQ Chicken 784,Indian,114,Hard
+785,Chicken Curry 785,French,119,Easy
+786,Mushroom Risotto 786,Italian,95,Easy
+787,Pasta Alfredo 787,Mexican,47,Easy
+788,Chicken Alfredo 788,Mexican,107,Hard
+789,Pasta Alfredo 789,Thai,40,Hard
+790,Grilled Salmon 790,Greek,25,Medium
+791,Grilled Salmon 791,Indian,15,Medium
+792,Fish Tacos 792,Mexican,111,Easy
+793,Mushroom Risotto 793,Japanese,27,Medium
+794,Egg Fried Rice 794,American,37,Easy
+795,Vegetable Soup 795,British,94,Hard
+796,Vegetable Curry 796,Chinese,45,Medium
+797,Beef Burger 797,French,72,Hard
+798,Egg Fried Rice 798,Japanese,84,Medium
+799,Fish Tacos 799,Thai,64,Medium
+800,Beef Stir Fry 800,Greek,84,Medium
+801,Mushroom Risotto 801,Indian,73,Medium
+802,Lamb Stew 802,Japanese,11,Easy
+803,Chicken Alfredo 803,British,11,Medium
+804,Tomato Pasta 804,French,69,Medium
+805,Vegetable Soup 805,Mexican,37,Medium
+806,Fried Rice 806,Italian,29,Easy
+807,Egg Fried Rice 807,Greek,61,Medium
+808,Garlic Noodles 808,Greek,36,Hard
+809,Pasta Alfredo 809,Thai,15,Medium
+810,BBQ Chicken 810,Thai,31,Easy
+811,Fish Tacos 811,French,31,Medium
+812,Fish Tacos 812,Indian,25,Medium
+813,Cheese Pizza 813,American,79,Easy
+814,Beef Stir Fry 814,French,77,Hard
+815,Fish Tacos 815,Indian,40,Easy
+816,Cheese Pizza 816,Mexican,85,Medium
+817,Vegetable Soup 817,Mexican,103,Medium
+818,Pasta Alfredo 818,Italian,40,Medium
+819,Grilled Salmon 819,Mexican,38,Hard
+820,Beef Stir Fry 820,French,13,Hard
+821,Chicken Curry 821,American,114,Hard
+822,BBQ Chicken 822,Chinese,15,Easy
+823,Egg Fried Rice 823,Mexican,46,Medium
+824,Chicken Alfredo 824,Greek,56,Hard
+825,Chicken Curry 825,Italian,85,Easy
+826,Fish Tacos 826,Japanese,24,Hard
+827,Chicken Alfredo 827,Indian,79,Medium
+828,Mushroom Risotto 828,American,81,Medium
+829,Lamb Stew 829,French,73,Medium
+830,Fried Rice 830,Thai,21,Medium
+831,Vegetable Curry 831,American,55,Easy
+832,Pasta Alfredo 832,Mexican,100,Easy
+833,Chicken Alfredo 833,Chinese,117,Easy
+834,Fish Tacos 834,Indian,89,Easy
+835,Garlic Noodles 835,Mexican,80,Hard
+836,Mushroom Risotto 836,American,106,Medium
+837,Chicken Curry 837,Italian,119,Hard
+838,Vegetable Curry 838,Greek,104,Easy
+839,Cheese Pizza 839,Mexican,103,Easy
+840,Fish Tacos 840,Chinese,70,Hard
+841,Pasta Alfredo 841,Italian,84,Hard
+842,BBQ Chicken 842,Italian,104,Medium
+843,Beef Stir Fry 843,Mexican,97,Easy
+844,Vegetable Curry 844,British,89,Medium
+845,Chicken Alfredo 845,Mexican,20,Easy
+846,Chicken Alfredo 846,British,88,Hard
+847,Vegetable Curry 847,Indian,14,Hard
+848,Mushroom Risotto 848,Mexican,51,Easy
+849,Vegetable Soup 849,American,54,Hard
+850,Pasta Alfredo 850,French,60,Medium
+851,Grilled Salmon 851,British,101,Easy
+852,Pasta Alfredo 852,Mexican,66,Medium
+853,Garlic Noodles 853,French,94,Hard
+854,Pasta Alfredo 854,Chinese,20,Medium
+855,Beef Burger 855,Mexican,24,Hard
+856,Chicken Curry 856,Greek,80,Easy
+857,Garlic Noodles 857,Thai,54,Easy
+858,Vegetable Curry 858,American,14,Easy
+859,Beef Stir Fry 859,Japanese,80,Medium
+860,Garlic Noodles 860,French,96,Hard
+861,Vegetable Soup 861,Thai,28,Hard
+862,Cheese Pizza 862,French,105,Easy
+863,Pasta Alfredo 863,Indian,113,Medium
+864,Cheese Pizza 864,Thai,93,Hard
+865,Tomato Pasta 865,Indian,23,Hard
+866,Fish Tacos 866,Indian,108,Easy
+867,BBQ Chicken 867,Japanese,79,Hard
+868,Grilled Salmon 868,American,96,Medium
+869,Tomato Pasta 869,French,19,Medium
+870,Tomato Pasta 870,French,58,Medium
+871,Grilled Salmon 871,Mexican,30,Hard
+872,Tomato Pasta 872,Japanese,18,Hard
+873,Fried Rice 873,Japanese,13,Medium
+874,Beef Stir Fry 874,French,50,Hard
+875,BBQ Chicken 875,French,119,Medium
+876,Mushroom Risotto 876,British,117,Hard
+877,Fried Rice 877,British,80,Medium
+878,Beef Stir Fry 878,Thai,62,Hard
+879,Fried Rice 879,Mexican,71,Hard
+880,Beef Stir Fry 880,American,109,Medium
+881,BBQ Chicken 881,French,87,Easy
+882,Egg Fried Rice 882,Indian,68,Easy
+883,Grilled Salmon 883,French,87,Easy
+884,Fish Tacos 884,Mexican,115,Easy
+885,Chicken Alfredo 885,Japanese,18,Medium
+886,Beef Stir Fry 886,Greek,54,Easy
+887,Tomato Pasta 887,Italian,93,Medium
+888,Tomato Pasta 888,Italian,83,Easy
+889,Pasta Alfredo 889,French,104,Medium
+890,Chicken Alfredo 890,Greek,93,Hard
+891,Vegetable Curry 891,American,99,Easy
+892,Cheese Pizza 892,Indian,90,Medium
+893,Pasta Alfredo 893,British,100,Hard
+894,Pasta Alfredo 894,Indian,94,Hard
+895,Grilled Salmon 895,Chinese,47,Hard
+896,BBQ Chicken 896,Italian,99,Hard
+897,BBQ Chicken 897,Greek,20,Medium
+898,Vegetable Soup 898,Thai,85,Easy
+899,Fried Rice 899,Mexican,49,Medium
+900,Vegetable Soup 900,Mexican,102,Easy
+901,Tomato Pasta 901,Thai,14,Medium
+902,Beef Stir Fry 902,American,104,Easy
+903,Cheese Pizza 903,Mexican,112,Hard
+904,Egg Fried Rice 904,Indian,54,Medium
+905,Cheese Pizza 905,French,64,Hard
+906,Pasta Alfredo 906,French,117,Easy
+907,Fried Rice 907,French,25,Easy
+908,Lamb Stew 908,Chinese,114,Easy
+909,Garlic Noodles 909,Italian,45,Easy
+910,BBQ Chicken 910,Indian,25,Easy
+911,Chicken Alfredo 911,American,23,Hard
+912,Pasta Alfredo 912,French,76,Hard
+913,Vegetable Soup 913,American,84,Hard
+914,Egg Fried Rice 914,American,111,Easy
+915,Vegetable Curry 915,Chinese,94,Hard
+916,Chicken Alfredo 916,American,119,Easy
+917,Egg Fried Rice 917,Thai,61,Easy
+918,Mushroom Risotto 918,Italian,38,Hard
+919,Vegetable Curry 919,British,108,Hard
+920,BBQ Chicken 920,Greek,116,Medium
+921,Fish Tacos 921,Italian,105,Medium
+922,Egg Fried Rice 922,Mexican,93,Medium
+923,Fish Tacos 923,Indian,50,Medium
+924,Vegetable Curry 924,Mexican,39,Easy
+925,Lamb Stew 925,Greek,67,Hard
+926,Pasta Alfredo 926,Indian,97,Medium
+927,Garlic Noodles 927,Italian,118,Medium
+928,Garlic Noodles 928,Thai,28,Medium
+929,Pasta Alfredo 929,Italian,76,Medium
+930,Pasta Alfredo 930,Indian,12,Hard
+931,Mushroom Risotto 931,Greek,15,Easy
+932,Fried Rice 932,French,42,Medium
+933,Egg Fried Rice 933,American,112,Hard
+934,Lamb Stew 934,Mexican,94,Hard
+935,Cheese Pizza 935,Mexican,10,Medium
+936,Vegetable Soup 936,British,64,Easy
+937,Grilled Salmon 937,Mexican,69,Hard
+938,Cheese Pizza 938,Mexican,106,Hard
+939,Fried Rice 939,Japanese,64,Easy
+940,Beef Stir Fry 940,Chinese,42,Easy
+941,Egg Fried Rice 941,Indian,44,Medium
+942,Vegetable Soup 942,French,100,Hard
+943,Grilled Salmon 943,Italian,70,Medium
+944,Pasta Alfredo 944,British,43,Easy
+945,Tomato Pasta 945,British,20,Easy
+946,Vegetable Soup 946,Greek,55,Easy
+947,Tomato Pasta 947,French,51,Medium
+948,BBQ Chicken 948,Thai,109,Medium
+949,Fish Tacos 949,Mexican,55,Easy
+950,Egg Fried Rice 950,Japanese,14,Medium
+951,Vegetable Soup 951,British,80,Hard
+952,Mushroom Risotto 952,Chinese,57,Hard
+953,Pasta Alfredo 953,French,117,Hard
+954,Grilled Salmon 954,Japanese,50,Hard
+955,Beef Burger 955,Chinese,43,Hard
+956,Beef Stir Fry 956,Indian,116,Easy
+957,Vegetable Soup 957,Indian,23,Medium
+958,Beef Burger 958,Italian,72,Medium
+959,Beef Stir Fry 959,Mexican,84,Easy
+960,Tomato Pasta 960,British,42,Medium
+961,Vegetable Curry 961,Indian,78,Easy
+962,Egg Fried Rice 962,Mexican,10,Medium
+963,Grilled Salmon 963,Italian,31,Hard
+964,Grilled Salmon 964,American,25,Hard
+965,Chicken Curry 965,Thai,28,Easy
+966,Grilled Salmon 966,Italian,54,Easy
+967,Lamb Stew 967,Thai,90,Easy
+968,Chicken Curry 968,American,82,Easy
+969,Fish Tacos 969,French,112,Medium
+970,Grilled Salmon 970,Greek,68,Medium
+971,Garlic Noodles 971,Italian,112,Hard
+972,Chicken Alfredo 972,American,99,Easy
+973,Egg Fried Rice 973,Greek,13,Hard
+974,Cheese Pizza 974,American,80,Easy
+975,Garlic Noodles 975,Mexican,32,Medium
+976,Tomato Pasta 976,American,22,Easy
+977,Cheese Pizza 977,Greek,28,Hard
+978,Beef Stir Fry 978,Greek,36,Medium
+979,Vegetable Soup 979,Chinese,91,Medium
+980,Tomato Pasta 980,Japanese,32,Hard
+981,BBQ Chicken 981,Indian,105,Easy
+982,Garlic Noodles 982,Japanese,18,Hard
+983,Beef Stir Fry 983,British,98,Medium
+984,Lamb Stew 984,Japanese,106,Easy
+985,Fried Rice 985,Japanese,90,Hard
+986,BBQ Chicken 986,American,11,Hard
+987,Beef Burger 987,Chinese,106,Medium
+988,Beef Stir Fry 988,Italian,107,Hard
+989,Vegetable Soup 989,French,107,Hard
+990,Vegetable Curry 990,British,81,Easy
+991,Lamb Stew 991,Japanese,70,Hard
+992,Tomato Pasta 992,British,69,Hard
+993,Vegetable Soup 993,French,37,Medium
+994,BBQ Chicken 994,Japanese,20,Medium
+995,Tomato Pasta 995,American,47,Easy
+996,Mushroom Risotto 996,Italian,21,Hard
+997,Tomato Pasta 997,Chinese,34,Easy
+998,Beef Stir Fry 998,Mexican,71,Hard
+999,Chicken Alfredo 999,Japanese,78,Hard
+1000,Grilled Salmon 1000,British,71,Hard

@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Recipes by Cuisine</h2>
+
+<p>
+Click a cuisine to view all recipes from that country/style.
+</p>
+
+<table>
+
+<tr>
+    <th>Cuisine</th>
+    <th>Total Recipes</th>
+</tr>
+
+{% for row in stats %}
+
+<tr>
+
+<td>
+<a href="/cuisine/{{ row[0] }}">
+{{ row[0] }}
+</a>
+</td>
+
+<td>{{ row[1] }}</td>
+
+</tr>
+
+{% endfor %}
+
+</table>
+
+{% endblock %}

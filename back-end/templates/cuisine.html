@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>{{ cuisine }} Recipes</h2>
+
+<p>
+Showing all recipes from {{ cuisine }} cuisine.
+</p>
+
+<table>
+
+<tr>
+    <th>Recipe</th>
+    <th>Cooking Time</th>
+    <th>Difficulty</th>
+</tr>
+
+{% for recipe in recipes %}
+
+<tr>
+
+<td>
+<a href="/recipe/{{ recipe[0] }}">
+{{ recipe[1] }}
+</a>
+</td>
+
+<td>{{ recipe[3] }} mins</td>
+<td>{{ recipe[4] }}</td>
+
+</tr>
+
+{% endfor %}
+
+</table>
+
+{% endblock %}

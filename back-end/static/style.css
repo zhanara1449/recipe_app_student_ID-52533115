@@ -1,0 +1,82 @@
+body {
+
+h1 {
+    color: darkred;
+}
+
+h2 {
+    color: #333;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: darkred;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.search-form {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.search-form label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.search-form input,
+.search-form select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+.search-form button {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: darkred;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.search-form button:hover {
+    background-color: red;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: darkred;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+a {
+    color: darkred;
+}
