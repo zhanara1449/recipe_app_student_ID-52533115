@@ -1,7 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
+   font-family: Arial, sans-serif;
     background-color: #f8f8f8;
     margin: 20px;
+
+    padding-bottom: 80px;
 }
 
 h1 {
@@ -83,4 +85,16 @@ tr:nth-child(even) {
 
 a {
     color: darkred;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+
+    background-color: darkred;
+    color: white;
+
+    text-align: center;
+    padding: 5px;
 }

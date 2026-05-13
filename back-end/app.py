@@ -6,16 +6,16 @@ app = Flask(__name__)
 def get_db():
     return sqlite3.connect("database.db")
 
-# --------------------------
+
 # Homepage
-# --------------------------
+
 @app.route("/")
 def home():
     return render_template("index.html")
 
-# --------------------------
+
 # Search recipes
-# --------------------------
+
 @app.route("/search", methods=["GET", "POST"])
 def search():
 
@@ -52,6 +52,8 @@ def search():
     cur.execute(query, params)
 
     results = cur.fetchall()
+    
+    
 
     conn.close()
 
@@ -60,25 +62,28 @@ def search():
         results=results
     )
 
-# --------------------------
+
 # Recipe details
-# --------------------------
+
 @app.route("/recipe/<int:id>")
 def recipe_detail(id):
 
     conn = get_db()
     cur = conn.cursor()
 
-    # Get recipe
+  
     cur.execute("""
         SELECT *
         FROM recipes
         WHERE recipe_id = ?
     """, (id,))
 
+  
     recipe = cur.fetchone()
+    
+    
 
-    # Get ingredients
+    
     cur.execute("""
         SELECT ingredient_name, quantity, unit
         FROM ingredients
@@ -95,9 +100,9 @@ def recipe_detail(id):
         ingredients=ingredients
     )
 
-# --------------------------
+
 # Statistics page
-# --------------------------
+
 @app.route("/stats")
 def stats():
 
@@ -119,9 +124,8 @@ def stats():
         stats=stats
     )
 
-# --------------------------# --------------------------
 # Cuisine page
-# --------------------------
+
 @app.route("/cuisine/<cuisine>")
 def cuisine_page(cuisine):
 
@@ -136,6 +140,7 @@ def cuisine_page(cuisine):
     """, (cuisine,))
 
     recipes = cur.fetchall()
+    
 
     conn.close()
 
@@ -146,7 +151,14 @@ def cuisine_page(cuisine):
     )
 
 
+# 404 Error Handler
+
+@app.errorhandler(404)
+def page_not_found(error):
+
+    return render_template("error.html"), 404
+
 # Run Flask
-# --------------------------
+
 if __name__ == "__main__":
     app.run(debug=True)

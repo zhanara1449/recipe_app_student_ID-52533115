@@ -4,9 +4,7 @@ import csv
 conn = sqlite3.connect("database.db")
 cur = conn.cursor()
 
-# --------------------------------
-# Create recipes table
-# --------------------------------
+
 cur.execute("""
 CREATE TABLE IF NOT EXISTS recipes (
     recipe_id INTEGER PRIMARY KEY,
@@ -17,9 +15,6 @@ CREATE TABLE IF NOT EXISTS recipes (
 )
 """)
 
-# --------------------------------
-# Create ingredients table
-# --------------------------------
 cur.execute("""
 CREATE TABLE IF NOT EXISTS ingredients (
     ingredient_id INTEGER PRIMARY KEY,
@@ -31,9 +26,7 @@ CREATE TABLE IF NOT EXISTS ingredients (
 )
 """)
 
-# --------------------------------
-# Insert recipes
-# --------------------------------
+
 with open("recipes.csv", newline='', encoding='utf-8') as file:
     reader = csv.DictReader(file)
 
@@ -49,9 +42,7 @@ with open("recipes.csv", newline='', encoding='utf-8') as file:
             row["difficulty"]
         ))
 
-# --------------------------------
-# Insert ingredients
-# --------------------------------
+
 with open("ingredients.csv", newline='', encoding='utf-8') as file:
     reader = csv.DictReader(file)
 

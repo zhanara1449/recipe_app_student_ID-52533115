@@ -62,5 +62,11 @@
 
 </table>
 
+{% if results|length == 0 %}
+
+<p>No recipes found.</p>
+
+{% endif %}
+
 {% endblock %}
 
