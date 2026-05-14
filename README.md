@@ -59,3 +59,4 @@ In terminal after cloning:
 
 # How to open page 
 URL https://recipe-app-student-id-52533115-3.onrender.com 
+Git-hub https://github.com/zhanara1449/recipe_app_student_ID-52533115.git  
