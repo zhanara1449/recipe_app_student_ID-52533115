@@ -56,3 +56,6 @@ In terminal after cloning:
 - python manage.py test  
 - python -m flask --app app run 
 
+
+# How to open page 
+URL https://recipe-app-student-id-52533115-3.onrender.com 
